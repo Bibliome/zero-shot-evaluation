@@ -1,0 +1,96 @@
+[
+    [
+        "Has been found on",
+        [
+            "tr4",
+            "foc tr4"
+        ],
+        [
+            "variety banana",
+            "banana"
+        ]
+    ],
+    [
+        "Affects",
+        [
+            "fusarium wilt"
+        ],
+        [
+            "variety banana",
+            "banana"
+        ]
+    ],
+    [
+        "Has been found on",
+        [
+            "tr4",
+            "foc tr4"
+        ],
+        [
+            "cavendish banana plants",
+            "cavendish",
+            "cavendish banana variety"
+        ]
+    ],
+    [
+        "Located in",
+        [
+            "cavendish banana plants",
+            "cavendish",
+            "cavendish banana variety"
+        ],
+        [
+            "colombia"
+        ]
+    ],
+    [
+        "Causes",
+        [
+            "tr4",
+            "foc tr4"
+        ],
+        [
+            "fusarium wilt"
+        ]
+    ],
+    [
+        "Located in",
+        [
+            "tr4",
+            "foc tr4"
+        ],
+        [
+            "colombia"
+        ]
+    ],
+    [
+        "Located in",
+        [
+            "panama disease"
+        ],
+        [
+            "colombia"
+        ]
+    ],
+    [
+        "Causes",
+        [
+            "tr4",
+            "foc tr4"
+        ],
+        [
+            "panama disease"
+        ]
+    ],
+    [
+        "Affects",
+        [
+            "panama disease"
+        ],
+        [
+            "cavendish banana plants",
+            "cavendish",
+            "cavendish banana variety"
+        ]
+    ]
+]

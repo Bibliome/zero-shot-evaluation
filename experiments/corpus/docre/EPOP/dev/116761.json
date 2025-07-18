@@ -1,0 +1,56 @@
+[
+    [
+        "Causes",
+        [
+            "fusarium oxysporum f. sp. cubense tropical race 4",
+            "fusarium oxysporum f.sp. cubense tropical race 4",
+            "foctr4"
+        ],
+        [
+            "panama disease"
+        ]
+    ],
+    [
+        "Has been found on",
+        [
+            "fusarium oxysporum f. sp. cubense tropical race 4",
+            "fusarium oxysporum f.sp. cubense tropical race 4",
+            "foctr4"
+        ],
+        [
+            "banana",
+            "bananas"
+        ]
+    ],
+    [
+        "Causes",
+        [
+            "fusarium oxysporum f. sp. cubense tropical race 4",
+            "fusarium oxysporum f.sp. cubense tropical race 4",
+            "foctr4"
+        ],
+        [
+            "banana panama disease"
+        ]
+    ],
+    [
+        "Affects",
+        [
+            "panama disease"
+        ],
+        [
+            "banana",
+            "bananas"
+        ]
+    ],
+    [
+        "Affects",
+        [
+            "banana panama disease"
+        ],
+        [
+            "banana",
+            "bananas"
+        ]
+    ]
+]

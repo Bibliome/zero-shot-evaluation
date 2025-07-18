@@ -1,0 +1,65 @@
+[
+    [
+        "Has been found on",
+        [
+            "candidatus phytoplasma vitis"
+        ],
+        [
+            "vine",
+            "grape vine",
+            "vineyard"
+        ]
+    ],
+    [
+        "Transmits",
+        [
+            "scaphoideus titanus ball"
+        ],
+        [
+            "candidatus phytoplasma vitis"
+        ]
+    ],
+    [
+        "Has been found on",
+        [
+            "scaphoideus titanus ball"
+        ],
+        [
+            "vine",
+            "grape vine",
+            "vineyard"
+        ]
+    ],
+    [
+        "Causes",
+        [
+            "candidatus phytoplasma vitis"
+        ],
+        [
+            "fd",
+            "flavescence dor\u00e9e"
+        ]
+    ],
+    [
+        "Affects",
+        [
+            "fd",
+            "flavescence dor\u00e9e"
+        ],
+        [
+            "vine",
+            "grape vine",
+            "vineyard"
+        ]
+    ],
+    [
+        "Located in",
+        [
+            "fd",
+            "flavescence dor\u00e9e"
+        ],
+        [
+            "europe"
+        ]
+    ]
+]
