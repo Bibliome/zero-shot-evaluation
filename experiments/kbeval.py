@@ -5,7 +5,7 @@ import json
 import re
 import sys
 from datetime import datetime
-from evaluation.pairing import MunkresPairing, Pair
+from evaluation.pairing import MunkresPairing
 from evaluation.scoring import BaseScores, IEScores
 
 
@@ -25,7 +25,7 @@ def remove_codeblock(content):
     return m.group(1)
    
 
-LAST_COMMA = re.compile(r',(?=\s*[\}\]])')
+LAST_COMMA = re.compile(r',(?=\s*[}\]])')
 def remove_last_comma(content):
     return LAST_COMMA.sub('', content)
 
@@ -66,8 +66,8 @@ class MergedEntity:
 
     def __init__(self, ent):
         self.type_ = ent.type_
-        self.ids = set((ent.id_,))
-        self.names = set((ent.name,))
+        self.ids = {ent.id_}
+        self.names = {ent.name}
         self.normalization_type = ent.normalization_type
         self.normalization_value = ent.normalization_value
         setattr(self, ent.normalization_type, ent.normalization_value)
@@ -322,12 +322,14 @@ def evaluate(ref, pred, type_sim, arg_sim):
 
 
 if __name__ == '__main__':
-    _prog, ref_fn, pred_fn = sys.argv
-    ref_ds = MergedRefDataset.from_json_file(ref_fn)
-    pred_ds = Dataset.from_json_file(pred_fn)
-    try:
-        base, ie, _pairs = evaluate(ref_ds, pred_ds, standard_type_similarity, standard_arg_similarity)
-        print(ie.f_score)
-    except ZeroDivisionError:
-        log(f'WARNING: nil R/P')
-        print(0.0)
+    def main():
+        _prog, ref_fn, pred_fn = sys.argv
+        ref_ds = MergedRefDataset.from_json_file(ref_fn)
+        pred_ds = Dataset.from_json_file(pred_fn)
+        try:
+            base, ie, _pairs = evaluate(ref_ds, pred_ds, standard_type_similarity, standard_arg_similarity)
+            print(ie.f_score)
+        except ZeroDivisionError:
+            log(f'WARNING: nil R/P')
+            print(0.0)
+    main()
