@@ -22,12 +22,16 @@ def remove_codeblock(content):
     m = CODEBLOCK.search(content)
     if m is None:
         return content
+    log('INFO: fixed JSON (codeblock)')
     return m.group(1)
    
 
 LAST_COMMA = re.compile(r',(?=\s*[}\]])')
 def remove_last_comma(content):
-    return LAST_COMMA.sub('', content)
+    result = LAST_COMMA.sub('', content)
+    if result != content:
+        log('INFO: fixed JSON (last comma)')
+    return result
 
 
 def squash_list(j):
@@ -37,16 +41,17 @@ def squash_list(j):
         for elt in j:
             entities.extend(elt.get('entities', []))
             relationships.extend(elt.get('relationships', []))
+        log('INFO fixed JSON (squash list)')
         return dict(entities=entities, relationships=relationships)
     return j
 
 
 class Entity:
-    def __init__(self, **args):
+    def __init__(self, norm_types, **args):
         self.id_ = args.get('id')
         self.type_ = args['type']
         self.name = args['name']
-        for nt in NORM_TYPES:
+        for nt in norm_types:
             if nt in args:
                 setattr(self, nt, args[nt])
                 self.normalization_type = nt
@@ -179,7 +184,7 @@ class Dataset:
         self.equivalences = equivalences
 
     @staticmethod
-    def from_json_file(filename):
+    def from_json_file(filename, norm_types, load_equivalences):
         log(f'reading {filename}')
         try:
             with open(filename) as f:
@@ -197,11 +202,12 @@ class Dataset:
         j = squash_list(j)
 
         if not j.get('relationships'):
+            log('INFO: fixed JSON (added relationships)')
             j['relationships'] = []
 
-        entities = list(Entity(**ent) for ent in j['entities'])
+        entities = list(Entity(norm_types, **ent) for ent in j['entities'])
         relations = list(Relation(**rel) for rel in j['relationships'])
-        if 'equivalences' in j:
+        if load_equivalences and 'equivalences' in j:
             equivalences = list(set(eq) for eq in j['equivalences'])
         else:
             equivalences = []
@@ -213,6 +219,10 @@ class Dataset:
         log('merging reference relations')
         entities = list(self._merge_ref_entities())
         relations = list(self._merge_ref_relations(entities))
+        rmse = sum(1 for rel in relations if len(rel.source.names) > 1)
+        rmte = sum(1 for rel in relations if len(rel.target.names) > 1)
+        rmae = sum(1 for rel in relations if len(rel.source.names) > 1 or len(rel.target.names) > 1)
+        log(f'relations with multiple acceptable arguments: {rmae}/{len(relations)}')
         return MergedRefDataset(entities, relations)
 
     def _merge_ref_entities(self):
@@ -259,8 +269,8 @@ class MergedRefDataset(Dataset):
         return dict((pred_ent, self._map_name_to_entity(pred_ent.name)) for pred_ent in pred.entities)
 
     @staticmethod
-    def from_json_file(filename):
-        return Dataset.from_json_file(filename).merge_ref()
+    def from_json_file(filename, norm_types, load_equivalences):
+        return Dataset.from_json_file(filename, norm_types, load_equivalences).merge_ref()
 
 
 def standard_type_similarity(ref, type_):
@@ -310,10 +320,6 @@ def evaluate(ref, pred, type_sim, arg_sim):
     pred_rels = list(p for p in pred.relations if p not in redundant)
     pairing = MunkresPairing(relation_similarity(type_sim, arg_sim))
     pairs = list(pairing.get_pairs(ref.relations, pred_rels))
-    # for p in pairs:
-    #     log(str(p.ref))
-    #     log(str(p.pred))
-    #     log('')
     base = BaseScores(pairs)
     log_scores('Base', base)
     ie = IEScores(pairs, base=base, tp_attr='couples')
@@ -322,14 +328,40 @@ def evaluate(ref, pred, type_sim, arg_sim):
 
 
 if __name__ == '__main__':
+    def newmain():
+        import argparse
+        parser = argparse.ArgumentParser(
+            prog=sys.argv[0],
+            description='evaluates LLM output accuracy'
+        )
+        parser.add_argument('-r', '--reference', required=True, action='store', type=str, dest='ref_fn', metavar='PATH', help='path to reference file')
+        parser.add_argument('-p', '--prediction', required=True, action='store', type=str, dest='pred_fn', metavar='PATH', help='path to prediction file')
+        parser.add_argument('--ignore-type', action='store_true', dest='ignore_type', default=False, help='ignore relation type')
+        parser.add_argument('--relaxed-args', action='store_true', dest='relaxed_args', default=False, help='relaxed argument matching')
+        parser.add_argument('--no-arg-equivalence', action='store_true', dest='no_arg_equivalence', default=False, help='inhibit search for equivalent arguments')
+        args = parser.parse_args()
+
+        norm_types = ('name',) if args.no_arg_equivalence else NORM_TYPES
+        ref_ds = MergedRefDataset.from_json_file(args.ref_fn, norm_types, not args.no_arg_equivalence)
+        pred_ds = Dataset.from_json_file(args.pred_fn, norm_types, not args.no_arg_equivalence)
+        try:
+            type_sim = relaxed_type_similarity if args.ignore_type else standard_type_similarity
+            args_sim = relaxed_arg_similarity if args.relaxed_args else standard_arg_similarity
+            base, ie, _pairs = evaluate(ref_ds, pred_ds, type_sim, args_sim)
+            print(ie.f_score)
+        except ZeroDivisionError:
+            log(f'WARNING: nil R/P')
+            print(0.0)
+
+
     def main():
         _prog, ref_fn, pred_fn = sys.argv
-        ref_ds = MergedRefDataset.from_json_file(ref_fn)
-        pred_ds = Dataset.from_json_file(pred_fn)
+        ref_ds = MergedRefDataset.from_json_file(ref_fn, NORM_TYPES, True)
+        pred_ds = Dataset.from_json_file(pred_fn, NORM_TYPES, True)
         try:
             base, ie, _pairs = evaluate(ref_ds, pred_ds, standard_type_similarity, standard_arg_similarity)
             print(ie.f_score)
         except ZeroDivisionError:
             log(f'WARNING: nil R/P')
             print(0.0)
-    main()
+    newmain()
