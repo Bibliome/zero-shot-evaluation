@@ -1,25 +1,25 @@
 [
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
+            "b. dorsalis",
             "eastern fruit fly",
-            "bactrocera dorsalis",
-            "b. dorsalis"
+            "bactrocera dorsalis"
         ],
-        [
+        "target_names": [
             "limited area of campania",
             "campania region"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "b. dorsalis",
             "eastern fruit fly",
-            "bactrocera dorsalis",
-            "b. dorsalis"
+            "bactrocera dorsalis"
         ],
-        [
+        "target_names": [
             "territory of palma campania"
         ]
-    ]
+    }
 ]

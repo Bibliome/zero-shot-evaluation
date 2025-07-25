@@ -1,13 +1,13 @@
 [
-    [
-        "Transmits",
-        [
+    {
+        "type": "transmits",
+        "source_names": [
             "p. spumarius",
             "philaenus spumarius"
         ],
-        [
+        "target_names": [
             "xylella fastidiosa",
             "x. fastidiosa"
         ]
-    ]
+    }
 ]

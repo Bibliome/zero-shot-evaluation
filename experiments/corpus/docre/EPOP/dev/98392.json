@@ -1,35 +1,35 @@
 [
-    [
-        "Has been found on",
-        [
+    {
+        "type": "has been found on",
+        "source_names": [
             "tobrfv",
             "tomato brown rugose fruit virus"
         ],
-        [
+        "target_names": [
+            "chili",
+            "chili pepper"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tobrfv",
+            "tomato brown rugose fruit virus"
+        ],
+        "target_names": [
             "solanum lycopersicum",
             "tomato"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "tobrfv",
             "tomato brown rugose fruit virus"
         ],
-        [
-            "chili pepper",
-            "chili"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tobrfv",
-            "tomato brown rugose fruit virus"
-        ],
-        [
+        "target_names": [
             "paprika",
             "bell pepper"
         ]
-    ]
+    }
 ]

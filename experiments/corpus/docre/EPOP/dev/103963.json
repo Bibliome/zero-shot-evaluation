@@ -1,106 +1,106 @@
 [
-    [
-        "Has been found on",
-        [
-            "monochamus",
-            "monochamus spp."
+    {
+        "type": "has been found on",
+        "source_names": [
+            "monochamus spp.",
+            "monochamus"
         ],
-        [
+        "target_names": [
             "pine",
             "pine trees",
             "pine tree"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "pinewood nematode",
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "pine wilt disease"
+        ],
+        "target_names": [
+            "japan"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "b. xylophilus",
             "bursaphelenchus xylophilus",
             "pine wood nematode",
-            "b. xylophilus"
+            "pinewood nematode"
         ],
-        [
+        "target_names": [
+            "japan"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "pine wilt disease"
+        ],
+        "target_names": [
             "europe"
         ]
-    ],
-    [
-        "Causes",
-        [
-            "pinewood nematode",
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "b. xylophilus",
             "bursaphelenchus xylophilus",
             "pine wood nematode",
-            "b. xylophilus"
+            "pinewood nematode"
         ],
-        [
+        "target_names": [
+            "europe"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "b. xylophilus",
+            "bursaphelenchus xylophilus",
+            "pine wood nematode",
+            "pinewood nematode"
+        ],
+        "target_names": [
+            "pine",
+            "pine trees",
+            "pine tree"
+        ]
+    },
+    {
+        "type": "transmits",
+        "source_names": [
+            "monochamus spp.",
+            "monochamus"
+        ],
+        "target_names": [
+            "b. xylophilus",
+            "bursaphelenchus xylophilus",
+            "pine wood nematode",
+            "pinewood nematode"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "b. xylophilus",
+            "bursaphelenchus xylophilus",
+            "pine wood nematode",
+            "pinewood nematode"
+        ],
+        "target_names": [
             "pine wilt disease"
         ]
-    ],
-    [
-        "Transmits",
-        [
-            "monochamus",
-            "monochamus spp."
-        ],
-        [
-            "pinewood nematode",
-            "bursaphelenchus xylophilus",
-            "pine wood nematode",
-            "b. xylophilus"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "pine wilt disease"
-        ],
-        [
-            "japan"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "pinewood nematode",
-            "bursaphelenchus xylophilus",
-            "pine wood nematode",
-            "b. xylophilus"
-        ],
-        [
-            "japan"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "pine",
             "pine trees",
             "pine tree"
         ],
-        [
+        "target_names": [
             "asian countries"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "pinewood nematode",
-            "bursaphelenchus xylophilus",
-            "pine wood nematode",
-            "b. xylophilus"
-        ],
-        [
-            "pine",
-            "pine trees",
-            "pine tree"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "pine wilt disease"
-        ],
-        [
-            "europe"
-        ]
-    ]
+    }
 ]

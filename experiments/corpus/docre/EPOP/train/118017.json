@@ -1,64 +1,64 @@
 [
-    [
-        "Has been found on",
-        [
-            "tropical race 4"
-        ],
-        [
-            "cavendish banana plantations",
-            "cavendish variety bananas",
-            "cavendish bananas"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
+    {
+        "type": "has been found on",
+        "source_names": [
             "fusarium oxysporum cubense race 1"
         ],
-        [
-            "bananas",
+        "target_names": [
             "banana",
+            "bananas",
             "banana plant"
         ]
-    ],
-    [
-        "Causes",
-        [
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "panama disease"
+        ],
+        "target_names": [
+            "banana",
+            "bananas",
+            "banana plant"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "tropical race 4"
         ],
-        [
-            "panama disease"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "panama disease"
-        ],
-        [
-            "bananas",
-            "banana",
-            "banana plant"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "panama disease"
-        ],
-        [
+        "target_names": [
+            "cavendish bananas",
             "cavendish banana plantations",
-            "cavendish variety bananas",
-            "cavendish bananas"
+            "cavendish variety bananas"
         ]
-    ],
-    [
-        "Causes",
-        [
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "panama disease"
+        ],
+        "target_names": [
+            "cavendish bananas",
+            "cavendish banana plantations",
+            "cavendish variety bananas"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "tropical race 4"
+        ],
+        "target_names": [
+            "panama disease"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
             "fusarium oxysporum cubense race 1"
         ],
-        [
+        "target_names": [
             "panama disease"
         ]
-    ]
+    }
 ]

@@ -1,216 +1,216 @@
 [
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
+            "vine",
+            "grapevine",
+            "vineyard",
+            "vineyards",
+            "vines",
+            "pinot grigio vineyards",
+            "chardonnay vineyards"
+        ],
+        "target_names": [
+            "burgraviato",
+            "south tyrol",
+            "bassa atesina"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "flavescence dor\u00e9e"
         ],
-        [
-            "south tyrol",
+        "target_names": [
             "burgraviato",
+            "south tyrol",
             "bassa atesina"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "yellow ones"
-        ],
-        [
-            "south tyrol",
-            "burgraviato",
-            "bassa atesina"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "chardonnay vineyards",
-            "grapevine",
-            "vine",
-            "vines",
-            "vineyards",
-            "vineyard",
-            "pinot grigio vineyards"
-        ],
-        [
-            "salorno"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "chardonnay vineyards",
-            "grapevine",
-            "vine",
-            "vines",
-            "vineyards",
-            "vineyard",
-            "pinot grigio vineyards"
-        ],
-        [
-            "south tyrol",
-            "burgraviato",
-            "bassa atesina"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "yellow lights"
-        ],
-        [
-            "salorno"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "golden flavescence"
-        ],
-        [
-            "chardonnay vineyards",
-            "grapevine",
-            "vine",
-            "vines",
-            "vineyards",
-            "vineyard",
-            "pinot grigio vineyards"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "american vine leafhopper"
         ],
-        [
-            "chardonnay vineyards",
-            "grapevine",
+        "target_names": [
             "vine",
-            "vines",
-            "vineyards",
-            "vineyard",
-            "pinot grigio vineyards"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "yellow lights"
-        ],
-        [
-            "south tyrol",
-            "burgraviato",
-            "bassa atesina"
-        ]
-    ],
-    [
-        "Causes",
-        [
-            "fdp",
-            "flavescence dor\u00e8e-phytoplasma"
-        ],
-        [
-            "flavescence dor\u00e9e"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "yellow lights"
-        ],
-        [
-            "chardonnay vineyards",
             "grapevine",
-            "vine",
-            "vines",
-            "vineyards",
             "vineyard",
-            "pinot grigio vineyards"
+            "vineyards",
+            "vines",
+            "pinot grigio vineyards",
+            "chardonnay vineyards"
         ]
-    ],
-    [
-        "Affects",
-        [
-            "yellow ones"
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "flavescence dor\u00e8e-phytoplasma",
+            "fdp"
         ],
-        [
-            "chardonnay vineyards",
-            "grapevine",
+        "target_names": [
             "vine",
-            "vines",
-            "vineyards",
-            "vineyard",
-            "pinot grigio vineyards"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "fdp",
-            "flavescence dor\u00e8e-phytoplasma"
-        ],
-        [
-            "chardonnay vineyards",
             "grapevine",
-            "vine",
-            "vines",
-            "vineyards",
             "vineyard",
-            "pinot grigio vineyards"
+            "vineyards",
+            "vines",
+            "pinot grigio vineyards",
+            "chardonnay vineyards"
         ]
-    ],
-    [
-        "Transmits",
-        [
+    },
+    {
+        "type": "transmits",
+        "source_names": [
             "american vine leafhopper"
         ],
-        [
-            "fdp",
-            "flavescence dor\u00e8e-phytoplasma"
+        "target_names": [
+            "flavescence dor\u00e8e-phytoplasma",
+            "fdp"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "yellow ones"
-        ],
-        [
-            "salorno"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "golden flavescence"
-        ],
-        [
-            "south tyrol",
-            "burgraviato",
-            "bassa atesina"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "flavescence dor\u00e9e"
-        ],
-        [
-            "chardonnay vineyards",
-            "grapevine",
-            "vine",
-            "vines",
-            "vineyards",
-            "vineyard",
-            "pinot grigio vineyards"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "american vine leafhopper"
         ],
-        [
+        "target_names": [
             "europe"
         ]
-    ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "yellow ones"
+        ],
+        "target_names": [
+            "vine",
+            "grapevine",
+            "vineyard",
+            "vineyards",
+            "vines",
+            "pinot grigio vineyards",
+            "chardonnay vineyards"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "yellow ones"
+        ],
+        "target_names": [
+            "salorno"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "yellow ones"
+        ],
+        "target_names": [
+            "burgraviato",
+            "south tyrol",
+            "bassa atesina"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "yellow lights"
+        ],
+        "target_names": [
+            "vine",
+            "grapevine",
+            "vineyard",
+            "vineyards",
+            "vines",
+            "pinot grigio vineyards",
+            "chardonnay vineyards"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "flavescence dor\u00e8e-phytoplasma",
+            "fdp"
+        ],
+        "target_names": [
+            "flavescence dor\u00e9e"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "golden flavescence"
+        ],
+        "target_names": [
+            "vine",
+            "grapevine",
+            "vineyard",
+            "vineyards",
+            "vines",
+            "pinot grigio vineyards",
+            "chardonnay vineyards"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "yellow lights"
+        ],
+        "target_names": [
+            "salorno"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "flavescence dor\u00e9e"
+        ],
+        "target_names": [
+            "vine",
+            "grapevine",
+            "vineyard",
+            "vineyards",
+            "vines",
+            "pinot grigio vineyards",
+            "chardonnay vineyards"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "yellow lights"
+        ],
+        "target_names": [
+            "burgraviato",
+            "south tyrol",
+            "bassa atesina"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "vine",
+            "grapevine",
+            "vineyard",
+            "vineyards",
+            "vines",
+            "pinot grigio vineyards",
+            "chardonnay vineyards"
+        ],
+        "target_names": [
+            "salorno"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "golden flavescence"
+        ],
+        "target_names": [
+            "burgraviato",
+            "south tyrol",
+            "bassa atesina"
+        ]
+    }
 ]

@@ -1,79 +1,79 @@
 [
-    [
-        "Has been found on",
-        [
-            "hlb pathogen",
-            "candidatus liberibacter asiaticus",
-            "ca . l. asiaticus",
-            "ca. l. asiaticus"
-        ],
-        [
-            "citrus plants",
-            "citrus groves",
-            "citrus",
-            "citrus trees"
-        ]
-    ],
-    [
-        "Causes",
-        [
-            "ca. l. asiaticus",
-            "hlb pathogen"
-        ],
-        [
-            "hlb",
-            "huanglongbing"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "hlb",
-            "huanglongbing"
-        ],
-        [
-            "citrus plants",
-            "citrus groves",
-            "citrus",
-            "citrus trees"
-        ]
-    ],
-    [
-        "Affects",
-        [
+    {
+        "type": "affects",
+        "source_names": [
             "hlb disease"
         ],
-        [
+        "target_names": [
             "citrus plants",
-            "citrus groves",
             "citrus",
-            "citrus trees"
+            "citrus trees",
+            "citrus groves"
         ]
-    ],
-    [
-        "Causes",
-        [
-            "hlb pathogen",
-            "candidatus liberibacter asiaticus",
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "ca . l. asiaticus",
-            "ca. l. asiaticus"
+            "ca. l. asiaticus",
+            "candidatus liberibacter asiaticus",
+            "hlb pathogen"
         ],
-        [
-            "hlb",
-            "huanglongbing"
+        "target_names": [
+            "citrus plants",
+            "citrus",
+            "citrus trees",
+            "citrus groves"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "ca . l. asiaticus",
+            "ca. l. asiaticus",
+            "candidatus liberibacter asiaticus",
+            "hlb pathogen"
+        ],
+        "target_names": [
+            "huanglongbing",
+            "hlb"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "huanglongbing",
+            "hlb"
+        ],
+        "target_names": [
+            "citrus plants",
+            "citrus",
+            "citrus trees",
+            "citrus groves"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
             "ca. l. asiaticus",
             "hlb pathogen"
         ],
-        [
-            "citrus plants",
-            "citrus groves",
-            "citrus",
-            "citrus trees"
+        "target_names": [
+            "huanglongbing",
+            "hlb"
         ]
-    ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "ca. l. asiaticus",
+            "hlb pathogen"
+        ],
+        "target_names": [
+            "citrus plants",
+            "citrus",
+            "citrus trees",
+            "citrus groves"
+        ]
+    }
 ]

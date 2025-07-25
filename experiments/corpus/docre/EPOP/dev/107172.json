@@ -1,103 +1,103 @@
 [
-    [
-        "Located in",
-        [
-            "tr1",
+    {
+        "type": "causes",
+        "source_names": [
             "tropical race 1",
+            "tr1",
             "tr1 fungus"
         ],
-        [
+        "target_names": [
+            "panama disease"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tropical race 1",
+            "tr1",
+            "tr1 fungus"
+        ],
+        "target_names": [
             "brazil"
         ]
-    ],
-    [
-        "Affects",
-        [
+    },
+    {
+        "type": "affects",
+        "source_names": [
             "panama disease"
         ],
-        [
-            "banana",
+        "target_names": [
             "banana plants",
+            "banana",
             "bananas"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "tr4"
         ],
-        [
-            "variety called gros michel",
-            "cavendish",
-            "gros michel",
-            "cavendish banana plants",
-            "cavendish bananas",
-            "cavendish banana"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tr1",
-            "tropical race 1",
-            "tr1 fungus"
-        ],
-        [
-            "variety called gros michel",
-            "cavendish",
-            "gros michel",
-            "cavendish banana plants",
-            "cavendish bananas",
-            "cavendish banana"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tr1",
-            "tropical race 1",
-            "tr1 fungus"
-        ],
-        [
-            "banana",
+        "target_names": [
             "banana plants",
+            "banana",
             "bananas"
         ]
-    ],
-    [
-        "Causes",
-        [
-            "tr1",
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "tropical race 1",
+            "tr1",
             "tr1 fungus"
         ],
-        [
-            "panama disease"
+        "target_names": [
+            "banana plants",
+            "banana",
+            "bananas"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "panama disease"
+        ],
+        "target_names": [
+            "cavendish banana",
+            "cavendish banana plants",
+            "cavendish bananas",
+            "cavendish",
+            "gros michel",
+            "variety called gros michel"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "tr4"
         ],
-        [
-            "banana",
-            "banana plants",
-            "bananas"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "panama disease"
-        ],
-        [
-            "variety called gros michel",
-            "cavendish",
-            "gros michel",
+        "target_names": [
+            "cavendish banana",
             "cavendish banana plants",
             "cavendish bananas",
-            "cavendish banana"
+            "cavendish",
+            "gros michel",
+            "variety called gros michel"
         ]
-    ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tropical race 1",
+            "tr1",
+            "tr1 fungus"
+        ],
+        "target_names": [
+            "cavendish banana",
+            "cavendish banana plants",
+            "cavendish bananas",
+            "cavendish",
+            "gros michel",
+            "variety called gros michel"
+        ]
+    }
 ]

@@ -1,393 +1,393 @@
 [
-    [
-        "Located in",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "territory of portugal",
-            "portugal"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "myrtles"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "acacia"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa subsp. multiplex"
-        ],
-        [
-            "c.sinensis",
-            "citrus sinensis"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "xylella fastidiosa subsp. fastidiosa the st2 pathotype"
         ],
-        [
-            "territory of portugal",
-            "portugal"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "almond tree"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa subsp. fastidiosa the st2 pathotype"
-        ],
-        [
+        "target_names": [
             "us"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "grape",
+            "grapevines"
+        ],
+        "target_names": [
+            "us"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella fastidiosa subsp. fastidiosa the st2 pathotype"
+        ],
+        "target_names": [
+            "grape",
+            "grapevines"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "xylella fastidiosa subsp. multiplex"
         ],
-        [
-            "c.paradise"
+        "target_names": [
+            "citrus limon"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "xylella fastidiosa",
             "xylella"
         ],
-        [
+        "target_names": [
+            "sycamore"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "rosemary"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "myrtles"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "olive"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "elaeagnus angustifolia"
+        ],
+        "target_names": [
+            "territory of portugal",
+            "portugal"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "territory of the union",
+            "union territory"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "coffee"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus fruits",
+            "citrus species"
+        ],
+        "target_names": [
+            "territory of the union",
+            "union territory"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella fastidiosa subsp. multiplex"
+        ],
+        "target_names": [
+            "citrus fruits",
+            "citrus species"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "pierce's disease"
+        ],
+        "target_names": [
+            "grape",
+            "grapevines"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "oleander"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "alfalfa"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "raoa",
+            "provence-alpes-c\u00f4te d'azur"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa subsp. fastidiosa the st2 pathotype"
+        ],
+        "target_names": [
+            "territory of the union",
+            "union territory"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus limon"
+        ],
+        "target_names": [
+            "territory of the union",
+            "union territory"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "territory of france"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "c. retoculata"
+        ],
+        "target_names": [
+            "territory of the union",
+            "union territory"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "pierce's disease"
+        ],
+        "target_names": [
+            "us"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "almond tree"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "xylella fastidiosa subsp. fastidiosa the st2 pathotype"
+        ],
+        "target_names": [
+            "pierce's disease"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "citrus fruits",
+            "citrus species"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
             "region of occitanie",
             "occitanie"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "xylella fastidiosa subsp. multiplex"
         ],
-        [
-            "citrus fruits",
-            "citrus species"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "grape",
-            "grapevines"
-        ],
-        [
-            "us"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "c. retoculata"
-        ],
-        [
-            "territory of the union",
-            "union territory"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "coffee"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "rosemary"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "citrus fruits",
-            "citrus species"
-        ]
-    ],
-    [
-        "Causes",
-        [
-            "xylella fastidiosa subsp. fastidiosa the st2 pathotype"
-        ],
-        [
-            "pierce's disease"
-        ]
-    ],
-    [
-        "Located in",
-        [
+        "target_names": [
             "c.paradise"
-        ],
-        [
-            "territory of the union",
-            "union territory"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylella fastidiosa",
             "xylella"
         ],
-        [
-            "milkweed"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "grape",
-            "grapevines"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus limon"
-        ],
-        [
-            "territory of the union",
-            "union territory"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus fruits",
-            "citrus species"
-        ],
-        [
-            "territory of the union",
-            "union territory"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa subsp. multiplex"
-        ],
-        [
-            "territory of the union",
-            "union territory"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "olive"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "oleander"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa subsp. multiplex"
-        ],
-        [
-            "c. retoculata"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "pierce's disease"
-        ],
-        [
-            "us"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "territory of the union",
-            "union territory"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa subsp. fastidiosa the st2 pathotype"
-        ],
-        [
-            "grape",
-            "grapevines"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa subsp. multiplex"
-        ],
-        [
-            "citrus limon"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa subsp. fastidiosa the st2 pathotype"
-        ],
-        [
-            "territory of the union",
-            "union territory"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "elaeagnus angustifolia"
-        ],
-        [
+        "target_names": [
             "territory of portugal",
             "portugal"
         ]
-    ],
-    [
-        "Affects",
-        [
-            "pierce's disease"
-        ],
-        [
-            "grape",
-            "grapevines"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "xylella fastidiosa",
             "xylella"
         ],
-        [
+        "target_names": [
+            "acacia"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
             "sorghum"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa",
-            "xylella"
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella fastidiosa subsp. multiplex"
         ],
-        [
-            "territory of france"
+        "target_names": [
+            "c. retoculata"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "xylella fastidiosa subsp. fastidiosa the st2 pathotype"
         ],
-        [
+        "target_names": [
             "elaeagnus angustifolia"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa",
-            "xylella"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "c.paradise"
         ],
-        [
-            "sycamore"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "c.sinensis",
-            "citrus sinensis"
-        ],
-        [
+        "target_names": [
             "territory of the union",
             "union territory"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa subsp. fastidiosa the st2 pathotype"
+        ],
+        "target_names": [
+            "territory of portugal",
+            "portugal"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "xylella fastidiosa",
             "xylella"
         ],
-        [
-            "alfalfa"
+        "target_names": [
+            "grape",
+            "grapevines"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella fastidiosa subsp. multiplex"
+        ],
+        "target_names": [
+            "c.sinensis",
+            "citrus sinensis"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "xylella fastidiosa",
             "xylella"
         ],
-        [
-            "provence-alpes-c\u00f4te d'azur",
-            "raoa"
+        "target_names": [
+            "milkweed"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa subsp. multiplex"
+        ],
+        "target_names": [
+            "territory of the union",
+            "union territory"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "c.sinensis",
+            "citrus sinensis"
+        ],
+        "target_names": [
+            "territory of the union",
+            "union territory"
+        ]
+    }
 ]

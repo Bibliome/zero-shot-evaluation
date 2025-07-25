@@ -1,53 +1,53 @@
 [
-    [
-        "Located in",
-        [
-            "banana",
-            "banana trees",
-            "banana plantations",
-            "banana cultivation"
-        ],
-        [
-            "region of vale do ribeira"
-        ]
-    ],
-    [
-        "Causes",
-        [
-            "fungus foc",
+    {
+        "type": "causes",
+        "source_names": [
+            "foc",
             "fusarium oxysporum f. sp. cubense",
-            "foc"
+            "fungus foc"
         ],
-        [
+        "target_names": [
             "fusariosis"
         ]
-    ],
-    [
-        "Affects",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "banana borer",
+            "banana tree moleque",
+            "c. sordidus",
+            "banana borers",
+            "cosmopolites sordidus"
+        ],
+        "target_names": [
+            "banana trees",
+            "banana",
+            "banana plantations",
+            "banana cultivation"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
             "fusariosis disease"
         ],
-        [
-            "banana",
+        "target_names": [
             "banana trees",
+            "banana",
             "banana plantations",
             "banana cultivation"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "banana borers",
-            "banana tree moleque",
-            "cosmopolites sordidus",
-            "banana borer",
-            "c. sordidus"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "banana trees",
+            "banana",
+            "banana plantations",
+            "banana cultivation"
         ],
-        [
-            "banana",
-            "banana trees",
-            "banana plantations",
-            "banana cultivation"
+        "target_names": [
+            "region of vale do ribeira"
         ]
-    ]
+    }
 ]

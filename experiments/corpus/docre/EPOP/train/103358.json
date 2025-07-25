@@ -1,22 +1,22 @@
 [
-    [
-        "Located in",
-        [
-            "japanese beetle",
-            "japanese beetles"
+    {
+        "type": "located in",
+        "source_names": [
+            "japanese beetles",
+            "japanese beetle"
         ],
-        [
-            "baden-w\u00fcrttemberg"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "japanese beetle",
-            "japanese beetles"
-        ],
-        [
+        "target_names": [
             "freiburg area"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "japanese beetles",
+            "japanese beetle"
+        ],
+        "target_names": [
+            "baden-w\u00fcrttemberg"
+        ]
+    }
 ]

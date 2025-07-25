@@ -1,91 +1,91 @@
 [
-    [
-        "Causes",
-        [
-            "tr4",
-            "fusarium oxysporum f. sp. cubense",
-            "foc st4",
-            "foc",
-            "subtropical race 4",
-            "foc tropical race 4",
-            "st4",
-            "foc pathogen"
-        ],
-        [
-            "fusarium wilt"
-        ]
-    ],
-    [
-        "Affects",
-        [
+    {
+        "type": "affects",
+        "source_names": [
             "fusarium wilt"
         ],
-        [
-            "banana",
-            "musaspp",
-            "resistant banana cultivars",
+        "target_names": [
             "banana plants",
+            "resistant banana cultivars",
             "banana cultivars",
-            "musa spp"
+            "musa spp",
+            "musaspp",
+            "banana"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "foc pathogen",
+            "foc tropical race 4",
+            "fusarium oxysporum f. sp. cubense",
+            "st4",
+            "tr4",
+            "foc st4",
+            "subtropical race 4",
+            "foc"
+        ],
+        "target_names": [
+            "banana plants",
+            "resistant banana cultivars",
+            "banana cultivars",
+            "musa spp",
+            "musaspp",
+            "banana"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "foc r1",
             "race 1"
         ],
-        [
-            "grand naine cultivars",
-            "brs platina",
-            "prata-an\u00e3",
-            "cavendish type (grand naine)",
-            "prata-an\u00e3 cultivars",
+        "target_names": [
             "cultivar brs platina",
-            "brs platina cultivar"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tr4",
-            "fusarium oxysporum f. sp. cubense",
-            "foc st4",
-            "foc",
-            "subtropical race 4",
-            "foc tropical race 4",
-            "st4",
-            "foc pathogen"
-        ],
-        [
-            "banana",
-            "musaspp",
-            "resistant banana cultivars",
-            "banana plants",
-            "banana cultivars",
-            "musa spp"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tr4",
-            "fusarium oxysporum f. sp. cubense",
-            "foc st4",
-            "foc",
-            "subtropical race 4",
-            "foc tropical race 4",
-            "st4",
-            "foc pathogen"
-        ],
-        [
             "grand naine cultivars",
-            "brs platina",
             "prata-an\u00e3",
+            "brs platina cultivar",
             "cavendish type (grand naine)",
-            "prata-an\u00e3 cultivars",
-            "cultivar brs platina",
-            "brs platina cultivar"
+            "brs platina",
+            "prata-an\u00e3 cultivars"
         ]
-    ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "foc pathogen",
+            "foc tropical race 4",
+            "fusarium oxysporum f. sp. cubense",
+            "st4",
+            "tr4",
+            "foc st4",
+            "subtropical race 4",
+            "foc"
+        ],
+        "target_names": [
+            "fusarium wilt"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "foc pathogen",
+            "foc tropical race 4",
+            "fusarium oxysporum f. sp. cubense",
+            "st4",
+            "tr4",
+            "foc st4",
+            "subtropical race 4",
+            "foc"
+        ],
+        "target_names": [
+            "cultivar brs platina",
+            "grand naine cultivars",
+            "prata-an\u00e3",
+            "brs platina cultivar",
+            "cavendish type (grand naine)",
+            "brs platina",
+            "prata-an\u00e3 cultivars"
+        ]
+    }
 ]

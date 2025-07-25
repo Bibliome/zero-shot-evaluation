@@ -1,49 +1,49 @@
 [
-    [
-        "Located in",
-        [
-            "xylella"
-        ],
-        [
-            "european union",
-            "eu"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "phyllosticta citricarpa"
-        ],
-        [
-            "south africa"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "south african cotonet"
         ],
-        [
+        "target_names": [
             "european union",
             "eu"
         ]
-    ],
-    [
-        "Causes",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella"
+        ],
+        "target_names": [
+            "european union",
+            "eu"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "phyllosticta citricarpa"
         ],
-        [
-            "citrus black spot disease"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus black spot disease"
-        ],
-        [
+        "target_names": [
             "south africa"
         ]
-    ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "phyllosticta citricarpa"
+        ],
+        "target_names": [
+            "citrus black spot disease"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus black spot disease"
+        ],
+        "target_names": [
+            "south africa"
+        ]
+    }
 ]

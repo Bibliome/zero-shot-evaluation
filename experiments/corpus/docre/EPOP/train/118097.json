@@ -1,539 +1,539 @@
 [
-    [
-        "Located in",
-        [
-            "citrus varieties",
-            "citrus",
-            "citrus plantations"
-        ],
-        [
-            "cantabria"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus varieties",
-            "citrus",
-            "citrus plantations"
-        ],
-        [
-            "region of aljezur"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "candidatus liberibacter asiaticus"
-        ],
-        [
-            "citrus varieties",
-            "citrus",
-            "citrus plantations"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "t.erytreae",
-            "trioza eritreae",
-            "trioza"
-        ],
-        [
-            "cantabria"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "t.erytreae",
-            "trioza eritreae",
-            "trioza"
-        ],
-        [
-            "citrus varieties",
-            "citrus",
-            "citrus plantations"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "t.erytreae",
-            "trioza eritreae",
-            "trioza"
-        ],
-        [
-            "region of aljezur"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "diaphorina citri",
-            "d.citri",
-            "d. citri",
-            "asian psyllid"
-        ],
-        [
-            "mediterranean"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "diaphorina citri",
-            "d.citri",
-            "d. citri",
-            "asian psyllid"
-        ],
-        [
-            "brazil"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus varieties",
-            "citrus",
-            "citrus plantations"
-        ],
-        [
-            "country basque"
-        ]
-    ],
-    [
-        "Transmits",
-        [
-            "t.erytreae",
-            "trioza eritreae",
-            "trioza"
-        ],
-        [
-            "yellow dragon, greening",
+    {
+        "type": "located in",
+        "source_names": [
+            "hlb",
             "huanlongbing",
-            "hlb"
-        ]
-    ],
-    [
-        "Causes",
-        [
-            "candidatus liberibacter asiaticus"
+            "yellow dragon, greening"
         ],
-        [
-            "yellow dragon, greening",
-            "huanlongbing",
-            "hlb"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "candidatus liberibacter asiaticus"
-        ],
-        [
-            "israel",
-            "hebrew country"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "t.erytreae",
-            "trioza eritreae",
-            "trioza"
-        ],
-        [
-            "country basque"
-        ]
-    ],
-    [
-        "Transmits",
-        [
-            "diaphorina citri",
-            "d.citri",
-            "d. citri",
-            "asian psyllid"
-        ],
-        [
-            "candidatus liberibacter asiaticus"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus varieties",
-            "citrus",
-            "citrus plantations"
-        ],
-        [
-            "spain",
-            "spanish"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "t.erytreae",
-            "trioza eritreae",
-            "trioza"
-        ],
-        [
-            "canary islands"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "diaphorina citri",
-            "d.citri",
-            "d. citri",
-            "asian psyllid"
-        ],
-        [
+        "target_names": [
             "florida"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "hlb bacterium"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "d. citri",
+            "asian psyllid",
+            "diaphorina citri",
+            "d.citri"
         ],
-        [
+        "target_names": [
             "florida"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "candidatus liberibacter asiaticus"
-        ],
-        [
-            "brazil"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "diaphorina citri",
-            "d.citri",
-            "d. citri",
-            "asian psyllid"
-        ],
-        [
-            "citrange reed"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "yellow dragon, greening",
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "hlb",
             "huanlongbing",
-            "hlb"
+            "yellow dragon, greening"
         ],
-        [
-            "portuguese coast",
-            "portugal",
-            "portuguese",
+        "target_names": [
             "portuguese atlantic coast",
-            "further north in portugal"
+            "portuguese coast",
+            "portuguese",
+            "further north in portugal",
+            "portugal"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "diaphorina citri",
-            "d.citri",
-            "d. citri",
-            "asian psyllid"
-        ],
-        [
-            "hefer valley"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "candidatus liberibacter asiaticus"
         ],
-        [
-            "florida"
+        "target_names": [
+            "citrus plantations",
+            "citrus",
+            "citrus varieties"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "diaphorina citri",
-            "d.citri",
-            "d. citri",
-            "asian psyllid"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "trioza",
+            "t.erytreae",
+            "trioza eritreae"
         ],
-        [
+        "target_names": [
+            "portuguese atlantic coast",
+            "portuguese coast",
+            "portuguese",
+            "further north in portugal",
+            "portugal"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "trioza",
+            "t.erytreae",
+            "trioza eritreae"
+        ],
+        "target_names": [
+            "galicia"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "d. citri",
+            "asian psyllid",
+            "diaphorina citri",
+            "d.citri"
+        ],
+        "target_names": [
             "coastal city north of tel aviv"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "mandarin trees"
-        ],
-        [
-            "spain",
-            "spanish"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus varieties",
-            "citrus",
-            "citrus plantations"
-        ],
-        [
-            "ayamonte"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "t.erytreae",
-            "trioza eritreae",
-            "trioza"
-        ],
-        [
-            "ayamonte"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "yellow dragon, greening",
-            "huanlongbing",
-            "hlb"
-        ],
-        [
-            "israel",
-            "hebrew country"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus varieties",
-            "citrus",
-            "citrus plantations"
-        ],
-        [
-            "asturias"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "t.erytreae",
-            "trioza eritreae",
-            "trioza"
-        ],
-        [
-            "portuguese coast",
-            "portugal",
-            "portuguese",
-            "portuguese atlantic coast",
-            "further north in portugal"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus varieties",
-            "citrus",
-            "citrus plantations"
-        ],
-        [
-            "porto"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "t.erytreae",
-            "trioza eritreae",
-            "trioza"
-        ],
-        [
-            "asturias"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "t.erytreae",
-            "trioza eritreae",
-            "trioza"
-        ],
-        [
-            "porto"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "diaphorina citri",
-            "d.citri",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "d. citri",
-            "asian psyllid"
+            "asian psyllid",
+            "diaphorina citri",
+            "d.citri"
         ],
-        [
+        "target_names": [
+            "mediterranean"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus plantations",
+            "citrus",
+            "citrus varieties"
+        ],
+        "target_names": [
+            "huelva"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus plantations",
+            "citrus",
+            "citrus varieties"
+        ],
+        "target_names": [
+            "spanish",
+            "spain"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "trioza",
+            "t.erytreae",
+            "trioza eritreae"
+        ],
+        "target_names": [
+            "region of aljezur"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "candidatus liberibacter asiaticus"
+        ],
+        "target_names": [
+            "hlb",
+            "huanlongbing",
+            "yellow dragon, greening"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus plantations",
+            "citrus",
+            "citrus varieties"
+        ],
+        "target_names": [
             "algarve coastline"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "yellow dragon, greening",
-            "huanlongbing",
-            "hlb"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus plantations",
+            "citrus",
+            "citrus varieties"
         ],
-        [
-            "brazil"
+        "target_names": [
+            "country basque"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "t.erytreae",
-            "trioza eritreae",
-            "trioza"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus plantations",
+            "citrus",
+            "citrus varieties"
         ],
-        [
-            "algarve"
+        "target_names": [
+            "cantabria"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "orange trees"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "candidatus liberibacter asiaticus"
         ],
-        [
-            "spain",
-            "spanish"
+        "target_names": [
+            "hebrew country",
+            "israel"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "yellow dragon, greening",
-            "huanlongbing",
-            "hlb"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "hlb bacterium"
         ],
-        [
+        "target_names": [
             "florida"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "diaphorina citri",
-            "d.citri",
+    },
+    {
+        "type": "transmits",
+        "source_names": [
             "d. citri",
-            "asian psyllid"
-        ],
-        [
-            "spain",
-            "spanish"
-        ]
-    ],
-    [
-        "Located in",
-        [
+            "asian psyllid",
             "diaphorina citri",
-            "d.citri",
-            "d. citri",
-            "asian psyllid"
+            "d.citri"
         ],
-        [
-            "israel",
-            "hebrew country"
+        "target_names": [
+            "candidatus liberibacter asiaticus"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus varieties",
-            "citrus",
-            "citrus plantations"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "candidatus liberibacter asiaticus"
         ],
-        [
-            "galicia"
+        "target_names": [
+            "brazil"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "citrange reed"
-        ],
-        [
-            "spain",
-            "spanish"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus varieties",
-            "citrus",
-            "citrus plantations"
-        ],
-        [
-            "portuguese coast",
-            "portugal",
-            "portuguese",
-            "portuguese atlantic coast",
-            "further north in portugal"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "trioza",
             "t.erytreae",
-            "trioza eritreae",
-            "trioza"
+            "trioza eritreae"
         ],
-        [
-            "galicia"
+        "target_names": [
+            "canary islands"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus varieties",
-            "citrus",
-            "citrus plantations"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "trioza",
+            "t.erytreae",
+            "trioza eritreae"
         ],
-        [
+        "target_names": [
             "huelva"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "t.erytreae",
-            "trioza eritreae",
-            "trioza"
-        ],
-        [
-            "huelva"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus varieties",
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus plantations",
             "citrus",
-            "citrus plantations"
+            "citrus varieties"
         ],
-        [
+        "target_names": [
+            "porto"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "d. citri",
+            "asian psyllid",
+            "diaphorina citri",
+            "d.citri"
+        ],
+        "target_names": [
+            "spanish",
+            "spain"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "d. citri",
+            "asian psyllid",
+            "diaphorina citri",
+            "d.citri"
+        ],
+        "target_names": [
             "algarve coastline"
         ]
-    ]
+    },
+    {
+        "type": "transmits",
+        "source_names": [
+            "trioza",
+            "t.erytreae",
+            "trioza eritreae"
+        ],
+        "target_names": [
+            "hlb",
+            "huanlongbing",
+            "yellow dragon, greening"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus plantations",
+            "citrus",
+            "citrus varieties"
+        ],
+        "target_names": [
+            "asturias"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "mandarin trees"
+        ],
+        "target_names": [
+            "spanish",
+            "spain"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus plantations",
+            "citrus",
+            "citrus varieties"
+        ],
+        "target_names": [
+            "ayamonte"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "trioza",
+            "t.erytreae",
+            "trioza eritreae"
+        ],
+        "target_names": [
+            "country basque"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "d. citri",
+            "asian psyllid",
+            "diaphorina citri",
+            "d.citri"
+        ],
+        "target_names": [
+            "hebrew country",
+            "israel"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "trioza",
+            "t.erytreae",
+            "trioza eritreae"
+        ],
+        "target_names": [
+            "cantabria"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "hlb",
+            "huanlongbing",
+            "yellow dragon, greening"
+        ],
+        "target_names": [
+            "hebrew country",
+            "israel"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "d. citri",
+            "asian psyllid",
+            "diaphorina citri",
+            "d.citri"
+        ],
+        "target_names": [
+            "citrange reed"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "trioza",
+            "t.erytreae",
+            "trioza eritreae"
+        ],
+        "target_names": [
+            "citrus plantations",
+            "citrus",
+            "citrus varieties"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "trioza",
+            "t.erytreae",
+            "trioza eritreae"
+        ],
+        "target_names": [
+            "porto"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "d. citri",
+            "asian psyllid",
+            "diaphorina citri",
+            "d.citri"
+        ],
+        "target_names": [
+            "brazil"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "hlb",
+            "huanlongbing",
+            "yellow dragon, greening"
+        ],
+        "target_names": [
+            "brazil"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "trioza",
+            "t.erytreae",
+            "trioza eritreae"
+        ],
+        "target_names": [
+            "algarve"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "candidatus liberibacter asiaticus"
+        ],
+        "target_names": [
+            "florida"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus plantations",
+            "citrus",
+            "citrus varieties"
+        ],
+        "target_names": [
+            "portuguese atlantic coast",
+            "portuguese coast",
+            "portuguese",
+            "further north in portugal",
+            "portugal"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "trioza",
+            "t.erytreae",
+            "trioza eritreae"
+        ],
+        "target_names": [
+            "ayamonte"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus plantations",
+            "citrus",
+            "citrus varieties"
+        ],
+        "target_names": [
+            "region of aljezur"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "trioza",
+            "t.erytreae",
+            "trioza eritreae"
+        ],
+        "target_names": [
+            "asturias"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus plantations",
+            "citrus",
+            "citrus varieties"
+        ],
+        "target_names": [
+            "galicia"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "orange trees"
+        ],
+        "target_names": [
+            "spanish",
+            "spain"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "d. citri",
+            "asian psyllid",
+            "diaphorina citri",
+            "d.citri"
+        ],
+        "target_names": [
+            "hefer valley"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrange reed"
+        ],
+        "target_names": [
+            "spanish",
+            "spain"
+        ]
+    }
 ]

@@ -1,47 +1,47 @@
 [
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
             "pest fall armyworm",
+            "fall armyworm",
             "north american corn-strain faw",
             "central american corn-strain faw",
-            "faw",
-            "fall armyworm",
-            "spodoptera frugiperda"
+            "faw"
         ],
-        [
-            "asian countries",
-            "asia"
+        "target_names": [
+            "asia",
+            "asian countries"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
             "pest fall armyworm",
+            "fall armyworm",
             "north american corn-strain faw",
             "central american corn-strain faw",
-            "faw",
-            "fall armyworm",
-            "spodoptera frugiperda"
+            "faw"
         ],
-        [
-            "american",
-            "americas"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "pest fall armyworm",
-            "north american corn-strain faw",
-            "central american corn-strain faw",
-            "faw",
-            "fall armyworm",
-            "spodoptera frugiperda"
-        ],
-        [
+        "target_names": [
             "african countries",
             "africa"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
+            "pest fall armyworm",
+            "fall armyworm",
+            "north american corn-strain faw",
+            "central american corn-strain faw",
+            "faw"
+        ],
+        "target_names": [
+            "americas",
+            "american"
+        ]
+    }
 ]

@@ -1,337 +1,337 @@
 [
-    [
-        "Located in",
-        [
-            "armyworm",
-            "fall armyworm"
-        ],
-        [
-            "china northwestern provinces",
-            "china\u2019s northeastern region",
-            "china\u2019s northeastern cornbelt",
-            "china"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "wheat crops",
-            "wheat"
-        ],
-        [
-            "ningxia"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "armyworm",
-            "fall armyworm"
-        ],
-        [
-            "yunnan"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "armyworm",
-            "fall armyworm"
-        ],
-        [
-            "hebei province"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "armyworm",
-            "fall armyworm"
-        ],
-        [
-            "wheat crops",
-            "wheat"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "corn"
-        ],
-        [
-            "liaoning provinces",
-            "liaoning province"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "armyworm",
-            "fall armyworm"
-        ],
-        [
-            "tianjin city"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "armyworm",
-            "fall armyworm"
-        ],
-        [
-            "henan"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "armyworm",
-            "fall armyworm"
-        ],
-        [
-            "shaanxi"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "wheat crops",
-            "wheat"
-        ],
-        [
-            "sichuan",
-            "southwestern sichuan province"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "yellow rust"
         ],
-        [
-            "china northwestern provinces",
-            "china\u2019s northeastern region",
-            "china\u2019s northeastern cornbelt",
-            "china"
+        "target_names": [
+            "shaanxi"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "armyworm",
-            "fall armyworm"
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "fall armyworm",
+            "armyworm"
         ],
-        [
-            "guizhou"
+        "target_names": [
+            "wheat",
+            "wheat crops"
         ]
-    ],
-    [
-        "Affects",
-        [
+    },
+    {
+        "type": "affects",
+        "source_names": [
             "stalk rot"
         ],
-        [
+        "target_names": [
             "corn"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "wheat crops",
-            "wheat"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "corn"
         ],
-        [
-            "china northwestern provinces",
+        "target_names": [
+            "inner mongolia region"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "yellow rust"
+        ],
+        "target_names": [
             "china\u2019s northeastern region",
-            "china\u2019s northeastern cornbelt",
-            "china"
+            "china northwestern provinces",
+            "china",
+            "china\u2019s northeastern cornbelt"
         ]
-    ],
-    [
-        "Affects",
-        [
-            "leaf blight"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "fall armyworm",
+            "armyworm"
         ],
-        [
-            "corn"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "yellow rust"
-        ],
-        [
-            "wheat crops",
-            "wheat"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "armyworm",
-            "fall armyworm"
-        ],
-        [
-            "corn"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "armyworm",
-            "fall armyworm"
-        ],
-        [
-            "sorghum"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "yellow rust"
-        ],
-        [
-            "gansu"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "armyworm",
-            "fall armyworm"
-        ],
-        [
+        "target_names": [
             "liaoning provinces",
             "liaoning province"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "corn"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "fall armyworm",
+            "armyworm"
         ],
-        [
-            "inner mongolia region"
+        "target_names": [
+            "hebei province"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "armyworm",
-            "fall armyworm"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "fall armyworm",
+            "armyworm"
         ],
-        [
-            "sugar cane"
+        "target_names": [
+            "yunnan"
         ]
-    ],
-    [
-        "Affects",
-        [
-            "corn rust"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "fall armyworm",
+            "armyworm"
         ],
-        [
-            "corn"
+        "target_names": [
+            "guizhou"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "corn"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "wheat",
+            "wheat crops"
         ],
-        [
-            "heilongjiang provinces"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "corn"
-        ],
-        [
-            "china northwestern provinces",
-            "china\u2019s northeastern region",
-            "china\u2019s northeastern cornbelt",
-            "china"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "yellow rust"
-        ],
-        [
+        "target_names": [
             "shaanxi"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "wheat crops",
-            "wheat"
-        ],
-        [
-            "gansu"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "armyworm",
-            "fall armyworm"
-        ],
-        [
-            "hunan"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "armyworm",
-            "fall armyworm"
-        ],
-        [
-            "anhui"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "wheat crops",
-            "wheat"
-        ],
-        [
-            "shaanxi"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "armyworm",
-            "fall armyworm"
-        ],
-        [
-            "sichuan",
-            "southwestern sichuan province"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "yellow rust"
         ],
-        [
+        "target_names": [
             "ningxia"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "corn"
         ],
-        [
+        "target_names": [
+            "liaoning provinces",
+            "liaoning province"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "yellow rust"
+        ],
+        "target_names": [
+            "wheat",
+            "wheat crops"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "wheat",
+            "wheat crops"
+        ],
+        "target_names": [
+            "southwestern sichuan province",
+            "sichuan"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "wheat",
+            "wheat crops"
+        ],
+        "target_names": [
+            "china\u2019s northeastern region",
+            "china northwestern provinces",
+            "china",
+            "china\u2019s northeastern cornbelt"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "wheat",
+            "wheat crops"
+        ],
+        "target_names": [
+            "ningxia"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "corn"
+        ],
+        "target_names": [
             "jilin provinces"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "fall armyworm",
+            "armyworm"
+        ],
+        "target_names": [
+            "anhui"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "yellow rust"
+        ],
+        "target_names": [
+            "gansu"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "fall armyworm",
+            "armyworm"
+        ],
+        "target_names": [
+            "henan"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "fall armyworm",
+            "armyworm"
+        ],
+        "target_names": [
+            "sugar cane"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "corn"
+        ],
+        "target_names": [
+            "heilongjiang provinces"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "fall armyworm",
+            "armyworm"
+        ],
+        "target_names": [
+            "shaanxi"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "leaf blight"
+        ],
+        "target_names": [
+            "corn"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "fall armyworm",
+            "armyworm"
+        ],
+        "target_names": [
+            "tianjin city"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "fall armyworm",
+            "armyworm"
+        ],
+        "target_names": [
+            "hunan"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "fall armyworm",
+            "armyworm"
+        ],
+        "target_names": [
+            "southwestern sichuan province",
+            "sichuan"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "fall armyworm",
+            "armyworm"
+        ],
+        "target_names": [
+            "china\u2019s northeastern region",
+            "china northwestern provinces",
+            "china",
+            "china\u2019s northeastern cornbelt"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "wheat",
+            "wheat crops"
+        ],
+        "target_names": [
+            "gansu"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "corn"
+        ],
+        "target_names": [
+            "china\u2019s northeastern region",
+            "china northwestern provinces",
+            "china",
+            "china\u2019s northeastern cornbelt"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "corn rust"
+        ],
+        "target_names": [
+            "corn"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "fall armyworm",
+            "armyworm"
+        ],
+        "target_names": [
+            "sorghum"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "fall armyworm",
+            "armyworm"
+        ],
+        "target_names": [
+            "corn"
+        ]
+    }
 ]

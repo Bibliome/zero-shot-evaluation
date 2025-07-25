@@ -1,56 +1,56 @@
 [
-    [
-        "Causes",
-        [
-            "fusarium oxysporum f. sp. cubense tropical race 4",
+    {
+        "type": "causes",
+        "source_names": [
+            "foctr4",
             "fusarium oxysporum f.sp. cubense tropical race 4",
-            "foctr4"
+            "fusarium oxysporum f. sp. cubense tropical race 4"
         ],
-        [
+        "target_names": [
             "panama disease"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "fusarium oxysporum f. sp. cubense tropical race 4",
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "foctr4",
             "fusarium oxysporum f.sp. cubense tropical race 4",
-            "foctr4"
+            "fusarium oxysporum f. sp. cubense tropical race 4"
         ],
-        [
-            "banana",
-            "bananas"
+        "target_names": [
+            "bananas",
+            "banana"
         ]
-    ],
-    [
-        "Causes",
-        [
-            "fusarium oxysporum f. sp. cubense tropical race 4",
-            "fusarium oxysporum f.sp. cubense tropical race 4",
-            "foctr4"
-        ],
-        [
-            "banana panama disease"
-        ]
-    ],
-    [
-        "Affects",
-        [
+    },
+    {
+        "type": "affects",
+        "source_names": [
             "panama disease"
         ],
-        [
-            "banana",
-            "bananas"
+        "target_names": [
+            "bananas",
+            "banana"
         ]
-    ],
-    [
-        "Affects",
-        [
+    },
+    {
+        "type": "affects",
+        "source_names": [
             "banana panama disease"
         ],
-        [
-            "banana",
-            "bananas"
+        "target_names": [
+            "bananas",
+            "banana"
         ]
-    ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "foctr4",
+            "fusarium oxysporum f.sp. cubense tropical race 4",
+            "fusarium oxysporum f. sp. cubense tropical race 4"
+        ],
+        "target_names": [
+            "banana panama disease"
+        ]
+    }
 ]

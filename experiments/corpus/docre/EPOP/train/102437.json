@@ -1,82 +1,82 @@
 [
-    [
-        "Causes",
-        [
-            "liberibacter",
-            "liberibacters"
+    {
+        "type": "located in",
+        "source_names": [
+            "peppers",
+            "pepper plant",
+            "pepper"
         ],
-        [
+        "target_names": [
+            "brazil"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "liberibacters",
+            "liberibacter"
+        ],
+        "target_names": [
+            "citrus greening disease"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "l. capsica"
+        ],
+        "target_names": [
+            "brazil"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "liberibacters",
+            "liberibacter"
+        ],
+        "target_names": [
+            "potatoes"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "liberibacters",
+            "liberibacter"
+        ],
+        "target_names": [
             "citrus greening"
         ]
-    ],
-    [
-        "Affects",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "l. capsica"
+        ],
+        "target_names": [
+            "peppers",
+            "pepper plant",
+            "pepper"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "citrus greening"
+        ],
+        "target_names": [
+            "potatoes"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
             "huanglongbing",
             "citrus greening"
         ],
-        [
+        "target_names": [
             "citrus trees"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "l. capsica"
-        ],
-        [
-            "brazil"
-        ]
-    ],
-    [
-        "Causes",
-        [
-            "liberibacter",
-            "liberibacters"
-        ],
-        [
-            "citrus greening disease"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "citrus greening"
-        ],
-        [
-            "potatoes"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "l. capsica"
-        ],
-        [
-            "peppers",
-            "pepper",
-            "pepper plant"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "liberibacter",
-            "liberibacters"
-        ],
-        [
-            "potatoes"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "peppers",
-            "pepper",
-            "pepper plant"
-        ],
-        [
-            "brazil"
-        ]
-    ]
+    }
 ]

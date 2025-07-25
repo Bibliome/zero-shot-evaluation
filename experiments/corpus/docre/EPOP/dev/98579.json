@@ -1,11 +1,11 @@
 [
-    [
-        "Has been found on",
-        [
+    {
+        "type": "has been found on",
+        "source_names": [
             "popillia japonica"
         ],
-        [
+        "target_names": [
             "vineyard"
         ]
-    ]
+    }
 ]

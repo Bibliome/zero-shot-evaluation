@@ -1,36 +1,36 @@
 [
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "bactrocera dorsalis",
-            "off",
-            "oriental fruit fly"
+            "oriental fruit fly",
+            "off"
         ],
-        [
-            "orange county"
+        "target_names": [
+            "fountain valley",
+            "fountain valley area"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "bactrocera dorsalis",
-            "off",
-            "oriental fruit fly"
+            "oriental fruit fly",
+            "off"
         ],
-        [
+        "target_names": [
             "california"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "bactrocera dorsalis",
-            "off",
-            "oriental fruit fly"
+            "oriental fruit fly",
+            "off"
         ],
-        [
-            "fountain valley area",
-            "fountain valley"
+        "target_names": [
+            "orange county"
         ]
-    ]
+    }
 ]

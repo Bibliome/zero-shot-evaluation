@@ -1,138 +1,138 @@
 [
-    [
-        "Located in",
-        [
-            "olive"
-        ],
-        [
-            "apulian",
-            "puglia"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella",
+    {
+        "type": "located in",
+        "source_names": [
             "xyella",
-            "xylella fastidiosa"
+            "xylella fastidiosa",
+            "xylella"
         ],
-        [
-            "apulian",
-            "puglia"
+        "target_names": [
+            "martina franca"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella",
-            "xyella",
-            "xylella fastidiosa"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive trees"
         ],
-        [
+        "target_names": [
             "fasano area",
             "fasano"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xyella",
-            "xylella fastidiosa"
+            "xylella fastidiosa",
+            "xylella"
         ],
-        [
-            "olive"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella",
-            "xyella",
-            "xylella fastidiosa"
-        ],
-        [
-            "martina franca"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella",
-            "xyella",
-            "xylella fastidiosa"
-        ],
-        [
-            "locorotondo"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees"
-        ],
-        [
+        "target_names": [
             "apulian",
             "puglia"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive"
+        ],
+        "target_names": [
+            "apulian",
+            "puglia"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xyella",
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "polignano"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "olive trees"
         ],
-        [
+        "target_names": [
+            "martina franca"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xyella",
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "olive trees"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive trees"
+        ],
+        "target_names": [
+            "apulian",
+            "puglia"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xyella",
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "locorotondo"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xyella",
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "olive"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive trees"
+        ],
+        "target_names": [
+            "locorotondo"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xyella",
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
             "fasano area",
             "fasano"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "olive trees"
         ],
-        [
-            "martina franca"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella",
-            "xyella",
-            "xylella fastidiosa"
-        ],
-        [
+        "target_names": [
             "polignano"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees"
-        ],
-        [
-            "locorotondo"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella",
-            "xyella",
-            "xylella fastidiosa"
-        ],
-        [
-            "olive trees"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees"
-        ],
-        [
-            "polignano"
-        ]
-    ]
+    }
 ]

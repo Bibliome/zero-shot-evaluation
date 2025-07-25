@@ -1,12 +1,12 @@
 [
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "xylella",
             "xylella fastidiosa"
         ],
-        [
+        "target_names": [
             "puglia"
         ]
-    ]
+    }
 ]

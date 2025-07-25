@@ -1,49 +1,49 @@
 [
-    [
-        "Affects",
-        [
-            "greening",
-            "hlb",
-            "huanglongbing"
-        ],
-        [
-            "citrus species",
-            "citrus"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
+    {
+        "type": "has been found on",
+        "source_names": [
             "clas",
             "candidatus liberibacter asiaticus"
         ],
-        [
+        "target_names": [
             "citrus\u00d7 sinensis(l.) osbeck",
-            "sweet orange",
-            "pera sweet orange"
+            "pera sweet orange",
+            "sweet orange"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "clas",
-            "candidatus liberibacter asiaticus"
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "greening",
+            "huanglongbing",
+            "hlb"
         ],
-        [
+        "target_names": [
             "citrus species",
             "citrus"
         ]
-    ],
-    [
-        "Causes",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "clas",
             "candidatus liberibacter asiaticus"
         ],
-        [
-            "greening",
-            "hlb",
-            "huanglongbing"
+        "target_names": [
+            "citrus species",
+            "citrus"
         ]
-    ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "clas",
+            "candidatus liberibacter asiaticus"
+        ],
+        "target_names": [
+            "greening",
+            "huanglongbing",
+            "hlb"
+        ]
+    }
 ]

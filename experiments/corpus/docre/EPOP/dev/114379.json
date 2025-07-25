@@ -1,188 +1,188 @@
 [
-    [
-        "Has been found on",
-        [
+    {
+        "type": "has been found on",
+        "source_names": [
             "xylella fastidiosa"
         ],
-        [
-            "lavender plants"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa"
-        ],
-        [
-            "espinho"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa"
-        ],
-        [
-            "citrus limon"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa"
-        ],
-        [
-            "citrus"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus"
-        ],
-        [
-            "espinho"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa"
-        ],
-        [
+        "target_names": [
             "vine"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylella fastidiosa"
         ],
-        [
+        "target_names": [
+            "espinho"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus"
+        ],
+        "target_names": [
+            "porto",
+            "metropolitan area of porto",
+            "porto metropolitan area"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus"
+        ],
+        "target_names": [
+            "vila nova de gaia"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella fastidiosa"
+        ],
+        "target_names": [
+            "lavender plants"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa"
+        ],
+        "target_names": [
+            "porto",
+            "metropolitan area of porto",
+            "porto metropolitan area"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa"
+        ],
+        "target_names": [
+            "vila nova de gaia"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella fastidiosa"
+        ],
+        "target_names": [
             "citrus reticulata blanco"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylella fastidiosa"
         ],
-        [
-            "vila nova de gaia"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "lavender plants"
-        ],
-        [
-            "metropolitan area of porto",
-            "porto",
-            "porto metropolitan area"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa"
-        ],
-        [
-            "metropolitan area of porto",
-            "porto",
-            "porto metropolitan area"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus"
-        ],
-        [
-            "vila nova de gaia"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa"
-        ],
-        [
-            "almond"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "lavender plants"
-        ],
-        [
+        "target_names": [
             "'zoo' in vila nova de gaia"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "xylella fastidiosa"
         ],
-        [
-            "'zoo' in vila nova de gaia"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus"
-        ],
-        [
-            "metropolitan area of porto",
-            "porto",
-            "porto metropolitan area"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa"
-        ],
-        [
-            "fig"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa"
-        ],
-        [
-            "olive"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa"
-        ],
-        [
-            "santa maria da feira"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa"
-        ],
-        [
+        "target_names": [
             "acacia longifolia"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella fastidiosa"
+        ],
+        "target_names": [
+            "fig"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "citrus"
         ],
-        [
+        "target_names": [
             "santa maria da feira"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa"
+        ],
+        "target_names": [
+            "santa maria da feira"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella fastidiosa"
+        ],
+        "target_names": [
+            "olive"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "lavender plants"
+        ],
+        "target_names": [
+            "porto",
+            "metropolitan area of porto",
+            "porto metropolitan area"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella fastidiosa"
+        ],
+        "target_names": [
+            "almond"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus"
+        ],
+        "target_names": [
+            "espinho"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "lavender plants"
+        ],
+        "target_names": [
+            "'zoo' in vila nova de gaia"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella fastidiosa"
+        ],
+        "target_names": [
+            "citrus limon"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella fastidiosa"
+        ],
+        "target_names": [
+            "citrus"
+        ]
+    }
 ]

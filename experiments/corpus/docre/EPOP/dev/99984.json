@@ -1,29 +1,29 @@
 [
-    [
-        "Has been found on",
-        [
+    {
+        "type": "has been found on",
+        "source_names": [
             "popillia japonica"
         ],
-        [
+        "target_names": [
             "hazelnuts"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "hazelnuts"
+        ],
+        "target_names": [
+            "piedmont"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "popillia japonica"
         ],
-        [
+        "target_names": [
             "piedmont"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "hazelnuts"
-        ],
-        [
-            "piedmont"
-        ]
-    ]
+    }
 ]

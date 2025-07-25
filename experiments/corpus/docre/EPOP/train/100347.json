@@ -1,87 +1,87 @@
 [
-    [
-        "Located in",
-        [
-            "fall armyworms",
-            "fall armyworm"
+    {
+        "type": "has been found on",
+        "source_names": [
+            "fall armyworm",
+            "fall armyworms"
         ],
-        [
-            "u.s."
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "fall armyworms",
-            "fall armyworm"
-        ],
-        [
-            "tip of florida"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "fall armyworms",
-            "fall armyworm"
-        ],
-        [
-            "new haven"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "fall armyworms",
-            "fall armyworm"
-        ],
-        [
-            "corn",
+        "target_names": [
             "bt corn",
+            "corn",
             "corn fields"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "fall armyworms",
-            "fall armyworm"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "fall armyworm",
+            "fall armyworms"
         ],
-        [
+        "target_names": [
             "mexico"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "corn",
-            "bt corn",
-            "corn fields"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "fall armyworm",
+            "fall armyworms"
         ],
-        [
+        "target_names": [
             "u.s."
         ]
-    ],
-    [
-        "Located in",
-        [
-            "fall armyworms",
-            "fall armyworm"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "fall armyworm",
+            "fall armyworms"
         ],
-        [
-            "southern texas"
+        "target_names": [
+            "new haven"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "corn",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "bt corn",
+            "corn",
             "corn fields"
         ],
-        [
+        "target_names": [
             "arrow rock",
             "northwest of arrow rock"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "fall armyworm",
+            "fall armyworms"
+        ],
+        "target_names": [
+            "tip of florida"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "bt corn",
+            "corn",
+            "corn fields"
+        ],
+        "target_names": [
+            "u.s."
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "fall armyworm",
+            "fall armyworms"
+        ],
+        "target_names": [
+            "southern texas"
+        ]
+    }
 ]

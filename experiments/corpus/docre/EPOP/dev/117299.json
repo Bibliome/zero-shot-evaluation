@@ -1,134 +1,134 @@
 [
-    [
-        "Affects",
-        [
-            "panama disease"
+    {
+        "type": "has been found on",
+        "source_names": [
+            "fusarium race 4 tropical",
+            "tr4",
+            "r4t strain",
+            "foc t4r",
+            "fusarium (t4r )"
         ],
-        [
-            "variety cavendish",
-            "cavendish banana plants",
-            "cavendish varieties",
-            "variety of cavendish banana",
-            "cavendish banana"
+        "target_names": [
+            "banana",
+            "banana variety",
+            "banana plants"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "variety cavendish",
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "banana",
+            "banana variety",
+            "banana plants"
+        ],
+        "target_names": [
+            "israel"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "variety of cavendish banana",
             "cavendish banana plants",
             "cavendish varieties",
-            "variety of cavendish banana",
-            "cavendish banana"
+            "cavendish banana",
+            "variety cavendish"
         ],
-        [
+        "target_names": [
             "philippines"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "banana",
-            "banana plants",
-            "banana variety"
-        ],
-        [
-            "israel"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "foc t4r",
-            "fusarium (t4r )",
-            "r4t strain",
-            "tr4",
-            "fusarium race 4 tropical"
-        ],
-        [
-            "banana",
-            "banana plants",
-            "banana variety"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "panama disease"
-        ],
-        [
-            "banana",
-            "banana plants",
-            "banana variety"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "variety cavendish",
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "variety of cavendish banana",
             "cavendish banana plants",
             "cavendish varieties",
-            "variety of cavendish banana",
-            "cavendish banana"
+            "cavendish banana",
+            "variety cavendish"
         ],
-        [
+        "target_names": [
             "netherlands"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "variety cavendish",
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "panama disease"
+        ],
+        "target_names": [
+            "banana",
+            "banana variety",
+            "banana plants"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "fusarium race 4 tropical",
+            "tr4",
+            "r4t strain",
+            "foc t4r",
+            "fusarium (t4r )"
+        ],
+        "target_names": [
+            "variety of cavendish banana",
             "cavendish banana plants",
             "cavendish varieties",
-            "variety of cavendish banana",
-            "cavendish banana"
-        ],
-        [
-            "israel"
+            "cavendish banana",
+            "variety cavendish"
         ]
-    ],
-    [
-        "Causes",
-        [
-            "foc t4r",
-            "fusarium (t4r )",
-            "r4t strain",
-            "tr4",
-            "fusarium race 4 tropical"
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "panama disease"
         ],
-        [
+        "target_names": [
+            "variety of cavendish banana",
+            "cavendish banana plants",
+            "cavendish varieties",
+            "cavendish banana",
+            "variety cavendish"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "fusarium race 4 tropical",
+            "tr4",
+            "r4t strain",
+            "foc t4r",
+            "fusarium (t4r )"
+        ],
+        "target_names": [
             "panama disease"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "foc t4r",
-            "fusarium (t4r )",
-            "r4t strain",
-            "tr4",
-            "fusarium race 4 tropical"
-        ],
-        [
-            "colombia"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "foc t4r",
-            "fusarium (t4r )",
-            "r4t strain",
-            "tr4",
-            "fusarium race 4 tropical"
-        ],
-        [
-            "variety cavendish",
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "variety of cavendish banana",
             "cavendish banana plants",
             "cavendish varieties",
-            "variety of cavendish banana",
-            "cavendish banana"
+            "cavendish banana",
+            "variety cavendish"
+        ],
+        "target_names": [
+            "israel"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "fusarium race 4 tropical",
+            "tr4",
+            "r4t strain",
+            "foc t4r",
+            "fusarium (t4r )"
+        ],
+        "target_names": [
+            "colombia"
+        ]
+    }
 ]

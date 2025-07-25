@@ -1,80 +1,80 @@
 [
-    [
-        "Located in",
-        [
-            "bananas",
-            "plantain plantations",
-            "banana",
+    {
+        "type": "located in",
+        "source_names": [
+            "race four tropical",
+            "fusarium oxysporum f. sp. cubense"
+        ],
+        "target_names": [
+            "cumanayaguan"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "banana plantations",
+            "banana",
+            "plantain plantations",
+            "bananas",
             "plantains"
         ],
-        [
+        "target_names": [
             "cuba"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "fusarium oxysporum f. sp. cubense",
-            "race four tropical"
-        ],
-        [
-            "cuba"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "plantain disease"
         ],
-        [
+        "target_names": [
             "cuba"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "bananas",
-            "plantain plantations",
-            "banana",
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "race four tropical",
+            "fusarium oxysporum f. sp. cubense"
+        ],
+        "target_names": [
             "banana plantations",
+            "banana",
+            "plantain plantations",
+            "bananas",
             "plantains"
-        ],
-        [
-            "cumanayaguan"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "fusarium oxysporum f. sp. cubense",
-            "race four tropical"
-        ],
-        [
-            "cumanayaguan"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "plantain disease"
         ],
-        [
+        "target_names": [
             "cumanayaguan"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "fusarium oxysporum f. sp. cubense",
-            "race four tropical"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "race four tropical",
+            "fusarium oxysporum f. sp. cubense"
         ],
-        [
-            "bananas",
-            "plantain plantations",
-            "banana",
-            "banana plantations",
-            "plantains"
+        "target_names": [
+            "cuba"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "banana plantations",
+            "banana",
+            "plantain plantations",
+            "bananas",
+            "plantains"
+        ],
+        "target_names": [
+            "cumanayaguan"
+        ]
+    }
 ]

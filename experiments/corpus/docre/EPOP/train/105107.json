@@ -1,78 +1,78 @@
 [
-    [
-        "Causes",
-        [
+    {
+        "type": "located in",
+        "source_names": [
+            "flavescence dor\u00e9e"
+        ],
+        "target_names": [
+            "canton of ticino"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "flavescence dor\u00e9e"
+        ],
+        "target_names": [
+            "vine",
+            "vines"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "flavescence dor\u00e9e"
+        ],
+        "target_names": [
+            "switzerland"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "vine",
+            "vines"
+        ],
+        "target_names": [
+            "canton of ticino"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
             "candidatus phytoplasma vitis"
         ],
-        [
+        "target_names": [
             "golden flavescence"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "flavescence dor\u00e9e"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "vine",
+            "vines"
         ],
-        [
+        "target_names": [
             "switzerland"
         ]
-    ],
-    [
-        "Affects",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "flavescence dor\u00e9e"
         ],
-        [
-            "vines",
-            "vine"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "vines",
-            "vine"
-        ],
-        [
-            "switzerland"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "flavescence dor\u00e9e"
-        ],
-        [
+        "target_names": [
             "france"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "flavescence dor\u00e9e"
-        ],
-        [
-            "canton of ticino"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "vines",
-            "vine"
-        ],
-        [
-            "canton of ticino"
-        ]
-    ],
-    [
-        "Affects",
-        [
+    },
+    {
+        "type": "affects",
+        "source_names": [
             "golden flavescence"
         ],
-        [
-            "vines",
-            "vine"
+        "target_names": [
+            "vine",
+            "vines"
         ]
-    ]
+    }
 ]

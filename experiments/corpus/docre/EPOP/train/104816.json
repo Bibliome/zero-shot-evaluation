@@ -1,197 +1,197 @@
 [
-    [
-        "Causes",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "pine wood nematode",
-            "bursaphelenchus xylophilus",
-            "pinewood nematode"
+            "pinewood nematode",
+            "bursaphelenchus xylophilus"
         ],
-        [
-            "pine wilt disease"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "pine wood nematode",
-            "bursaphelenchus xylophilus",
-            "pinewood nematode"
-        ],
-        [
-            "china"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "pine wilt disease"
-        ],
-        [
-            "pines"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "pine wilt disease"
-        ],
-        [
-            "china"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "pines"
-        ],
-        [
-            "china"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "pine wood nematode",
-            "bursaphelenchus xylophilus",
-            "pinewood nematode"
-        ],
-        [
+        "target_names": [
             "portugal"
         ]
-    ],
-    [
-        "Transmits",
-        [
-            "japanese pine sawyer",
-            "m. alternatus",
-            "monochamus alternatus",
+    },
+    {
+        "type": "transmits",
+        "source_names": [
             "non-local pine sawyer",
             "pine sawyer beetle",
-            "monochamus alternatus hope"
+            "m. alternatus",
+            "japanese pine sawyer",
+            "monochamus alternatus hope",
+            "monochamus alternatus"
         ],
-        [
-            "pine wood nematode",
-            "bursaphelenchus xylophilus",
-            "pinewood nematode"
-        ]
-    ],
-    [
-        "Located in",
-        [
+        "target_names": [
             "pine wilt disease"
-        ],
-        [
-            "portugal"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "pines"
-        ],
-        [
-            "portugal"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "japanese pine sawyer",
-            "m. alternatus",
-            "monochamus alternatus",
-            "non-local pine sawyer",
-            "pine sawyer beetle",
-            "monochamus alternatus hope"
-        ],
-        [
-            "china"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "japanese pine sawyer",
-            "m. alternatus",
-            "monochamus alternatus",
-            "non-local pine sawyer",
-            "pine sawyer beetle",
-            "monochamus alternatus hope"
-        ],
-        [
-            "portugal"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "japanese pine sawyer",
-            "m. alternatus",
-            "monochamus alternatus",
-            "non-local pine sawyer",
-            "pine sawyer beetle",
-            "monochamus alternatus hope"
-        ],
-        [
-            "pines"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "pine wilt disease"
-        ],
-        [
-            "yunnan"
-        ]
-    ],
-    [
-        "Transmits",
-        [
+    },
+    {
+        "type": "transmits",
+        "source_names": [
             "monochamus spp."
         ],
-        [
+        "target_names": [
             "pine wood nematode",
-            "bursaphelenchus xylophilus",
-            "pinewood nematode"
+            "pinewood nematode",
+            "bursaphelenchus xylophilus"
         ]
-    ],
-    [
-        "Transmits",
-        [
-            "japanese pine sawyer",
-            "m. alternatus",
-            "monochamus alternatus",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "non-local pine sawyer",
             "pine sawyer beetle",
-            "monochamus alternatus hope"
+            "m. alternatus",
+            "japanese pine sawyer",
+            "monochamus alternatus hope",
+            "monochamus alternatus"
         ],
-        [
+        "target_names": [
+            "china"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "pine wood nematode",
+            "pinewood nematode",
+            "bursaphelenchus xylophilus"
+        ],
+        "target_names": [
             "pine wilt disease"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "pine wood nematode",
-            "bursaphelenchus xylophilus",
-            "pinewood nematode"
-        ],
-        [
-            "pines"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "japanese pine sawyer",
-            "m. alternatus",
-            "monochamus alternatus",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "non-local pine sawyer",
             "pine sawyer beetle",
-            "monochamus alternatus hope"
+            "m. alternatus",
+            "japanese pine sawyer",
+            "monochamus alternatus hope",
+            "monochamus alternatus"
         ],
-        [
+        "target_names": [
+            "portugal"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "pines"
+        ],
+        "target_names": [
+            "china"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "non-local pine sawyer",
+            "pine sawyer beetle",
+            "m. alternatus",
+            "japanese pine sawyer",
+            "monochamus alternatus hope",
+            "monochamus alternatus"
+        ],
+        "target_names": [
             "yunnan"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "pine wilt disease"
+        ],
+        "target_names": [
+            "china"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "pines"
+        ],
+        "target_names": [
+            "portugal"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "non-local pine sawyer",
+            "pine sawyer beetle",
+            "m. alternatus",
+            "japanese pine sawyer",
+            "monochamus alternatus hope",
+            "monochamus alternatus"
+        ],
+        "target_names": [
+            "pines"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "pine wilt disease"
+        ],
+        "target_names": [
+            "portugal"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "pine wilt disease"
+        ],
+        "target_names": [
+            "yunnan"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "pine wood nematode",
+            "pinewood nematode",
+            "bursaphelenchus xylophilus"
+        ],
+        "target_names": [
+            "pines"
+        ]
+    },
+    {
+        "type": "transmits",
+        "source_names": [
+            "non-local pine sawyer",
+            "pine sawyer beetle",
+            "m. alternatus",
+            "japanese pine sawyer",
+            "monochamus alternatus hope",
+            "monochamus alternatus"
+        ],
+        "target_names": [
+            "pine wood nematode",
+            "pinewood nematode",
+            "bursaphelenchus xylophilus"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "pine wilt disease"
+        ],
+        "target_names": [
+            "pines"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "pine wood nematode",
+            "pinewood nematode",
+            "bursaphelenchus xylophilus"
+        ],
+        "target_names": [
+            "china"
+        ]
+    }
 ]

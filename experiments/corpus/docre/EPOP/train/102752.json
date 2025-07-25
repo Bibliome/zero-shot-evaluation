@@ -1,61 +1,61 @@
 [
-    [
-        "Located in",
-        [
-            "acrogonia",
+    {
+        "type": "located in",
+        "source_names": [
             "acrogonia albertoi",
+            "acrogonia",
             "acrogonia specimens"
         ],
-        [
-            "flona tapaj\u00f3s",
-            "belterra",
-            "tapaj\u00f3s national forest"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "acrogonia",
-            "acrogonia albertoi",
-            "acrogonia specimens"
-        ],
-        [
+        "target_names": [
             "western par\u00e1"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "diestostemma cavichiolii",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "diestostemma specimens",
+            "diestostemma cavichiolii",
             "diestostemma"
         ],
-        [
-            "flona tapaj\u00f3s",
-            "belterra",
-            "tapaj\u00f3s national forest"
+        "target_names": [
+            "western par\u00e1"
         ]
-    ],
-    [
-        "Transmits",
-        [
-            "acrogonia",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "acrogonia albertoi",
+            "acrogonia",
             "acrogonia specimens"
         ],
-        [
+        "target_names": [
+            "flona tapaj\u00f3s",
+            "tapaj\u00f3s national forest",
+            "belterra"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "diestostemma specimens",
+            "diestostemma cavichiolii",
+            "diestostemma"
+        ],
+        "target_names": [
+            "flona tapaj\u00f3s",
+            "tapaj\u00f3s national forest",
+            "belterra"
+        ]
+    },
+    {
+        "type": "transmits",
+        "source_names": [
+            "acrogonia albertoi",
+            "acrogonia",
+            "acrogonia specimens"
+        ],
+        "target_names": [
             "xylella fastidiosa"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "diestostemma cavichiolii",
-            "diestostemma specimens",
-            "diestostemma"
-        ],
-        [
-            "western par\u00e1"
-        ]
-    ]
+    }
 ]

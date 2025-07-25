@@ -1,66 +1,66 @@
 [
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "xylella fastidiosa"
         ],
-        [
-            "algarve"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa"
-        ],
-        [
-            "santo estev\u00e3o"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa"
-        ],
-        [
+        "target_names": [
             "algarve region"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "rosemary"
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella fastidiosa"
         ],
-        [
+        "target_names": [
+            "rosemary"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa"
+        ],
+        "target_names": [
             "algarve"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylella fastidiosa"
         ],
-        [
+        "target_names": [
+            "demarcated area of luz de tavira",
+            "luz de tavira"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "rosemary"
+        ],
+        "target_names": [
+            "algarve"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa"
+        ],
+        "target_names": [
+            "santo estev\u00e3o"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa"
+        ],
+        "target_names": [
             "municipality of tavira"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa"
-        ],
-        [
-            "luz de tavira",
-            "demarcated area of luz de tavira"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa"
-        ],
-        [
-            "rosemary"
-        ]
-    ]
+    }
 ]

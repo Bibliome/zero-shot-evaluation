@@ -1,270 +1,270 @@
 [
-    [
-        "Located in",
-        [
-            "banana",
-            "plantain"
+    {
+        "type": "located in",
+        "source_names": [
+            "plantain",
+            "banana"
         ],
-        [
-            "regions of cusco"
+        "target_names": [
+            "colombia"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "banana",
-            "plantain"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plantain",
+            "banana"
         ],
-        [
+        "target_names": [
+            "regions of madre de dios"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plantain",
+            "banana"
+        ],
+        "target_names": [
+            "regions of puno"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "fusarium tropical race 4",
+            "fusarium race 4 tropical",
+            "fusarium r4t",
+            "tropical fusarium race 4",
+            "foc r4t"
+        ],
+        "target_names": [
+            "piura",
+            "regions of piura"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plantain",
+            "banana"
+        ],
+        "target_names": [
+            "regions of la libertad"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plantain",
+            "banana"
+        ],
+        "target_names": [
             "regions of tumbes",
             "tumbes region"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "banana",
-            "plantain"
-        ],
-        [
-            "regions of cajamarca"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "banana",
-            "plantain"
-        ],
-        [
-            "regions of ucayali"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "fusarium tropical race 4",
             "fusarium race 4 tropical",
+            "fusarium r4t",
             "tropical fusarium race 4",
-            "foc r4t",
-            "fusarium r4t"
+            "foc r4t"
         ],
-        [
-            "sullana"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "fusarium tropical race 4",
-            "fusarium race 4 tropical",
-            "tropical fusarium race 4",
-            "foc r4t",
-            "fusarium r4t"
-        ],
-        [
-            "banana",
-            "plantain"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "fusarium tropical race 4",
-            "fusarium race 4 tropical",
-            "tropical fusarium race 4",
-            "foc r4t",
-            "fusarium r4t"
-        ],
-        [
-            "peruvian territory",
-            "countries of the andean community",
-            "peru"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "banana",
-            "plantain"
-        ],
-        [
-            "regions of lambayeque"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "banana",
-            "plantain"
-        ],
-        [
-            "sullana"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "banana",
-            "plantain"
-        ],
-        [
-            "peruvian territory",
-            "countries of the andean community",
-            "peru"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "banana",
-            "plantain"
-        ],
-        [
-            "regions of san mart\u00edn"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "fusarium tropical race 4",
-            "fusarium race 4 tropical",
-            "tropical fusarium race 4",
-            "foc r4t",
-            "fusarium r4t"
-        ],
-        [
-            "piura",
-            "regions of piura"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "banana",
-            "plantain"
-        ],
-        [
-            "regions of puno"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "banana",
-            "plantain"
-        ],
-        [
-            "piura",
-            "regions of piura"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "banana",
-            "plantain"
-        ],
-        [
-            "regions of amazonas"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "banana",
-            "plantain"
-        ],
-        [
-            "regions of loreto"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "banana",
-            "plantain"
-        ],
-        [
-            "regions of hu\u00e1nuco"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "banana",
-            "plantain"
-        ],
-        [
-            "regions of la libertad"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "fusarium tropical race 4",
-            "fusarium race 4 tropical",
-            "tropical fusarium race 4",
-            "foc r4t",
-            "fusarium r4t"
-        ],
-        [
+        "target_names": [
             "colombia"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "banana",
-            "plantain"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "fusarium tropical race 4",
+            "fusarium race 4 tropical",
+            "fusarium r4t",
+            "tropical fusarium race 4",
+            "foc r4t"
         ],
-        [
-            "regions of madre de dios"
+        "target_names": [
+            "regions of tumbes",
+            "tumbes region"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "banana",
-            "plantain"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plantain",
+            "banana"
         ],
-        [
+        "target_names": [
+            "regions of cajamarca"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plantain",
+            "banana"
+        ],
+        "target_names": [
+            "regions of amazonas"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plantain",
+            "banana"
+        ],
+        "target_names": [
+            "regions of san mart\u00edn"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plantain",
+            "banana"
+        ],
+        "target_names": [
+            "regions of ucayali"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "fusarium tropical race 4",
+            "fusarium race 4 tropical",
+            "fusarium r4t",
+            "tropical fusarium race 4",
+            "foc r4t"
+        ],
+        "target_names": [
+            "plantain",
+            "banana"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plantain",
+            "banana"
+        ],
+        "target_names": [
+            "regions of cusco"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plantain",
+            "banana"
+        ],
+        "target_names": [
+            "regions of loreto"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plantain",
+            "banana"
+        ],
+        "target_names": [
+            "peru",
+            "peruvian territory",
+            "countries of the andean community"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plantain",
+            "banana"
+        ],
+        "target_names": [
+            "regions of pasco"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plantain",
+            "banana"
+        ],
+        "target_names": [
+            "sullana"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plantain",
+            "banana"
+        ],
+        "target_names": [
+            "regions of lambayeque"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plantain",
+            "banana"
+        ],
+        "target_names": [
+            "piura",
+            "regions of piura"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "fusarium tropical race 4",
+            "fusarium race 4 tropical",
+            "fusarium r4t",
+            "tropical fusarium race 4",
+            "foc r4t"
+        ],
+        "target_names": [
+            "peru",
+            "peruvian territory",
+            "countries of the andean community"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "fusarium tropical race 4",
+            "fusarium race 4 tropical",
+            "fusarium r4t",
+            "tropical fusarium race 4",
+            "foc r4t"
+        ],
+        "target_names": [
+            "sullana"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plantain",
+            "banana"
+        ],
+        "target_names": [
             "regions of jun\u00edn",
             "regions of vrae"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "banana",
-            "plantain"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plantain",
+            "banana"
         ],
-        [
-            "colombia"
+        "target_names": [
+            "regions of hu\u00e1nuco"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "fusarium tropical race 4",
-            "fusarium race 4 tropical",
-            "tropical fusarium race 4",
-            "foc r4t",
-            "fusarium r4t"
-        ],
-        [
-            "regions of tumbes",
-            "tumbes region"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "banana",
-            "plantain"
-        ],
-        [
-            "regions of pasco"
-        ]
-    ]
+    }
 ]

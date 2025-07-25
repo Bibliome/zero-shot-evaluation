@@ -1,407 +1,407 @@
 [
-    [
-        "Located in",
-        [
-            "hlb",
-            "huanglongbing"
-        ],
-        [
-            "us"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "candidatus liberibacter"
-        ],
-        [
-            "florida"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "candidatus liberibacter"
-        ],
-        [
-            "africa",
-            "african states"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "hlb",
-            "huanglongbing"
-        ],
-        [
-            "citrus",
-            "citrus tree"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "candidatus liberibacter"
-        ],
-        [
-            "brazil"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "citrus",
             "citrus tree"
         ],
-        [
+        "target_names": [
             "france"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "trioza eryteae"
-        ],
-        [
-            "europe"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "candidatus liberibacter"
-        ],
-        [
-            "citrus",
-            "citrus tree"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "orange groves",
-            "orange trees",
-            "oranges"
-        ],
-        [
-            "spain",
-            "north-west spain",
-            "southern spain"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus",
-            "citrus tree"
-        ],
-        [
-            "latin america"
-        ]
-    ],
-    [
-        "Affects",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "yellow dragon disease"
         ],
-        [
-            "citrus",
-            "citrus tree"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "orange groves",
-            "orange trees",
-            "oranges"
-        ],
-        [
-            "florida"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus",
-            "citrus tree"
-        ],
-        [
-            "portugal"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "trioza eryteae"
-        ],
-        [
-            "galicia"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "yellow dragon disease"
-        ],
-        [
-            "spain",
+        "target_names": [
+            "southern spain",
             "north-west spain",
-            "southern spain"
+            "spain"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "citrus",
             "citrus tree"
         ],
-        [
+        "target_names": [
+            "italy"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "huanglongbing",
+            "hlb"
+        ],
+        "target_names": [
+            "china"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "huanglongbing",
+            "hlb"
+        ],
+        "target_names": [
             "asia",
             "asian countries"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "candidatus liberibacter"
         ],
-        [
-            "asia",
-            "asian countries"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "hlb",
-            "huanglongbing"
-        ],
-        [
-            "florida"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "hlb",
-            "huanglongbing"
-        ],
-        [
+        "target_names": [
             "africa",
             "african states"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "orange groves",
-            "orange trees",
-            "oranges"
-        ],
-        [
-            "seville"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "yellow dragon disease"
-        ],
-        [
-            "latin america"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "candidatus liberibacter"
-        ],
-        [
-            "china"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "trioza eryteae"
         ],
-        [
-            "canaries"
+        "target_names": [
+            "europe"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "hlb",
-            "huanglongbing"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "orange trees",
+            "oranges",
+            "orange groves"
         ],
-        [
+        "target_names": [
+            "seville"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "huanglongbing",
+            "hlb"
+        ],
+        "target_names": [
+            "us"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "candidatus liberibacter"
+        ],
+        "target_names": [
+            "orange trees",
+            "oranges",
+            "orange groves"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "yellow dragon disease"
+        ],
+        "target_names": [
+            "orange trees",
+            "oranges",
+            "orange groves"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "huanglongbing",
+            "hlb"
+        ],
+        "target_names": [
             "brazil"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "yellow dragon disease"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "huanglongbing",
+            "hlb"
         ],
-        [
-            "seville"
+        "target_names": [
+            "florida"
         ]
-    ],
-    [
-        "Affects",
-        [
-            "hlb",
-            "huanglongbing"
-        ],
-        [
-            "orange groves",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "orange trees",
-            "oranges"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus",
-            "citrus tree"
+            "oranges",
+            "orange groves"
         ],
-        [
-            "us"
+        "target_names": [
+            "florida"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "candidatus liberibacter"
-        ],
-        [
-            "us"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus",
-            "citrus tree"
-        ],
-        [
-            "italy"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "candidatus liberibacter"
-        ],
-        [
-            "orange groves",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "orange trees",
-            "oranges"
-        ]
-    ],
-    [
-        "Causes",
-        [
-            "candidatus liberibacter"
+            "oranges",
+            "orange groves"
         ],
-        [
-            "hlb",
-            "huanglongbing"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "yellow dragon disease"
-        ],
-        [
-            "orange groves",
-            "orange trees",
-            "oranges"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "yellow dragon disease"
-        ],
-        [
-            "asia",
-            "asian countries"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "hlb",
-            "huanglongbing"
-        ],
-        [
-            "asia",
-            "asian countries"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "orange groves",
-            "orange trees",
-            "oranges"
-        ],
-        [
+        "target_names": [
             "europe"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "trioza eryteae"
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "candidatus liberibacter"
         ],
-        [
-            "portugal"
+        "target_names": [
+            "citrus",
+            "citrus tree"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "affects",
+        "source_names": [
             "yellow dragon disease"
         ],
-        [
-            "europe"
+        "target_names": [
+            "citrus",
+            "citrus tree"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "yellow dragon disease"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "huanglongbing",
+            "hlb"
         ],
-        [
-            "us"
+        "target_names": [
+            "africa",
+            "african states"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "hlb",
-            "huanglongbing"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "candidatus liberibacter"
         ],
-        [
+        "target_names": [
             "china"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "candidatus liberibacter"
+        ],
+        "target_names": [
+            "asia",
+            "asian countries"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "trioza eryteae"
+        ],
+        "target_names": [
+            "galicia"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "orange trees",
+            "oranges",
+            "orange groves"
+        ],
+        "target_names": [
+            "southern spain",
+            "north-west spain",
+            "spain"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "citrus",
             "citrus tree"
         ],
-        [
-            "spain",
-            "north-west spain",
-            "southern spain"
+        "target_names": [
+            "asia",
+            "asian countries"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "yellow dragon disease"
+        ],
+        "target_names": [
+            "seville"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus",
+            "citrus tree"
+        ],
+        "target_names": [
+            "latin america"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "trioza eryteae"
+        ],
+        "target_names": [
+            "portugal"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "trioza eryteae"
+        ],
+        "target_names": [
+            "canaries"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus",
+            "citrus tree"
+        ],
+        "target_names": [
+            "us"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "yellow dragon disease"
+        ],
+        "target_names": [
+            "asia",
+            "asian countries"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "candidatus liberibacter"
+        ],
+        "target_names": [
+            "us"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "yellow dragon disease"
+        ],
+        "target_names": [
+            "latin america"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "huanglongbing",
+            "hlb"
+        ],
+        "target_names": [
+            "orange trees",
+            "oranges",
+            "orange groves"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "yellow dragon disease"
+        ],
+        "target_names": [
+            "us"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "candidatus liberibacter"
+        ],
+        "target_names": [
+            "huanglongbing",
+            "hlb"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus",
+            "citrus tree"
+        ],
+        "target_names": [
+            "portugal"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "candidatus liberibacter"
+        ],
+        "target_names": [
+            "brazil"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "candidatus liberibacter"
+        ],
+        "target_names": [
+            "florida"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "huanglongbing",
+            "hlb"
+        ],
+        "target_names": [
+            "citrus",
+            "citrus tree"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "yellow dragon disease"
+        ],
+        "target_names": [
+            "europe"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus",
+            "citrus tree"
+        ],
+        "target_names": [
+            "southern spain",
+            "north-west spain",
+            "spain"
+        ]
+    }
 ]

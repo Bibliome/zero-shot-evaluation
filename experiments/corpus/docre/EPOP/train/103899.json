@@ -1,47 +1,47 @@
 [
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "xylella"
         ],
-        [
+        "target_names": [
             "lecce"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylella"
         ],
-        [
-            "lecce-bari state road"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella"
-        ],
-        [
-            "bari"
-        ]
-    ],
-    [
-        "Transmits",
-        [
-            "spittoon"
-        ],
-        [
-            "xylella"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella"
-        ],
-        [
+        "target_names": [
             "salento city"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella"
+        ],
+        "target_names": [
+            "bari"
+        ]
+    },
+    {
+        "type": "transmits",
+        "source_names": [
+            "spittoon"
+        ],
+        "target_names": [
+            "xylella"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella"
+        ],
+        "target_names": [
+            "lecce-bari state road"
+        ]
+    }
 ]

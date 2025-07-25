@@ -1,12 +1,12 @@
 [
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "bactrocera dorsalis"
         ],
-        [
+        "target_names": [
             "reunion",
             "r\u00e9union"
         ]
-    ]
+    }
 ]

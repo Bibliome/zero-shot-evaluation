@@ -1,11 +1,11 @@
 [
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "xylella fastidiosa"
         ],
-        [
+        "target_names": [
             "tavira"
         ]
-    ]
+    }
 ]

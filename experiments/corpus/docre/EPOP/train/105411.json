@@ -1,42 +1,42 @@
 [
-    [
-        "Located in",
-        [
-            "olive",
-            "olive trees"
-        ],
-        [
-            "puglia",
-            "puglia region"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa"
-        ],
-        [
+    {
+        "type": "located in",
+        "source_names": [
+            "olive trees",
             "olive"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa"
         ],
-        [
-            "olive",
-            "olive trees"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive",
-            "olive trees"
-        ],
-        [
+        "target_names": [
             "salento area"
         ]
-    ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella fastidiosa"
+        ],
+        "target_names": [
+            "olive"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive trees",
+            "olive"
+        ],
+        "target_names": [
+            "puglia region",
+            "puglia"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella fastidiosa"
+        ],
+        "target_names": [
+            "olive trees",
+            "olive"
+        ]
+    }
 ]

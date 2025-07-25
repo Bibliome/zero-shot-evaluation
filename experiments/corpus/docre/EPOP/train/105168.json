@@ -1,91 +1,91 @@
 [
-    [
-        "Located in",
-        [
-            "tobrfv",
-            "tomato brown rugose fruit virus"
+    {
+        "type": "located in",
+        "source_names": [
+            "tomato brown rugose fruit virus",
+            "tobrfv"
         ],
-        [
+        "target_names": [
+            "region of varsinais-suomi"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tomato brown rugose fruit virus",
+            "tobrfv"
+        ],
+        "target_names": [
             "finland"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "tobamovirus"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "solanum lycopersicum",
+            "tomato plants"
         ],
-        [
+        "target_names": [
             "municipality of turku"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tomato brown rugose fruit virus",
+            "tobrfv"
+        ],
+        "target_names": [
+            "solanum lycopersicum",
+            "tomato plants"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "tobamovirus"
         ],
-        [
-            "region of varsinais-suomi"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "tobrfv",
-            "tomato brown rugose fruit virus"
-        ],
-        [
-            "municipality of turku"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "solanum lycopersicum",
-            "tomato plants"
-        ],
-        [
-            "municipality of turku"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "tobrfv",
-            "tomato brown rugose fruit virus"
-        ],
-        [
-            "region of varsinais-suomi"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "solanum lycopersicum",
-            "tomato plants"
-        ],
-        [
-            "region of varsinais-suomi"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tobrfv",
-            "tomato brown rugose fruit virus"
-        ],
-        [
+        "target_names": [
             "solanum lycopersicum",
             "tomato plants"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "tobamovirus"
         ],
-        [
+        "target_names": [
+            "municipality of turku"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tobamovirus"
+        ],
+        "target_names": [
+            "region of varsinais-suomi"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tomato brown rugose fruit virus",
+            "tobrfv"
+        ],
+        "target_names": [
+            "municipality of turku"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "solanum lycopersicum",
             "tomato plants"
+        ],
+        "target_names": [
+            "region of varsinais-suomi"
         ]
-    ]
+    }
 ]

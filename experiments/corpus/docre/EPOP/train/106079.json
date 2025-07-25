@@ -1,68 +1,68 @@
 [
-    [
-        "Has been found on",
-        [
-            "tobrfv",
+    {
+        "type": "located in",
+        "source_names": [
             "virus of brown wrinkling",
-            "tomato brown wrinkle virus"
+            "tomato brown wrinkle virus",
+            "tobrfv"
         ],
-        [
+        "target_names": [
+            "community of levidi"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tomato",
+            "tomatoes"
+        ],
+        "target_names": [
+            "community of levidi"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "virus of brown wrinkling",
+            "tomato brown wrinkle virus",
+            "tobrfv"
+        ],
+        "target_names": [
             "pepper plants",
             "peppers"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tobrfv",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "virus of brown wrinkling",
-            "tomato brown wrinkle virus"
+            "tomato brown wrinkle virus",
+            "tobrfv"
         ],
-        [
-            "tomatoes",
-            "tomato"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "tobrfv",
-            "virus of brown wrinkling",
-            "tomato brown wrinkle virus"
-        ],
-        [
+        "target_names": [
             "arcadia"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "tobrfv",
-            "virus of brown wrinkling",
-            "tomato brown wrinkle virus"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tomato",
+            "tomatoes"
         ],
-        [
-            "community of levidi"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "tomatoes",
-            "tomato"
-        ],
-        [
+        "target_names": [
             "arcadia"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "tomatoes",
-            "tomato"
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "virus of brown wrinkling",
+            "tomato brown wrinkle virus",
+            "tobrfv"
         ],
-        [
-            "community of levidi"
+        "target_names": [
+            "tomato",
+            "tomatoes"
         ]
-    ]
+    }
 ]

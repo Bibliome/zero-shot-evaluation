@@ -1,306 +1,306 @@
 [
-    [
-        "Located in",
-        [
-            "tropical race 4",
-            "tr4",
-            "fusarium odoratissimum tropical race 4",
-            "tr4 fungus"
-        ],
-        [
-            "africa",
-            "african",
-            "african countries"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "fusarium wilt"
         ],
-        [
-            "africa",
+        "target_names": [
             "african",
-            "african countries"
+            "african countries",
+            "africa"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "cavendish banana"
-        ],
-        [
-            "uganda"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "banana disease"
-        ],
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "banana strains",
-            "banana varieties",
-            "african banana varieties",
-            "banana",
             "bananas",
-            "banana plants"
-        ]
-    ],
-    [
-        "Causes",
-        [
-            "tropical race 4",
-            "tr4",
-            "fusarium odoratissimum tropical race 4",
-            "tr4 fungus"
+            "african banana varieties",
+            "banana plants",
+            "banana",
+            "banana varieties"
         ],
-        [
-            "fusarium wilt"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "tropical race 4",
-            "tr4",
-            "fusarium odoratissimum tropical race 4",
-            "tr4 fungus"
-        ],
-        [
+        "target_names": [
             "mozambique"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "banana strains",
-            "banana varieties",
-            "african banana varieties",
-            "banana",
-            "bananas",
-            "banana plants"
-        ],
-        [
-            "ruanda"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "fusarium wilt"
-        ],
-        [
-            "mozambique"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "banana strains",
-            "banana varieties",
-            "african banana varieties",
-            "banana",
-            "bananas",
-            "banana plants"
-        ],
-        [
-            "tanzania"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "tropical race 4",
             "tr4",
             "fusarium odoratissimum tropical race 4",
             "tr4 fungus"
         ],
-        [
-            "south america"
+        "target_names": [
+            "african",
+            "african countries",
+            "africa"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "fusarium wilt"
-        ],
-        [
-            "south america"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tropical race 4",
-            "tr4",
-            "fusarium odoratissimum tropical race 4",
-            "tr4 fungus"
-        ],
-        [
-            "banana strains",
-            "banana varieties",
-            "african banana varieties",
-            "banana",
-            "bananas",
-            "banana plants"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "affects",
+        "source_names": [
             "panama disease"
         ],
-        [
-            "latin america"
+        "target_names": [
+            "banana strains",
+            "bananas",
+            "african banana varieties",
+            "banana plants",
+            "banana",
+            "banana varieties"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "banana disease"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tropical race 4",
+            "tr4",
+            "fusarium odoratissimum tropical race 4",
+            "tr4 fungus"
         ],
-        [
-            "africa",
-            "african",
-            "african countries"
+        "target_names": [
+            "south america"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "fusarium wilt"
+        ],
+        "target_names": [
+            "south america"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "fusarium wilt"
+        ],
+        "target_names": [
+            "asia"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tropical race 4",
+            "tr4",
+            "fusarium odoratissimum tropical race 4",
+            "tr4 fungus"
+        ],
+        "target_names": [
+            "asia"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "cavendish banana"
         ],
-        [
+        "target_names": [
+            "tanzania"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "banana disease"
+        ],
+        "target_names": [
+            "african",
+            "african countries",
+            "africa"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "fusarium wilt"
+        ],
+        "target_names": [
+            "mozambique"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tropical race 4",
+            "tr4",
+            "fusarium odoratissimum tropical race 4",
+            "tr4 fungus"
+        ],
+        "target_names": [
+            "mozambique"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "banana strains",
+            "bananas",
+            "african banana varieties",
+            "banana plants",
+            "banana",
+            "banana varieties"
+        ],
+        "target_names": [
+            "ruanda"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "banana strains",
+            "bananas",
+            "african banana varieties",
+            "banana plants",
+            "banana",
+            "banana varieties"
+        ],
+        "target_names": [
+            "uganda"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "fusarium wilt of banana"
+        ],
+        "target_names": [
+            "mozambique"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "banana disease"
+        ],
+        "target_names": [
+            "banana strains",
+            "bananas",
+            "african banana varieties",
+            "banana plants",
+            "banana",
+            "banana varieties"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "tropical race 4",
+            "tr4",
+            "fusarium odoratissimum tropical race 4",
+            "tr4 fungus"
+        ],
+        "target_names": [
+            "fusarium wilt of banana"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "cavendish banana"
+        ],
+        "target_names": [
             "malawi"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "banana strains",
-            "banana varieties",
-            "african banana varieties",
-            "banana",
-            "bananas",
-            "banana plants"
-        ],
-        [
-            "mozambique"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "cavendish banana"
-        ],
-        [
-            "tanzania"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "tropical race 4",
             "tr4",
             "fusarium odoratissimum tropical race 4",
             "tr4 fungus"
         ],
-        [
-            "cavendish banana"
+        "target_names": [
+            "banana strains",
+            "bananas",
+            "african banana varieties",
+            "banana plants",
+            "banana",
+            "banana varieties"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "cavendish banana"
         ],
-        [
+        "target_names": [
             "ruanda"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "banana strains",
-            "banana varieties",
-            "african banana varieties",
-            "banana",
             "bananas",
-            "banana plants"
-        ],
-        [
-            "uganda"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "panama disease"
-        ],
-        [
-            "banana strains",
-            "banana varieties",
             "african banana varieties",
+            "banana plants",
             "banana",
-            "bananas",
-            "banana plants"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "banana strains",
-            "banana varieties",
-            "african banana varieties",
-            "banana",
-            "bananas",
-            "banana plants"
+            "banana varieties"
         ],
-        [
+        "target_names": [
             "latin america"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "causes",
+        "source_names": [
             "tropical race 4",
             "tr4",
             "fusarium odoratissimum tropical race 4",
             "tr4 fungus"
         ],
-        [
-            "asia"
-        ]
-    ],
-    [
-        "Located in",
-        [
+        "target_names": [
             "fusarium wilt"
-        ],
-        [
-            "asia"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "fusarium wilt of banana"
-        ],
-        [
-            "mozambique"
-        ]
-    ],
-    [
-        "Causes",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "tropical race 4",
             "tr4",
             "fusarium odoratissimum tropical race 4",
             "tr4 fungus"
         ],
-        [
-            "fusarium wilt of banana"
+        "target_names": [
+            "cavendish banana"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "cavendish banana"
+        ],
+        "target_names": [
+            "uganda"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "panama disease"
+        ],
+        "target_names": [
+            "latin america"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "banana strains",
+            "bananas",
+            "african banana varieties",
+            "banana plants",
+            "banana",
+            "banana varieties"
+        ],
+        "target_names": [
+            "tanzania"
+        ]
+    }
 ]

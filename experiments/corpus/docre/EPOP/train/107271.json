@@ -1,105 +1,105 @@
 [
-    [
-        "Located in",
-        [
-            "banana plant",
-            "bananas",
+    {
+        "type": "located in",
+        "source_names": [
+            "banana",
             "banana variety",
-            "banana"
-        ],
-        [
-            "uganda"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "banana plant",
             "bananas",
-            "banana variety",
-            "banana"
+            "banana plant"
         ],
-        [
+        "target_names": [
             "tanzania"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "banana plant",
-            "bananas",
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "banana",
             "banana variety",
-            "banana"
-        ],
-        [
-            "mozambique"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "cavendish",
-            "cavendish bananas"
-        ],
-        [
-            "south america"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "banana plant",
             "bananas",
-            "banana variety",
-            "banana"
+            "banana plant"
         ],
-        [
-            "malawi"
+        "target_names": [
+            "uganda"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "banana plant",
-            "bananas",
-            "banana variety",
-            "banana"
-        ],
-        [
-            "rwanda"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "affects",
+        "source_names": [
             "panama disease"
         ],
-        [
+        "target_names": [
+            "cavendish bananas",
+            "cavendish"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "cavendish bananas",
+            "cavendish"
+        ],
+        "target_names": [
             "south america"
         ]
-    ],
-    [
-        "Affects",
-        [
-            "panama disease"
-        ],
-        [
-            "cavendish",
-            "cavendish bananas"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "banana plant",
-            "bananas",
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "banana",
             "banana variety",
-            "banana"
+            "bananas",
+            "banana plant"
         ],
-        [
-            "african continent",
+        "target_names": [
             "african countries",
+            "african continent",
             "africa"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "banana",
+            "banana variety",
+            "bananas",
+            "banana plant"
+        ],
+        "target_names": [
+            "mozambique"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "panama disease"
+        ],
+        "target_names": [
+            "south america"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "banana",
+            "banana variety",
+            "bananas",
+            "banana plant"
+        ],
+        "target_names": [
+            "malawi"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "banana",
+            "banana variety",
+            "bananas",
+            "banana plant"
+        ],
+        "target_names": [
+            "rwanda"
+        ]
+    }
 ]

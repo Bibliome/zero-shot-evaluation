@@ -1,38 +1,38 @@
 [
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
+            "olive trees"
+        ],
+        "target_names": [
+            "polignano a mare"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "xylella"
         ],
-        [
+        "target_names": [
+            "olive trees"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella"
+        ],
+        "target_names": [
+            "polignano a mare"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella"
+        ],
+        "target_names": [
             "bari area"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella"
-        ],
-        [
-            "olive trees"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella"
-        ],
-        [
-            "polignano a mare"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees"
-        ],
-        [
-            "polignano a mare"
-        ]
-    ]
+    }
 ]

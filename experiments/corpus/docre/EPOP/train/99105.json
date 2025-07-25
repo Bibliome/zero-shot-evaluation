@@ -1,42 +1,42 @@
 [
-    [
-        "Has been found on",
-        [
-            "citrus psyllid",
-            "diaphorina citri"
+    {
+        "type": "has been found on",
+        "source_names": [
+            "diaphorina citri",
+            "citrus psyllid"
         ],
-        [
+        "target_names": [
             "citrus"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus psyllid",
-            "diaphorina citri"
-        ],
-        [
-            "brazil"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "citrus"
         ],
-        [
+        "target_names": [
             "brazil"
         ]
-    ],
-    [
-        "Causes",
-        [
+    },
+    {
+        "type": "causes",
+        "source_names": [
             "candidatus liberibacter spp."
         ],
-        [
-            "huanglongbing",
+        "target_names": [
+            "hbl",
             "greening",
-            "hbl"
+            "huanglongbing"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "diaphorina citri",
+            "citrus psyllid"
+        ],
+        "target_names": [
+            "brazil"
+        ]
+    }
 ]

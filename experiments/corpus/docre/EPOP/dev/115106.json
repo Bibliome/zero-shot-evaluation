@@ -1,320 +1,320 @@
 [
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "plane tree canker stain"
         ],
-        [
-            "\u00eele-de-france"
+        "target_names": [
+            "french regions",
+            "france"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "plane tree canker stain"
-        ],
-        [
-            "italy"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "ceratocystis platani",
-            "c. platani"
-        ],
-        [
-            "europe"
-        ]
-    ],
-    [
-        "Causes",
-        [
-            "ceratocystis platani",
-            "c. platani"
-        ],
-        [
-            "plane tree canker"
-        ]
-    ],
-    [
-        "Affects",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "colored canker"
         ],
-        [
-            "varieties of plane trees",
-            "plane trees",
-            "plane tree"
+        "target_names": [
+            "french regions",
+            "france"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plane tree canker"
+        ],
+        "target_names": [
+            "united states"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "plane tree canker stain"
         ],
-        [
+        "target_names": [
+            "italy"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plane tree canker stain"
+        ],
+        "target_names": [
             "switzerland"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "plane tree canker stain"
-        ],
-        [
-            "french regions",
-            "france"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "plane tree canker stain"
-        ],
-        [
-            "south of france",
-            "occitanie"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "plane tree canker"
-        ],
-        [
-            "united states"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "plane tree canker stain"
-        ],
-        [
-            "corsica"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "plane tree canker stain"
-        ],
-        [
-            "greece"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "varieties of plane trees",
-            "plane trees",
-            "plane tree"
-        ],
-        [
-            "united states"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "ceratocystis platani",
             "c. platani"
         ],
-        [
-            "united states"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "colored canker"
-        ],
-        [
-            "french regions",
-            "france"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "colored canker"
-        ],
-        [
-            "south of france",
-            "occitanie"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "plane tree canker"
-        ],
-        [
-            "italy"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "plane tree canker"
-        ],
-        [
-            "varieties of plane trees",
+        "target_names": [
             "plane trees",
-            "plane tree"
+            "plane tree",
+            "varieties of plane trees"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "varieties of plane trees",
-            "plane trees",
-            "plane tree"
-        ],
-        [
-            "italy"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "plane tree canker"
-        ],
-        [
-            "french regions",
-            "france"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "plane tree canker stain"
-        ],
-        [
-            "provence-alpes-c\u00f4te d'azur"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "plane tree canker stain"
-        ],
-        [
-            "auvergne-rh\u00f4ne-alpes"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "ceratocystis platani",
             "c. platani"
         ],
-        [
-            "italy"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "varieties of plane trees",
-            "plane trees",
-            "plane tree"
-        ],
-        [
-            "south of france",
-            "occitanie"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "varieties of plane trees",
-            "plane trees",
-            "plane tree"
-        ],
-        [
-            "french regions",
-            "france"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "plane tree canker stain"
-        ],
-        [
-            "turkey"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "plane tree canker stain"
-        ],
-        [
-            "new aquitaine"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "ceratocystis platani",
-            "c. platani"
-        ],
-        [
-            "french regions",
-            "france"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "plane tree canker stain"
-        ],
-        [
-            "albania"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "ceratocystis platani",
-            "c. platani"
-        ],
-        [
-            "varieties of plane trees",
-            "plane trees",
-            "plane tree"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "plane tree canker stain"
-        ],
-        [
-            "pays de la loire"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "plane tree canker stain"
-        ],
-        [
+        "target_names": [
             "europe"
         ]
-    ],
-    [
-        "Affects",
-        [
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "ceratocystis platani",
+            "c. platani"
+        ],
+        "target_names": [
+            "plane tree canker"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plane trees",
+            "plane tree",
+            "varieties of plane trees"
+        ],
+        "target_names": [
+            "united states"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plane tree canker stain"
+        ],
+        "target_names": [
+            "new aquitaine"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "colored canker"
+        ],
+        "target_names": [
+            "plane trees",
+            "plane tree",
+            "varieties of plane trees"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plane tree canker stain"
+        ],
+        "target_names": [
+            "pays de la loire"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plane tree canker stain"
+        ],
+        "target_names": [
+            "provence-alpes-c\u00f4te d'azur"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "ceratocystis platani",
+            "c. platani"
+        ],
+        "target_names": [
+            "french regions",
+            "france"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plane tree canker stain"
+        ],
+        "target_names": [
+            "corsica"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "ceratocystis platani",
+            "c. platani"
+        ],
+        "target_names": [
+            "italy"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plane tree canker stain"
+        ],
+        "target_names": [
+            "\u00eele-de-france"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
             "canker stain"
         ],
-        [
-            "varieties of plane trees",
+        "target_names": [
             "plane trees",
-            "plane tree"
+            "plane tree",
+            "varieties of plane trees"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plane tree canker stain"
+        ],
+        "target_names": [
+            "albania"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plane tree canker stain"
+        ],
+        "target_names": [
+            "turkey"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plane tree canker stain"
+        ],
+        "target_names": [
+            "europe"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plane tree canker"
+        ],
+        "target_names": [
+            "french regions",
+            "france"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plane trees",
+            "plane tree",
+            "varieties of plane trees"
+        ],
+        "target_names": [
+            "south of france",
+            "occitanie"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plane trees",
+            "plane tree",
+            "varieties of plane trees"
+        ],
+        "target_names": [
+            "french regions",
+            "france"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plane tree canker"
+        ],
+        "target_names": [
+            "italy"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plane tree canker stain"
+        ],
+        "target_names": [
+            "auvergne-rh\u00f4ne-alpes"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "plane tree canker"
+        ],
+        "target_names": [
+            "plane trees",
+            "plane tree",
+            "varieties of plane trees"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plane trees",
+            "plane tree",
+            "varieties of plane trees"
+        ],
+        "target_names": [
+            "italy"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plane tree canker stain"
+        ],
+        "target_names": [
+            "greece"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "ceratocystis platani",
+            "c. platani"
+        ],
+        "target_names": [
+            "united states"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "plane tree canker stain"
+        ],
+        "target_names": [
+            "south of france",
+            "occitanie"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "colored canker"
+        ],
+        "target_names": [
+            "south of france",
+            "occitanie"
+        ]
+    }
 ]

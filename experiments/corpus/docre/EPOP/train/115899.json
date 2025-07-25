@@ -1,251 +1,251 @@
 [
-    [
-        "Has been found on",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "tobamovirus"
         ],
-        [
-            "tomatoes",
-            "tomato",
-            "tomato crops"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tobrfv",
-            "tomato brown rugose fruit virus"
-        ],
-        [
-            "oxalis corniculata"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tobrfv",
-            "tomato brown rugose fruit virus"
-        ],
-        [
-            "m. parviflora",
-            "malva parviflora"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "tobrfv",
-            "tomato brown rugose fruit virus"
-        ],
-        [
+        "target_names": [
             "jordan valley"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tobrfv",
-            "tomato brown rugose fruit virus"
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tomato brown rugose fruit virus",
+            "tobrfv"
         ],
-        [
+        "target_names": [
+            "d. metel"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tomato brown rugose fruit virus",
+            "tobrfv"
+        ],
+        "target_names": [
             "s. nigrum"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tobrfv",
-            "tomato brown rugose fruit virus"
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tomato brown rugose fruit virus",
+            "tobrfv"
         ],
-        [
-            "portulaca oleracea"
+        "target_names": [
+            "amaranthus retroflexus",
+            "a. retroflexus"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "tobrfv",
-            "tomato brown rugose fruit virus"
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tomato brown rugose fruit virus",
+            "tobrfv"
         ],
-        [
-            "jordan"
+        "target_names": [
+            "taraxacum officinale",
+            "t. officinale"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tobrfv",
-            "tomato brown rugose fruit virus"
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tomato brown rugose fruit virus",
+            "tobrfv"
         ],
-        [
-            "conyza canadensis",
-            "c. canadensis"
+        "target_names": [
+            "d. stramonium"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "tobamovirus"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tomato brown rugose fruit virus",
+            "tobrfv"
         ],
-        [
-            "jordan valley"
+        "target_names": [
+            "mediterranean"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "tomatoes",
-            "tomato",
-            "tomato crops"
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tomato brown rugose fruit virus",
+            "tobrfv"
         ],
-        [
-            "jordan valley"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "tobamovirus"
-        ],
-        [
-            "jordan"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "tomatoes",
-            "tomato",
-            "tomato crops"
-        ],
-        [
-            "jordan"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tobrfv",
-            "tomato brown rugose fruit virus"
-        ],
-        [
+        "target_names": [
             "veronica syriaca",
             "v. syriaca"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tobrfv",
-            "tomato brown rugose fruit virus"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tomato crops",
+            "tomato",
+            "tomatoes"
         ],
-        [
-            "d. stramonium"
+        "target_names": [
+            "jordan"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tobrfv",
-            "tomato brown rugose fruit virus"
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tomato brown rugose fruit virus",
+            "tobrfv"
         ],
-        [
+        "target_names": [
             "solanum elaeagnifolium"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tobrfv",
-            "tomato brown rugose fruit virus"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tomato brown rugose fruit virus",
+            "tobrfv"
         ],
-        [
-            "a. retroflexus",
-            "amaranthus retroflexus"
+        "target_names": [
+            "jordan"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tobrfv",
-            "tomato brown rugose fruit virus"
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tomato brown rugose fruit virus",
+            "tobrfv"
         ],
-        [
-            "beta vulgaris subsp. maritima"
+        "target_names": [
+            "c. canadensis",
+            "conyza canadensis"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tobrfv",
-            "tomato brown rugose fruit virus"
-        ],
-        [
-            "d. metel"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tobrfv",
-            "tomato brown rugose fruit virus"
-        ],
-        [
-            "corchorus olitorius"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "tobrfv",
-            "tomato brown rugose fruit virus"
-        ],
-        [
-            "mediterranean"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tobrfv",
-            "tomato brown rugose fruit virus"
-        ],
-        [
-            "t. officinale",
-            "taraxacum officinale"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tobrfv",
-            "tomato brown rugose fruit virus"
-        ],
-        [
-            "tomatoes",
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tomato crops",
             "tomato",
-            "tomato crops"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tobrfv",
-            "tomato brown rugose fruit virus"
+            "tomatoes"
         ],
-        [
+        "target_names": [
+            "jordan valley"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tomato brown rugose fruit virus",
+            "tobrfv"
+        ],
+        "target_names": [
+            "m. parviflora",
+            "malva parviflora"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tomato brown rugose fruit virus",
+            "tobrfv"
+        ],
+        "target_names": [
+            "jordan valley"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tobamovirus"
+        ],
+        "target_names": [
+            "tomato crops",
+            "tomato",
+            "tomatoes"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tomato brown rugose fruit virus",
+            "tobrfv"
+        ],
+        "target_names": [
+            "nicotiana tabacum"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tomato brown rugose fruit virus",
+            "tobrfv"
+        ],
+        "target_names": [
             "chenopodium murale",
             "c. murale"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tobrfv",
-            "tomato brown rugose fruit virus"
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tomato brown rugose fruit virus",
+            "tobrfv"
         ],
-        [
-            "nicotiana tabacum"
+        "target_names": [
+            "beta vulgaris subsp. maritima"
         ]
-    ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tomato brown rugose fruit virus",
+            "tobrfv"
+        ],
+        "target_names": [
+            "tomato crops",
+            "tomato",
+            "tomatoes"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tomato brown rugose fruit virus",
+            "tobrfv"
+        ],
+        "target_names": [
+            "portulaca oleracea"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tomato brown rugose fruit virus",
+            "tobrfv"
+        ],
+        "target_names": [
+            "corchorus olitorius"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tobamovirus"
+        ],
+        "target_names": [
+            "jordan"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tomato brown rugose fruit virus",
+            "tobrfv"
+        ],
+        "target_names": [
+            "oxalis corniculata"
+        ]
+    }
 ]

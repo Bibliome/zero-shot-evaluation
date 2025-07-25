@@ -1,106 +1,106 @@
 [
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "pauca"
         ],
-        [
-            "ibiza"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
+        "target_names": [
             "balearic islands"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa",
-            "xylella"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "pauca"
         ],
-        [
-            "mallorca"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "fastidiosa"
-        ],
-        [
+        "target_names": [
             "ibiza"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylella fastidiosa",
             "xylella"
         ],
-        [
-            "menorca"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
+        "target_names": [
             "formentera"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylella fastidiosa",
             "xylella"
         ],
-        [
+        "target_names": [
             "ibiza"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "multiplex"
-        ],
-        [
-            "balearic islands"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "pauca"
-        ],
-        [
-            "balearic islands"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "fastidiosa"
         ],
-        [
-            "balearic islands"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "multiplex"
-        ],
-        [
+        "target_names": [
             "ibiza"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "balearic islands"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "multiplex"
+        ],
+        "target_names": [
+            "ibiza"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "multiplex"
+        ],
+        "target_names": [
+            "balearic islands"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "mallorca"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "fastidiosa"
+        ],
+        "target_names": [
+            "balearic islands"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "menorca"
+        ]
+    }
 ]

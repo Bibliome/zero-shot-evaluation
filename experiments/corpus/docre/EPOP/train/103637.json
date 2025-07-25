@@ -1,154 +1,154 @@
 [
-    [
-        "Located in",
-        [
-            "bactrocera dorsalis (hendel)",
-            "bactrocera dorsalis hendel",
-            "mango fruit fly",
-            "fruit fly",
-            "bactrocera dorsalis",
-            "oriental fruit fly",
-            "bactrocera dorsalis (diptera: tephritidae) hendel",
-            "b. dorsalis (hendel)"
+    {
+        "type": "located in",
+        "source_names": [
+            "elaeagnus mollis"
         ],
-        [
-            "central africa"
+        "target_names": [
+            "shanxi province"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "bactrocera dorsalis (hendel)",
-            "bactrocera dorsalis hendel",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "mango fruit fly",
-            "fruit fly",
-            "bactrocera dorsalis",
-            "oriental fruit fly",
             "bactrocera dorsalis (diptera: tephritidae) hendel",
-            "b. dorsalis (hendel)"
+            "fruit fly",
+            "oriental fruit fly",
+            "bactrocera dorsalis",
+            "b. dorsalis (hendel)",
+            "bactrocera dorsalis (hendel)",
+            "bactrocera dorsalis hendel"
         ],
-        [
+        "target_names": [
+            "north america"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "mango fruit fly",
+            "bactrocera dorsalis (diptera: tephritidae) hendel",
+            "fruit fly",
+            "oriental fruit fly",
+            "bactrocera dorsalis",
+            "b. dorsalis (hendel)",
+            "bactrocera dorsalis (hendel)",
+            "bactrocera dorsalis hendel"
+        ],
+        "target_names": [
+            "europe",
+            "european region"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "mango fruit fly",
+            "bactrocera dorsalis (diptera: tephritidae) hendel",
+            "fruit fly",
+            "oriental fruit fly",
+            "bactrocera dorsalis",
+            "b. dorsalis (hendel)",
+            "bactrocera dorsalis (hendel)",
+            "bactrocera dorsalis hendel"
+        ],
+        "target_names": [
+            "asian regions",
+            "asia",
+            "coastal areas of asia"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "mango fruit fly",
+            "bactrocera dorsalis (diptera: tephritidae) hendel",
+            "fruit fly",
+            "oriental fruit fly",
+            "bactrocera dorsalis",
+            "b. dorsalis (hendel)",
+            "bactrocera dorsalis (hendel)",
+            "bactrocera dorsalis hendel"
+        ],
+        "target_names": [
             "south america"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "mango fruit fly",
+            "bactrocera dorsalis (diptera: tephritidae) hendel",
+            "fruit fly",
+            "oriental fruit fly",
+            "bactrocera dorsalis",
+            "b. dorsalis (hendel)",
+            "bactrocera dorsalis (hendel)",
+            "bactrocera dorsalis hendel"
+        ],
+        "target_names": [
+            "central africa"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "davidia involucrata baill"
         ],
-        [
+        "target_names": [
             "southern coastal areas of china",
             "china"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "bactrocera dorsalis (hendel)",
-            "bactrocera dorsalis hendel",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "mango fruit fly",
-            "fruit fly",
-            "bactrocera dorsalis",
-            "oriental fruit fly",
             "bactrocera dorsalis (diptera: tephritidae) hendel",
-            "b. dorsalis (hendel)"
+            "fruit fly",
+            "oriental fruit fly",
+            "bactrocera dorsalis",
+            "b. dorsalis (hendel)",
+            "bactrocera dorsalis (hendel)",
+            "bactrocera dorsalis hendel"
         ],
-        [
+        "target_names": [
+            "southern coastal areas of china",
+            "china"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "mango fruit fly",
+            "bactrocera dorsalis (diptera: tephritidae) hendel",
+            "fruit fly",
+            "oriental fruit fly",
+            "bactrocera dorsalis",
+            "b. dorsalis (hendel)",
+            "bactrocera dorsalis (hendel)",
+            "bactrocera dorsalis hendel"
+        ],
+        "target_names": [
+            "taiwan"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "mango fruit fly",
+            "bactrocera dorsalis (diptera: tephritidae) hendel",
+            "fruit fly",
+            "oriental fruit fly",
+            "bactrocera dorsalis",
+            "b. dorsalis (hendel)",
+            "bactrocera dorsalis (hendel)",
+            "bactrocera dorsalis hendel"
+        ],
+        "target_names": [
             "africa",
             "african regions"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "bactrocera dorsalis (hendel)",
-            "bactrocera dorsalis hendel",
-            "mango fruit fly",
-            "fruit fly",
-            "bactrocera dorsalis",
-            "oriental fruit fly",
-            "bactrocera dorsalis (diptera: tephritidae) hendel",
-            "b. dorsalis (hendel)"
-        ],
-        [
-            "taiwan"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "bactrocera dorsalis (hendel)",
-            "bactrocera dorsalis hendel",
-            "mango fruit fly",
-            "fruit fly",
-            "bactrocera dorsalis",
-            "oriental fruit fly",
-            "bactrocera dorsalis (diptera: tephritidae) hendel",
-            "b. dorsalis (hendel)"
-        ],
-        [
-            "european region",
-            "europe"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "bactrocera dorsalis (hendel)",
-            "bactrocera dorsalis hendel",
-            "mango fruit fly",
-            "fruit fly",
-            "bactrocera dorsalis",
-            "oriental fruit fly",
-            "bactrocera dorsalis (diptera: tephritidae) hendel",
-            "b. dorsalis (hendel)"
-        ],
-        [
-            "north america"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "elaeagnus mollis"
-        ],
-        [
-            "shanxi province"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "bactrocera dorsalis (hendel)",
-            "bactrocera dorsalis hendel",
-            "mango fruit fly",
-            "fruit fly",
-            "bactrocera dorsalis",
-            "oriental fruit fly",
-            "bactrocera dorsalis (diptera: tephritidae) hendel",
-            "b. dorsalis (hendel)"
-        ],
-        [
-            "southern coastal areas of china",
-            "china"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "bactrocera dorsalis (hendel)",
-            "bactrocera dorsalis hendel",
-            "mango fruit fly",
-            "fruit fly",
-            "bactrocera dorsalis",
-            "oriental fruit fly",
-            "bactrocera dorsalis (diptera: tephritidae) hendel",
-            "b. dorsalis (hendel)"
-        ],
-        [
-            "asia",
-            "coastal areas of asia",
-            "asian regions"
-        ]
-    ]
+    }
 ]

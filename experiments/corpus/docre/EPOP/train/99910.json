@@ -1,143 +1,143 @@
 [
-    [
-        "Affects",
-        [
-            "yellow dragon",
-            "huanglongbing",
-            "hlb"
-        ],
-        [
-            "citrus fruits",
+    {
+        "type": "located in",
+        "source_names": [
             "citrus plants",
-            "citrus",
-            "citrus cultivation"
-        ]
-    ],
-    [
-        "Located in",
-        [
+            "citrus cultivation",
             "citrus fruits",
-            "citrus plants",
-            "citrus",
-            "citrus cultivation"
+            "citrus"
         ],
-        [
-            "latin america"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "huanglongbing",
-            "yellow dragon",
-            "hlb"
-        ],
-        [
+        "target_names": [
             "san francisco"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus fruits",
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "hlb",
+            "yellow dragon",
+            "huanglongbing"
+        ],
+        "target_names": [
             "citrus plants",
-            "citrus",
-            "citrus cultivation"
-        ],
-        [
-            "venezuela"
+            "citrus cultivation",
+            "citrus fruits",
+            "citrus"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "huanglongbing",
-            "yellow dragon",
-            "hlb"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus plants",
+            "citrus cultivation",
+            "citrus fruits",
+            "citrus"
         ],
-        [
-            "venezuela"
+        "target_names": [
+            "zulia state"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "huanglongbing",
-            "yellow dragon",
-            "hlb"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus plants",
+            "citrus cultivation",
+            "citrus fruits",
+            "citrus"
         ],
-        [
+        "target_names": [
+            "maracaibo"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "hlb",
+            "yellow dragon",
+            "huanglongbing"
+        ],
+        "target_names": [
+            "san francisco"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "hlb",
+            "yellow dragon",
+            "huanglongbing"
+        ],
+        "target_names": [
+            "zulia state"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus plants",
+            "citrus cultivation",
+            "citrus fruits",
+            "citrus"
+        ],
+        "target_names": [
             "latin america"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus fruits",
-            "citrus plants",
-            "citrus",
-            "citrus cultivation"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "hlb",
+            "yellow dragon",
+            "huanglongbing"
         ],
-        [
-            "zulia state"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus fruits",
-            "citrus plants",
-            "citrus",
-            "citrus cultivation"
-        ],
-        [
+        "target_names": [
             "maracaibo"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "huanglongbing",
-            "yellow dragon",
-            "hlb"
-        ],
-        [
-            "zulia state"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "huanglongbing",
-            "yellow dragon",
-            "hlb"
-        ],
-        [
-            "maracaibo"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus fruits",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "citrus plants",
-            "citrus",
-            "citrus cultivation"
+            "citrus cultivation",
+            "citrus fruits",
+            "citrus"
         ],
-        [
+        "target_names": [
+            "venezuela"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "hlb",
+            "yellow dragon",
+            "huanglongbing"
+        ],
+        "target_names": [
+            "venezuela"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus plants",
+            "citrus cultivation",
+            "citrus fruits",
+            "citrus"
+        ],
+        "target_names": [
             "state of aragua"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus fruits",
-            "citrus plants",
-            "citrus",
-            "citrus cultivation"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "hlb",
+            "yellow dragon",
+            "huanglongbing"
         ],
-        [
-            "san francisco"
+        "target_names": [
+            "latin america"
         ]
-    ]
+    }
 ]

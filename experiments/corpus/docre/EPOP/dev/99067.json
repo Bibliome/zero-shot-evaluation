@@ -1,177 +1,177 @@
 [
-    [
-        "Located in",
-        [
-            "yellow branch disease",
-            "citrus greening",
-            "huanglongbing",
-            "hlb"
-        ],
-        [
-            "spain"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "yellow branch disease",
-            "citrus greening",
-            "huanglongbing",
-            "hlb"
-        ],
-        [
-            "mediterranean"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus cultivation",
-            "citrus plants",
-            "citrus fruits",
-            "citrus",
-            "cultivation of citrus fruits"
-        ],
-        [
-            "italy"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "yellow branch disease",
-            "citrus greening",
-            "huanglongbing",
-            "hlb"
-        ],
-        [
-            "citrus cultivation",
-            "citrus plants",
-            "citrus fruits",
-            "citrus",
-            "cultivation of citrus fruits"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus cultivation",
-            "citrus plants",
-            "citrus fruits",
-            "citrus",
-            "cultivation of citrus fruits"
-        ],
-        [
-            "etnean capital"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "tristeza"
         ],
-        [
-            "italy"
+        "target_names": [
+            "sicily region",
+            "sicily"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus cultivation",
-            "citrus plants",
-            "citrus fruits",
-            "citrus",
-            "cultivation of citrus fruits"
-        ],
-        [
-            "sicily",
-            "sicily region"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus cultivation",
-            "citrus plants",
-            "citrus fruits",
-            "citrus",
-            "cultivation of citrus fruits"
-        ],
-        [
-            "usa",
-            "united states"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus cultivation",
-            "citrus plants",
-            "citrus fruits",
-            "citrus",
-            "cultivation of citrus fruits"
-        ],
-        [
-            "spain"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "tristeza"
-        ],
-        [
-            "citrus cultivation",
-            "citrus plants",
-            "citrus fruits",
-            "citrus",
-            "cultivation of citrus fruits"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "tristeza"
-        ],
-        [
-            "sicily",
-            "sicily region"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus cultivation",
-            "citrus plants",
-            "citrus fruits",
-            "citrus",
-            "cultivation of citrus fruits"
-        ],
-        [
-            "acireale"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "yellow branch disease",
-            "citrus greening",
+    },
+    {
+        "type": "affects",
+        "source_names": [
             "huanglongbing",
-            "hlb"
+            "yellow branch disease",
+            "hlb",
+            "citrus greening"
         ],
-        [
-            "usa",
-            "united states"
+        "target_names": [
+            "citrus",
+            "citrus plants",
+            "cultivation of citrus fruits",
+            "citrus fruits",
+            "citrus cultivation"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "hlb disease"
         ],
-        [
+        "target_names": [
             "usa",
             "united states"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus",
+            "citrus plants",
+            "cultivation of citrus fruits",
+            "citrus fruits",
+            "citrus cultivation"
+        ],
+        "target_names": [
+            "etnean capital"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "huanglongbing",
+            "yellow branch disease",
+            "hlb",
+            "citrus greening"
+        ],
+        "target_names": [
+            "spain"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "huanglongbing",
+            "yellow branch disease",
+            "hlb",
+            "citrus greening"
+        ],
+        "target_names": [
+            "usa",
+            "united states"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus",
+            "citrus plants",
+            "cultivation of citrus fruits",
+            "citrus fruits",
+            "citrus cultivation"
+        ],
+        "target_names": [
+            "italy"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "tristeza"
+        ],
+        "target_names": [
+            "citrus",
+            "citrus plants",
+            "cultivation of citrus fruits",
+            "citrus fruits",
+            "citrus cultivation"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus",
+            "citrus plants",
+            "cultivation of citrus fruits",
+            "citrus fruits",
+            "citrus cultivation"
+        ],
+        "target_names": [
+            "acireale"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "huanglongbing",
+            "yellow branch disease",
+            "hlb",
+            "citrus greening"
+        ],
+        "target_names": [
+            "mediterranean"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus",
+            "citrus plants",
+            "cultivation of citrus fruits",
+            "citrus fruits",
+            "citrus cultivation"
+        ],
+        "target_names": [
+            "sicily region",
+            "sicily"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus",
+            "citrus plants",
+            "cultivation of citrus fruits",
+            "citrus fruits",
+            "citrus cultivation"
+        ],
+        "target_names": [
+            "spain"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tristeza"
+        ],
+        "target_names": [
+            "italy"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus",
+            "citrus plants",
+            "cultivation of citrus fruits",
+            "citrus fruits",
+            "citrus cultivation"
+        ],
+        "target_names": [
+            "usa",
+            "united states"
+        ]
+    }
 ]

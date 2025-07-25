@@ -1,253 +1,253 @@
 [
-    [
-        "Has been found on",
-        [
-            "pine wood nematode",
+    {
+        "type": "located in",
+        "source_names": [
             "bursaphelenchus xylophilus (steiner & b\u00fchrer)",
-            "pine stem nematode",
-            "b. xylophilus",
             "bursaphelenchus xylophilus",
-            "b.xylophilus"
-        ],
-        [
-            "oak",
-            "quercus robur"
-        ]
-    ],
-    [
-        "Located in",
-        [
             "pine wood nematode",
-            "bursaphelenchus xylophilus (steiner & b\u00fchrer)",
-            "pine stem nematode",
             "b. xylophilus",
-            "bursaphelenchus xylophilus",
-            "b.xylophilus"
+            "b.xylophilus",
+            "pine stem nematode"
         ],
-        [
-            "portugal"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "pine wood nematode",
-            "bursaphelenchus xylophilus (steiner & b\u00fchrer)",
-            "pine stem nematode",
-            "b. xylophilus",
-            "bursaphelenchus xylophilus",
-            "b.xylophilus"
-        ],
-        [
-            "japan"
-        ]
-    ],
-    [
-        "Transmits",
-        [
-            "monochamus"
-        ],
-        [
-            "pine wood nematode",
-            "bursaphelenchus xylophilus (steiner & b\u00fchrer)",
-            "pine stem nematode",
-            "b. xylophilus",
-            "bursaphelenchus xylophilus",
-            "b.xylophilus"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "pine wood nematode",
-            "bursaphelenchus xylophilus (steiner & b\u00fchrer)",
-            "pine stem nematode",
-            "b. xylophilus",
-            "bursaphelenchus xylophilus",
-            "b.xylophilus"
-        ],
-        [
+        "target_names": [
             "north america"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "pine wood nematode",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "bursaphelenchus xylophilus (steiner & b\u00fchrer)",
-            "pine stem nematode",
-            "b. xylophilus",
             "bursaphelenchus xylophilus",
-            "b.xylophilus"
-        ],
-        [
-            "florida"
-        ]
-    ],
-    [
-        "Located in",
-        [
             "pine wood nematode",
-            "bursaphelenchus xylophilus (steiner & b\u00fchrer)",
-            "pine stem nematode",
             "b. xylophilus",
-            "bursaphelenchus xylophilus",
-            "b.xylophilus"
+            "b.xylophilus",
+            "pine stem nematode"
         ],
-        [
-            "mexico"
+        "target_names": [
+            "europe"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "bursaphelenchus xylophilus (steiner & b\u00fchrer)",
+            "bursaphelenchus xylophilus",
             "pine wood nematode",
-            "bursaphelenchus xylophilus (steiner & b\u00fchrer)",
-            "pine stem nematode",
             "b. xylophilus",
-            "bursaphelenchus xylophilus",
-            "b.xylophilus"
+            "b.xylophilus",
+            "pine stem nematode"
         ],
-        [
-            "canada"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "pine wood nematode",
-            "bursaphelenchus xylophilus (steiner & b\u00fchrer)",
-            "pine stem nematode",
-            "b. xylophilus",
-            "bursaphelenchus xylophilus",
-            "b.xylophilus"
-        ],
-        [
-            "republic of korea"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "b. mucronatus"
-        ],
-        [
-            "russian federation"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "pine wood nematode",
-            "bursaphelenchus xylophilus (steiner & b\u00fchrer)",
-            "pine stem nematode",
-            "b. xylophilus",
-            "bursaphelenchus xylophilus",
-            "b.xylophilus"
-        ],
-        [
+        "target_names": [
             "fagus sylvatica",
             "beech"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "pinus spp.",
-            "pine trees",
-            "pinus"
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "bursaphelenchus xylophilus (steiner & b\u00fchrer)",
+            "bursaphelenchus xylophilus",
+            "pine wood nematode",
+            "b. xylophilus",
+            "b.xylophilus",
+            "pine stem nematode"
         ],
-        [
+        "target_names": [
+            "pinus",
+            "pine trees",
+            "pinus spp."
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "bursaphelenchus xylophilus (steiner & b\u00fchrer)",
+            "bursaphelenchus xylophilus",
+            "pine wood nematode",
+            "b. xylophilus",
+            "b.xylophilus",
+            "pine stem nematode"
+        ],
+        "target_names": [
             "florida"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "pine wood nematode",
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "bursaphelenchus xylophilus (steiner & b\u00fchrer)",
-            "pine stem nematode",
-            "b. xylophilus",
             "bursaphelenchus xylophilus",
-            "b.xylophilus"
+            "pine wood nematode",
+            "b. xylophilus",
+            "b.xylophilus",
+            "pine stem nematode"
         ],
-        [
+        "target_names": [
+            "quercus robur",
+            "oak"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "bursaphelenchus xylophilus (steiner & b\u00fchrer)",
+            "bursaphelenchus xylophilus",
+            "pine wood nematode",
+            "b. xylophilus",
+            "b.xylophilus",
+            "pine stem nematode"
+        ],
+        "target_names": [
+            "japan"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "bursaphelenchus xylophilus (steiner & b\u00fchrer)",
+            "bursaphelenchus xylophilus",
+            "pine wood nematode",
+            "b. xylophilus",
+            "b.xylophilus",
+            "pine stem nematode"
+        ],
+        "target_names": [
             "taiwan"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "pinus spp.",
-            "pine trees",
-            "pinus"
+    },
+    {
+        "type": "transmits",
+        "source_names": [
+            "monochamus"
         ],
-        [
-            "canada"
+        "target_names": [
+            "bursaphelenchus xylophilus (steiner & b\u00fchrer)",
+            "bursaphelenchus xylophilus",
+            "pine wood nematode",
+            "b. xylophilus",
+            "b.xylophilus",
+            "pine stem nematode"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "b. mucronatus"
         ],
-        [
+        "target_names": [
             "far east and siberian regions of europe"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "pine wood nematode",
-            "bursaphelenchus xylophilus (steiner & b\u00fchrer)",
-            "pine stem nematode",
-            "b. xylophilus",
-            "bursaphelenchus xylophilus",
-            "b.xylophilus"
-        ],
-        [
-            "pinus spp.",
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "pinus",
             "pine trees",
-            "pinus"
+            "pinus spp."
+        ],
+        "target_names": [
+            "florida"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "pinus spp.",
-            "pine trees",
-            "pinus"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "bursaphelenchus xylophilus (steiner & b\u00fchrer)",
+            "bursaphelenchus xylophilus",
+            "pine wood nematode",
+            "b. xylophilus",
+            "b.xylophilus",
+            "pine stem nematode"
         ],
-        [
+        "target_names": [
             "mexico"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "pine wood nematode",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "bursaphelenchus xylophilus (steiner & b\u00fchrer)",
-            "pine stem nematode",
-            "b. xylophilus",
             "bursaphelenchus xylophilus",
-            "b.xylophilus"
+            "pine wood nematode",
+            "b. xylophilus",
+            "b.xylophilus",
+            "pine stem nematode"
         ],
-        [
-            "europe"
+        "target_names": [
+            "portugal"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "pine wood nematode",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "bursaphelenchus xylophilus (steiner & b\u00fchrer)",
-            "pine stem nematode",
-            "b. xylophilus",
             "bursaphelenchus xylophilus",
-            "b.xylophilus"
+            "pine wood nematode",
+            "b. xylophilus",
+            "b.xylophilus",
+            "pine stem nematode"
         ],
-        [
+        "target_names": [
+            "republic of korea"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "bursaphelenchus xylophilus (steiner & b\u00fchrer)",
+            "bursaphelenchus xylophilus",
+            "pine wood nematode",
+            "b. xylophilus",
+            "b.xylophilus",
+            "pine stem nematode"
+        ],
+        "target_names": [
+            "canada"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "b. mucronatus"
+        ],
+        "target_names": [
+            "russian federation"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "bursaphelenchus xylophilus (steiner & b\u00fchrer)",
+            "bursaphelenchus xylophilus",
+            "pine wood nematode",
+            "b. xylophilus",
+            "b.xylophilus",
+            "pine stem nematode"
+        ],
+        "target_names": [
             "china"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "pinus",
+            "pine trees",
+            "pinus spp."
+        ],
+        "target_names": [
+            "mexico"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "pinus",
+            "pine trees",
+            "pinus spp."
+        ],
+        "target_names": [
+            "canada"
+        ]
+    }
 ]

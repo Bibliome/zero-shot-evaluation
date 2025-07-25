@@ -1,359 +1,359 @@
 [
-    [
-        "Located in",
-        [
-            "vine",
+    {
+        "type": "located in",
+        "source_names": [
             "grapevine",
-            "vines",
-            "vineyard",
             "vineyards",
             "chardonnay vineyards",
-            "grapevines"
-        ],
-        [
-            "gussago"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "hyalesthes obsoletus",
-            "hyalestes obsoletus",
-            "hyalesthes obsoletus signoret"
-        ],
-        [
-            "crepis foetida"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "bois noir"
-        ],
-        [
             "vine",
-            "grapevine",
             "vines",
             "vineyard",
-            "vineyards",
-            "chardonnay vineyards",
-            "grapevines"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "bn",
-            "bois noir"
-        ],
-        [
-            "vine",
-            "grapevine",
-            "vines",
-            "vineyard",
-            "vineyards",
-            "chardonnay vineyards",
-            "grapevines"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "hyalesthes obsoletus",
-            "hyalestes obsoletus",
-            "hyalesthes obsoletus signoret"
-        ],
-        [
-            "vine",
-            "grapevine",
-            "vines",
-            "vineyard",
-            "vineyards",
-            "chardonnay vineyards",
-            "grapevines"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "flavescence dor\u00e9e"
-        ],
-        [
-            "north italy",
-            "italy"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "vine",
-            "grapevine",
-            "vines",
-            "vineyard",
-            "vineyards",
-            "chardonnay vineyards",
             "grapevines"
         ],
-        [
-            "north italy",
-            "italy"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "bn",
-            "bois noir"
-        ],
-        [
-            "euro-mediterranean area"
-        ]
-    ],
-    [
-        "Causes",
-        [
-            "candidatusphytoplasma solani",
-            "candidatus phytoplasma solani",
-            "capsol",
-            "stolbur phytoplasma"
-        ],
-        [
-            "bn",
-            "bois noir"
-        ]
-    ],
-    [
-        "Causes",
-        [
-            "alder yellows phytoplasmavitis"
-        ],
-        [
-            "palatinate grapevine yellows"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "bn",
-            "bois noir"
-        ],
-        [
-            "gussago"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "vine",
-            "grapevine",
-            "vines",
-            "vineyard",
-            "vineyards",
-            "chardonnay vineyards",
-            "grapevines"
-        ],
-        [
-            "montenegro"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "bois noir disease"
-        ],
-        [
-            "vine",
-            "grapevine",
-            "vines",
-            "vineyard",
-            "vineyards",
-            "chardonnay vineyards",
-            "grapevines"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "candidatusphytoplasma solani",
-            "candidatus phytoplasma solani",
-            "capsol",
-            "stolbur phytoplasma"
-        ],
-        [
-            "vine",
-            "grapevine",
-            "vines",
-            "vineyard",
-            "vineyards",
-            "chardonnay vineyards",
-            "grapevines"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "vine",
-            "grapevine",
-            "vines",
-            "vineyard",
-            "vineyards",
-            "chardonnay vineyards",
-            "grapevines"
-        ],
-        [
+        "target_names": [
             "erbusco"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "vine",
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "hyalesthes obsoletus signoret",
+            "hyalesthes obsoletus",
+            "hyalestes obsoletus"
+        ],
+        "target_names": [
             "grapevine",
-            "vines",
-            "vineyard",
             "vineyards",
             "chardonnay vineyards",
+            "vine",
+            "vines",
+            "vineyard",
+            "grapevines"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "grapevine",
+            "vineyards",
+            "chardonnay vineyards",
+            "vine",
+            "vines",
+            "vineyard",
             "grapevines"
         ],
-        [
+        "target_names": [
             "franciacorta"
         ]
-    ],
-    [
-        "Causes",
-        [
-            "candidatusphytoplasma solani",
-            "candidatus phytoplasma solani",
-            "capsol",
-            "stolbur phytoplasma"
-        ],
-        [
-            "bois noir disease"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "bois noir"
-        ],
-        [
-            "montenegro"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "vine",
-            "grapevine",
-            "vines",
-            "vineyard",
-            "vineyards",
-            "chardonnay vineyards",
-            "grapevines"
-        ],
-        [
-            "province of brescia"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "hyalesthes obsoletus",
-            "hyalestes obsoletus",
-            "hyalesthes obsoletus signoret"
-        ],
-        [
-            "convolvulus arvensis"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "bois noir"
-        ],
-        [
-            "vitex agnus-castus"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "hyalesthes obsoletus",
-            "hyalestes obsoletus",
-            "hyalesthes obsoletus signoret"
-        ],
-        [
-            "montenegro"
-        ]
-    ],
-    [
-        "Transmits",
-        [
-            "hyalesthes obsoletus",
-            "hyalestes obsoletus",
-            "hyalesthes obsoletus signoret"
-        ],
-        [
-            "candidatusphytoplasma solani",
-            "candidatus phytoplasma solani",
-            "capsol",
-            "stolbur phytoplasma"
-        ]
-    ],
-    [
-        "Transmits",
-        [
-            "reptalus quinquecostatus"
-        ],
-        [
-            "candidatusphytoplasma solani",
-            "candidatus phytoplasma solani",
-            "capsol",
-            "stolbur phytoplasma"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "vine",
-            "grapevine",
-            "vines",
-            "vineyard",
-            "vineyards",
-            "chardonnay vineyards",
-            "grapevines"
-        ],
-        [
-            "euro-mediterranean area"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "hyalesthes obsoletus",
-            "hyalestes obsoletus",
-            "hyalesthes obsoletus signoret"
-        ],
-        [
-            "vitex agnus-castus"
-        ]
-    ],
-    [
-        "Transmits",
-        [
-            "reptalus panzeri"
-        ],
-        [
-            "bois noir"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "flavescence dor\u00e9e"
         ],
-        [
+        "target_names": [
+            "italy",
+            "north italy"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "bois noir"
+        ],
+        "target_names": [
+            "vitex agnus-castus"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "bois noir disease"
+        ],
+        "target_names": [
+            "grapevine",
+            "vineyards",
+            "chardonnay vineyards",
+            "vine",
+            "vines",
+            "vineyard",
+            "grapevines"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "hyalesthes obsoletus signoret",
+            "hyalesthes obsoletus",
+            "hyalestes obsoletus"
+        ],
+        "target_names": [
+            "crepis foetida"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "grapevine",
+            "vineyards",
+            "chardonnay vineyards",
+            "vine",
+            "vines",
+            "vineyard",
+            "grapevines"
+        ],
+        "target_names": [
+            "euro-mediterranean area"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "grapevine",
+            "vineyards",
+            "chardonnay vineyards",
+            "vine",
+            "vines",
+            "vineyard",
+            "grapevines"
+        ],
+        "target_names": [
+            "gussago"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "bn",
+            "bois noir"
+        ],
+        "target_names": [
+            "euro-mediterranean area"
+        ]
+    },
+    {
+        "type": "transmits",
+        "source_names": [
+            "reptalus quinquecostatus"
+        ],
+        "target_names": [
+            "capsol",
+            "stolbur phytoplasma",
+            "candidatus phytoplasma solani",
+            "candidatusphytoplasma solani"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "bn",
+            "bois noir"
+        ],
+        "target_names": [
+            "gussago"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "capsol",
+            "stolbur phytoplasma",
+            "candidatus phytoplasma solani",
+            "candidatusphytoplasma solani"
+        ],
+        "target_names": [
+            "bois noir disease"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "hyalesthes obsoletus signoret",
+            "hyalesthes obsoletus",
+            "hyalestes obsoletus"
+        ],
+        "target_names": [
+            "vitex agnus-castus"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "grapevine",
+            "vineyards",
+            "chardonnay vineyards",
+            "vine",
+            "vines",
+            "vineyard",
+            "grapevines"
+        ],
+        "target_names": [
+            "province of brescia"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "capsol",
+            "stolbur phytoplasma",
+            "candidatus phytoplasma solani",
+            "candidatusphytoplasma solani"
+        ],
+        "target_names": [
+            "bn",
+            "bois noir"
+        ]
+    },
+    {
+        "type": "transmits",
+        "source_names": [
+            "reptalus panzeri"
+        ],
+        "target_names": [
+            "bois noir"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "grapevine",
+            "vineyards",
+            "chardonnay vineyards",
+            "vine",
+            "vines",
+            "vineyard",
+            "grapevines"
+        ],
+        "target_names": [
+            "italy",
+            "north italy"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "alder yellows phytoplasmavitis"
+        ],
+        "target_names": [
+            "palatinate grapevine yellows"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "bois noir"
+        ],
+        "target_names": [
+            "montenegro"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "capsol",
+            "stolbur phytoplasma",
+            "candidatus phytoplasma solani",
+            "candidatusphytoplasma solani"
+        ],
+        "target_names": [
+            "grapevine",
+            "vineyards",
+            "chardonnay vineyards",
+            "vine",
+            "vines",
+            "vineyard",
+            "grapevines"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "grapevine",
+            "vineyards",
+            "chardonnay vineyards",
+            "vine",
+            "vines",
+            "vineyard",
+            "grapevines"
+        ],
+        "target_names": [
+            "montenegro"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "hyalesthes obsoletus signoret",
+            "hyalesthes obsoletus",
+            "hyalestes obsoletus"
+        ],
+        "target_names": [
+            "convolvulus arvensis"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "flavescence dor\u00e9e"
+        ],
+        "target_names": [
             "france"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "hyalesthes obsoletus signoret",
+            "hyalesthes obsoletus",
+            "hyalestes obsoletus"
+        ],
+        "target_names": [
+            "montenegro"
+        ]
+    },
+    {
+        "type": "transmits",
+        "source_names": [
+            "hyalesthes obsoletus signoret",
+            "hyalesthes obsoletus",
+            "hyalestes obsoletus"
+        ],
+        "target_names": [
+            "capsol",
+            "stolbur phytoplasma",
+            "candidatus phytoplasma solani",
+            "candidatusphytoplasma solani"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "bn",
+            "bois noir"
+        ],
+        "target_names": [
+            "grapevine",
+            "vineyards",
+            "chardonnay vineyards",
+            "vine",
+            "vines",
+            "vineyard",
+            "grapevines"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "bois noir"
+        ],
+        "target_names": [
+            "grapevine",
+            "vineyards",
+            "chardonnay vineyards",
+            "vine",
+            "vines",
+            "vineyard",
+            "grapevines"
+        ]
+    }
 ]

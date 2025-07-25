@@ -1,99 +1,99 @@
 [
-    [
-        "Located in",
-        [
-            "chinese thuja aphid",
-            "cinara tujafilina del guercio",
-            "cinara thujafilina del guercio"
-        ],
-        [
-            "sadaf",
-            "mashhad city",
-            "mashhad",
-            "sajjad"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "chinese thuja",
             "platycladus orientalis (l.)",
             "platycladus orientalis"
         ],
-        [
-            "razavi khorasan province"
+        "target_names": [
+            "lashkar",
+            "tehran"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "chinese thuja",
             "platycladus orientalis (l.)",
             "platycladus orientalis"
         ],
-        [
-            "asian continent",
-            "northeastern parts north asia"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "chinese thuja",
-            "platycladus orientalis (l.)",
-            "platycladus orientalis"
-        ],
-        [
-            "iran"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "chinese thuja",
-            "platycladus orientalis (l.)",
-            "platycladus orientalis"
-        ],
-        [
+        "target_names": [
             "northeastern parts of east asia"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "chinese thuja aphid",
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "chinese thuja",
+            "platycladus orientalis (l.)",
+            "platycladus orientalis"
+        ],
+        "target_names": [
+            "northeastern parts north asia",
+            "asian continent"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "chinese thuja",
+            "platycladus orientalis (l.)",
+            "platycladus orientalis"
+        ],
+        "target_names": [
+            "razavi khorasan province"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "cinara tujafilina del guercio",
+            "chinese thuja aphid",
             "cinara thujafilina del guercio"
         ],
-        [
-            "tehran",
-            "lashkar"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "chinese thuja",
-            "platycladus orientalis (l.)",
-            "platycladus orientalis"
-        ],
-        [
+        "target_names": [
             "sadaf",
-            "mashhad city",
             "mashhad",
-            "sajjad"
+            "sajjad",
+            "mashhad city"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "cinara tujafilina del guercio",
+            "chinese thuja aphid",
+            "cinara thujafilina del guercio"
+        ],
+        "target_names": [
+            "lashkar",
+            "tehran"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "chinese thuja",
             "platycladus orientalis (l.)",
             "platycladus orientalis"
         ],
-        [
-            "tehran",
-            "lashkar"
+        "target_names": [
+            "iran"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "chinese thuja",
+            "platycladus orientalis (l.)",
+            "platycladus orientalis"
+        ],
+        "target_names": [
+            "sadaf",
+            "mashhad",
+            "sajjad",
+            "mashhad city"
+        ]
+    }
 ]

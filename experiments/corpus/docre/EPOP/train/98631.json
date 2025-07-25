@@ -1,37 +1,37 @@
 [
-    [
-        "Has been found on",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "faw",
             "spodoptera frugiperda",
             "spodoptera frugiperda (je smith)",
             "fall armyworm"
         ],
-        [
-            "maize"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "maize"
-        ],
-        [
+        "target_names": [
             "africa",
             "african continent"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "maize"
+        ],
+        "target_names": [
+            "africa",
+            "african continent"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "faw",
             "spodoptera frugiperda",
             "spodoptera frugiperda (je smith)",
             "fall armyworm"
         ],
-        [
-            "africa",
-            "african continent"
+        "target_names": [
+            "maize"
         ]
-    ]
+    }
 ]

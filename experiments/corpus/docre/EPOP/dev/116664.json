@@ -1,20 +1,20 @@
 [
-    [
-        "Causes",
-        [
+    {
+        "type": "causes",
+        "source_names": [
             "phyllosticta citricarpa"
         ],
-        [
+        "target_names": [
             "citrus black spot disease"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "citrus"
         ],
-        [
+        "target_names": [
             "european union"
         ]
-    ]
+    }
 ]

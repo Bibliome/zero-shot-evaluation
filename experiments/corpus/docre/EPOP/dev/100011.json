@@ -1,47 +1,47 @@
 [
-    [
-        "Located in",
-        [
-            "japanese beetles",
+    {
+        "type": "located in",
+        "source_names": [
+            "popillia japonica",
             "japanese beetle",
-            "popillia japonica"
+            "japanese beetles"
         ],
-        [
-            "asia"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "japanese beetles",
-            "japanese beetle",
-            "popillia japonica"
-        ],
-        [
+        "target_names": [
             "northern italy"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "japanese beetles",
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "popillia japonica",
             "japanese beetle",
-            "popillia japonica"
+            "japanese beetles"
         ],
-        [
-            "freiburg",
-            "freiburg area"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "japanese beetles",
-            "japanese beetle",
-            "popillia japonica"
-        ],
-        [
+        "target_names": [
             "baden-w\u00fcrttemberg"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "popillia japonica",
+            "japanese beetle",
+            "japanese beetles"
+        ],
+        "target_names": [
+            "asia"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "popillia japonica",
+            "japanese beetle",
+            "japanese beetles"
+        ],
+        "target_names": [
+            "freiburg area",
+            "freiburg"
+        ]
+    }
 ]

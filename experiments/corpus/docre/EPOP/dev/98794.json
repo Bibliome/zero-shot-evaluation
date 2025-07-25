@@ -1,200 +1,200 @@
 [
-    [
-        "Has been found on",
-        [
-            "rhizopus arrhizus",
-            "r. oryzae",
-            "r. arrhizus",
-            "rhizopus oryzae"
-        ],
-        [
-            "cassava"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "allium sativum",
-            "garlic"
-        ],
-        [
-            "handan city"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "soft rot on garlic bulb"
-        ],
-        [
-            "china"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "allium sativum",
-            "garlic"
-        ],
-        [
-            "daming county"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "rhizopus soft rot"
         ],
-        [
-            "handan city"
+        "target_names": [
+            "hebei province"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "allium sativum",
             "garlic"
         ],
-        [
+        "target_names": [
+            "daming county"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "allium sativum",
+            "garlic"
+        ],
+        "target_names": [
+            "china"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "allium sativum",
+            "garlic"
+        ],
+        "target_names": [
             "hebei province"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "rhizopus arrhizus",
+    },
+    {
+        "type": "causes",
+        "source_names": [
             "r. oryzae",
             "r. arrhizus",
+            "rhizopus arrhizus",
             "rhizopus oryzae"
         ],
-        [
+        "target_names": [
+            "garlic bulb soft rot"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "r. oryzae",
+            "r. arrhizus",
+            "rhizopus arrhizus",
+            "rhizopus oryzae"
+        ],
+        "target_names": [
             "potato"
         ]
-    ],
-    [
-        "Causes",
-        [
-            "rhizopus arrhizus",
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "r. oryzae",
             "r. arrhizus",
+            "rhizopus arrhizus",
             "rhizopus oryzae"
         ],
-        [
-            "garlic bulb soft rot"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "rhizopus soft rot"
-        ],
-        [
-            "daming county"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "rhizopus soft rot"
-        ],
-        [
+        "target_names": [
             "allium sativum",
             "garlic"
         ]
-    ],
-    [
-        "Causes",
-        [
-            "rhizopus arrhizus",
+    },
+    {
+        "type": "causes",
+        "source_names": [
             "r. oryzae",
             "r. arrhizus",
+            "rhizopus arrhizus",
             "rhizopus oryzae"
         ],
-        [
+        "target_names": [
             "soft rot on garlic bulb"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "rhizopus soft rot"
+        ],
+        "target_names": [
+            "handan city"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "garlic bulb soft rot"
+        ],
+        "target_names": [
+            "china"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "r. oryzae",
+            "r. arrhizus",
+            "rhizopus arrhizus",
+            "rhizopus oryzae"
+        ],
+        "target_names": [
+            "china"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "r. oryzae",
+            "r. arrhizus",
+            "rhizopus arrhizus",
+            "rhizopus oryzae"
+        ],
+        "target_names": [
+            "cassava"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "r. oryzae",
+            "r. arrhizus",
+            "rhizopus arrhizus",
+            "rhizopus oryzae"
+        ],
+        "target_names": [
+            "hebei province"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "rhizopus soft rot"
+        ],
+        "target_names": [
+            "allium sativum",
+            "garlic"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "garlic bulb soft rot"
+        ],
+        "target_names": [
+            "hebei province"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "allium sativum",
             "garlic"
         ],
-        [
-            "china"
+        "target_names": [
+            "handan city"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "garlic bulb soft rot"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "soft rot on garlic bulb"
         ],
-        [
+        "target_names": [
             "china"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "rhizopus soft rot"
         ],
-        [
-            "hebei province"
+        "target_names": [
+            "daming county"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "rhizopus arrhizus",
-            "r. oryzae",
-            "r. arrhizus",
-            "rhizopus oryzae"
-        ],
-        [
-            "hebei province"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "garlic bulb soft rot"
-        ],
-        [
-            "hebei province"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "rhizopus arrhizus",
-            "r. oryzae",
-            "r. arrhizus",
-            "rhizopus oryzae"
-        ],
-        [
-            "allium sativum",
-            "garlic"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "rhizopus soft rot"
         ],
-        [
+        "target_names": [
             "china"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "rhizopus arrhizus",
-            "r. oryzae",
-            "r. arrhizus",
-            "rhizopus oryzae"
-        ],
-        [
-            "china"
-        ]
-    ]
+    }
 ]

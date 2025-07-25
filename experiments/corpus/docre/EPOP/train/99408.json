@@ -1,71 +1,71 @@
 [
-    [
-        "Located in",
-        [
-            "pinewood nematodes",
-            "pwn",
+    {
+        "type": "has been found on",
+        "source_names": [
             "pine wood nematodes",
+            "pinewood nematodes",
             "pinewood nematode",
+            "pwn",
             "pwns"
         ],
-        [
+        "target_names": [
+            "p. densiflora",
+            "pinus densiflora (sieb. et zucc.)"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "pine wood nematodes",
+            "pinewood nematodes",
+            "pinewood nematode",
+            "pwn",
+            "pwns"
+        ],
+        "target_names": [
+            "p. rigida",
+            "pinus rigida",
+            "pitch pine",
+            "pinus rigida mill."
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "p. rigida",
+            "pinus rigida",
+            "pitch pine",
+            "pinus rigida mill."
+        ],
+        "target_names": [
             "north america"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "pinewood nematodes",
-            "pwn",
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "pine wood nematodes",
+            "pinewood nematodes",
             "pinewood nematode",
+            "pwn",
             "pwns"
         ],
-        [
-            "pinus densiflora (sieb. et zucc.)",
-            "p. densiflora"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "pinewood nematodes",
-            "pwn",
-            "pine wood nematodes",
-            "pinewood nematode",
-            "pwns"
-        ],
-        [
-            "pitch pine",
-            "pinus rigida mill.",
-            "pinus rigida",
-            "p. rigida"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "pitch pine",
-            "pinus rigida mill.",
-            "pinus rigida",
-            "p. rigida"
-        ],
-        [
-            "north america"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "pinewood nematodes",
-            "pwn",
-            "pine wood nematodes",
-            "pinewood nematode",
-            "pwns"
-        ],
-        [
+        "target_names": [
             "p. koraiensis",
             "pinus koraiensis (sieb. et zucc.)"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "pine wood nematodes",
+            "pinewood nematodes",
+            "pinewood nematode",
+            "pwn",
+            "pwns"
+        ],
+        "target_names": [
+            "north america"
+        ]
+    }
 ]

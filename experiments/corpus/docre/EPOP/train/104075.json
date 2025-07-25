@@ -1,517 +1,517 @@
 [
-    [
-        "Transmits",
-        [
-            "trioza erytreae"
-        ],
-        [
-            "candidatus liberibacter asiaticus",
-            "clas"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus trees",
-            "cultivation of citrus",
-            "citrus fruits",
-            "citrus",
-            "citrus tree",
-            "citrus plants"
-        ],
-        [
-            "southeast asia",
-            "asia"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus trees",
-            "cultivation of citrus",
-            "citrus fruits",
-            "citrus",
-            "citrus tree",
-            "citrus plants"
-        ],
-        [
-            "arizona"
-        ]
-    ],
-    [
-        "Transmits",
-        [
-            "trioza erytreae"
-        ],
-        [
-            "candidatus liberibacter africanus",
-            "candidatus liberibacter"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "huanglongbing disease"
         ],
-        [
-            "california"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus trees",
-            "cultivation of citrus",
-            "citrus fruits",
-            "citrus",
-            "citrus tree",
-            "citrus plants"
-        ],
-        [
-            "usa"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "candidatus liberibacter americanus",
-            "candidatus liberibacter",
-            "hlb pathogen",
-            "hlb-bacteria",
-            "hlb bacteria"
-        ],
-        [
-            "citrus trees",
-            "cultivation of citrus",
-            "citrus fruits",
-            "citrus",
-            "citrus tree",
-            "citrus plants"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "huanglongbing disease"
-        ],
-        [
-            "arizona"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus trees",
-            "cultivation of citrus",
-            "citrus fruits",
-            "citrus",
-            "citrus tree",
-            "citrus plants"
-        ],
-        [
-            "brazil"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus trees",
-            "cultivation of citrus",
-            "citrus fruits",
-            "citrus",
-            "citrus tree",
-            "citrus plants"
-        ],
-        [
-            "texas"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "huanglongbing",
-            "hlb",
-            "citrus greening disease"
-        ],
-        [
-            "india"
-        ]
-    ],
-    [
-        "Transmits",
-        [
-            "diaphorina citri kuwayama"
-        ],
-        [
-            "candidatus liberibacter americanus",
-            "candidatus liberibacter",
-            "hlb pathogen",
-            "hlb-bacteria",
-            "hlb bacteria"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus trees",
-            "cultivation of citrus",
-            "citrus fruits",
-            "citrus",
-            "citrus tree",
-            "citrus plants"
-        ],
-        [
-            "florida"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "huanglongbing",
-            "hlb",
-            "citrus greening disease"
-        ],
-        [
-            "south china",
-            "china"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "huanglongbing disease"
-        ],
-        [
-            "usa"
-        ]
-    ],
-    [
-        "Causes",
-        [
-            "candidatus liberibacter africanus",
-            "candidatus liberibacter"
-        ],
-        [
-            "huanglongbing",
-            "hlb",
-            "citrus greening disease"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus trees",
-            "cultivation of citrus",
-            "citrus fruits",
-            "citrus",
-            "citrus tree",
-            "citrus plants"
-        ],
-        [
+        "target_names": [
             "georgia"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus trees",
-            "cultivation of citrus",
-            "citrus fruits",
-            "citrus",
-            "citrus tree",
-            "citrus plants"
-        ],
-        [
-            "south carolina"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "huanglongbing",
-            "hlb",
-            "citrus greening disease"
-        ],
-        [
-            "japan"
-        ]
-    ],
-    [
-        "Transmits",
-        [
-            "diaphorina citri kuwayama"
-        ],
-        [
-            "candidatus liberibacter asiaticus",
-            "clas"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "huanglongbing disease"
         ],
-        [
-            "texas"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus trees",
-            "cultivation of citrus",
-            "citrus fruits",
-            "citrus",
-            "citrus tree",
-            "citrus plants"
-        ],
-        [
+        "target_names": [
             "louisiana"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "candidatus liberibacter africanus",
-            "candidatus liberibacter"
-        ],
-        [
-            "citrus trees",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "cultivation of citrus",
-            "citrus fruits",
+            "citrus trees",
+            "citrus plants",
             "citrus",
             "citrus tree",
-            "citrus plants"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "huanglongbing",
-            "hlb",
-            "citrus greening disease"
+            "citrus fruits"
         ],
-        [
+        "target_names": [
             "florida"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "huanglongbing disease"
         ],
-        [
+        "target_names": [
             "florida"
         ]
-    ],
-    [
-        "Affects",
-        [
-            "huanglongbing",
-            "hlb",
-            "citrus greening disease"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "huanglongbing disease"
         ],
-        [
-            "citrus trees",
-            "cultivation of citrus",
-            "citrus fruits",
-            "citrus",
-            "citrus tree",
-            "citrus plants"
+        "target_names": [
+            "south carolina"
         ]
-    ],
-    [
-        "Transmits",
-        [
-            "diaphorina citri kuwayama"
-        ],
-        [
+    },
+    {
+        "type": "causes",
+        "source_names": [
             "candidatus liberibacter africanus",
             "candidatus liberibacter"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "huanglongbing",
+        ],
+        "target_names": [
             "hlb",
+            "huanglongbing",
+            "citrus greening disease"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "hlb",
+            "huanglongbing",
             "citrus greening disease"
         ],
-        [
+        "target_names": [
+            "usa"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "cultivation of citrus",
+            "citrus trees",
+            "citrus plants",
+            "citrus",
+            "citrus tree",
+            "citrus fruits"
+        ],
+        "target_names": [
+            "south carolina"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "hlb",
+            "huanglongbing",
+            "citrus greening disease"
+        ],
+        "target_names": [
             "taiwan"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "huanglongbing disease"
-        ],
-        [
-            "georgia"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "huanglongbing disease"
-        ],
-        [
-            "south carolina"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus trees",
-            "cultivation of citrus",
-            "citrus fruits",
-            "citrus",
-            "citrus tree",
-            "citrus plants"
-        ],
-        [
-            "india"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "huanglongbing",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "hlb",
+            "huanglongbing",
             "citrus greening disease"
         ],
-        [
-            "southeast asia",
-            "asia"
+        "target_names": [
+            "asia",
+            "southeast asia"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus trees",
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "huanglongbing disease"
+        ],
+        "target_names": [
             "cultivation of citrus",
-            "citrus fruits",
+            "citrus trees",
+            "citrus plants",
             "citrus",
             "citrus tree",
-            "citrus plants"
+            "citrus fruits"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "hlb",
+            "huanglongbing",
+            "citrus greening disease"
         ],
-        [
+        "target_names": [
+            "florida"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "cultivation of citrus",
+            "citrus trees",
+            "citrus plants",
+            "citrus",
+            "citrus tree",
+            "citrus fruits"
+        ],
+        "target_names": [
+            "asia",
+            "southeast asia"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "hlb",
+            "huanglongbing",
+            "citrus greening disease"
+        ],
+        "target_names": [
+            "cultivation of citrus",
+            "citrus trees",
+            "citrus plants",
+            "citrus",
+            "citrus tree",
+            "citrus fruits"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "candidatus liberibacter americanus",
+            "candidatus liberibacter",
+            "hlb pathogen",
+            "hlb bacteria",
+            "hlb-bacteria"
+        ],
+        "target_names": [
+            "hlb",
+            "huanglongbing",
+            "citrus greening disease"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "cultivation of citrus",
+            "citrus trees",
+            "citrus plants",
+            "citrus",
+            "citrus tree",
+            "citrus fruits"
+        ],
+        "target_names": [
+            "california"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "huanglongbing disease"
+        ],
+        "target_names": [
+            "california"
+        ]
+    },
+    {
+        "type": "transmits",
+        "source_names": [
+            "diaphorina citri kuwayama"
+        ],
+        "target_names": [
+            "clas",
+            "candidatus liberibacter asiaticus"
+        ]
+    },
+    {
+        "type": "transmits",
+        "source_names": [
+            "diaphorina citri kuwayama"
+        ],
+        "target_names": [
+            "candidatus liberibacter africanus",
+            "candidatus liberibacter"
+        ]
+    },
+    {
+        "type": "transmits",
+        "source_names": [
+            "diaphorina citri kuwayama"
+        ],
+        "target_names": [
+            "candidatus liberibacter americanus",
+            "candidatus liberibacter",
+            "hlb pathogen",
+            "hlb bacteria",
+            "hlb-bacteria"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "cultivation of citrus",
+            "citrus trees",
+            "citrus plants",
+            "citrus",
+            "citrus tree",
+            "citrus fruits"
+        ],
+        "target_names": [
+            "arizona"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "huanglongbing disease"
+        ],
+        "target_names": [
+            "arizona"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "cultivation of citrus",
+            "citrus trees",
+            "citrus plants",
+            "citrus",
+            "citrus tree",
+            "citrus fruits"
+        ],
+        "target_names": [
+            "india"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "cultivation of citrus",
+            "citrus trees",
+            "citrus plants",
+            "citrus",
+            "citrus tree",
+            "citrus fruits"
+        ],
+        "target_names": [
             "south china",
             "china"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "hlb",
+            "huanglongbing",
+            "citrus greening disease"
+        ],
+        "target_names": [
+            "india"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "hlb",
+            "huanglongbing",
+            "citrus greening disease"
+        ],
+        "target_names": [
+            "south china",
+            "china"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "candidatus liberibacter americanus",
             "candidatus liberibacter",
             "hlb pathogen",
-            "hlb-bacteria",
-            "hlb bacteria"
+            "hlb bacteria",
+            "hlb-bacteria"
         ],
-        [
+        "target_names": [
+            "cultivation of citrus",
+            "citrus trees",
+            "citrus plants",
+            "citrus",
+            "citrus tree",
+            "citrus fruits"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "candidatus liberibacter africanus",
+            "candidatus liberibacter"
+        ],
+        "target_names": [
+            "cultivation of citrus",
+            "citrus trees",
+            "citrus plants",
+            "citrus",
+            "citrus tree",
+            "citrus fruits"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "candidatus liberibacter americanus",
+            "candidatus liberibacter",
+            "hlb pathogen",
+            "hlb bacteria",
+            "hlb-bacteria"
+        ],
+        "target_names": [
             "florida"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "huanglongbing disease"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "cultivation of citrus",
+            "citrus trees",
+            "citrus plants",
+            "citrus",
+            "citrus tree",
+            "citrus fruits"
         ],
-        [
-            "louisiana"
+        "target_names": [
+            "texas"
         ]
-    ],
-    [
-        "Transmits",
-        [
+    },
+    {
+        "type": "transmits",
+        "source_names": [
             "trioza erytreae"
         ],
-        [
-            "candidatus liberibacter americanus",
-            "candidatus liberibacter",
-            "hlb pathogen",
-            "hlb-bacteria",
-            "hlb bacteria"
+        "target_names": [
+            "candidatus liberibacter africanus",
+            "candidatus liberibacter"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus trees",
-            "cultivation of citrus",
-            "citrus fruits",
-            "citrus",
-            "citrus tree",
-            "citrus plants"
-        ],
-        [
-            "japan"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "huanglongbing",
-            "hlb",
-            "citrus greening disease"
-        ],
-        [
-            "usa"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus trees",
-            "cultivation of citrus",
-            "citrus fruits",
-            "citrus",
-            "citrus tree",
-            "citrus plants"
-        ],
-        [
-            "california"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "huanglongbing",
-            "hlb",
-            "citrus greening disease"
-        ],
-        [
-            "brazil"
-        ]
-    ],
-    [
-        "Affects",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "huanglongbing disease"
         ],
-        [
-            "citrus trees",
-            "cultivation of citrus",
-            "citrus fruits",
-            "citrus",
-            "citrus tree",
-            "citrus plants"
+        "target_names": [
+            "texas"
         ]
-    ],
-    [
-        "Causes",
-        [
+    },
+    {
+        "type": "transmits",
+        "source_names": [
+            "trioza erytreae"
+        ],
+        "target_names": [
             "candidatus liberibacter americanus",
             "candidatus liberibacter",
             "hlb pathogen",
-            "hlb-bacteria",
-            "hlb bacteria"
-        ],
-        [
-            "huanglongbing",
-            "hlb",
-            "citrus greening disease"
+            "hlb bacteria",
+            "hlb-bacteria"
         ]
-    ]
+    },
+    {
+        "type": "transmits",
+        "source_names": [
+            "trioza erytreae"
+        ],
+        "target_names": [
+            "clas",
+            "candidatus liberibacter asiaticus"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "cultivation of citrus",
+            "citrus trees",
+            "citrus plants",
+            "citrus",
+            "citrus tree",
+            "citrus fruits"
+        ],
+        "target_names": [
+            "japan"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "cultivation of citrus",
+            "citrus trees",
+            "citrus plants",
+            "citrus",
+            "citrus tree",
+            "citrus fruits"
+        ],
+        "target_names": [
+            "brazil"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "hlb",
+            "huanglongbing",
+            "citrus greening disease"
+        ],
+        "target_names": [
+            "japan"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "hlb",
+            "huanglongbing",
+            "citrus greening disease"
+        ],
+        "target_names": [
+            "brazil"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "cultivation of citrus",
+            "citrus trees",
+            "citrus plants",
+            "citrus",
+            "citrus tree",
+            "citrus fruits"
+        ],
+        "target_names": [
+            "usa"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "huanglongbing disease"
+        ],
+        "target_names": [
+            "usa"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "cultivation of citrus",
+            "citrus trees",
+            "citrus plants",
+            "citrus",
+            "citrus tree",
+            "citrus fruits"
+        ],
+        "target_names": [
+            "georgia"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "cultivation of citrus",
+            "citrus trees",
+            "citrus plants",
+            "citrus",
+            "citrus tree",
+            "citrus fruits"
+        ],
+        "target_names": [
+            "louisiana"
+        ]
+    }
 ]

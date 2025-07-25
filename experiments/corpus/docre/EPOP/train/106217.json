@@ -1,165 +1,165 @@
 [
-    [
-        "Located in",
-        [
-            "xylella",
-            "xylella fastidiosa"
-        ],
-        [
-            "puglia region",
-            "northern puglia",
-            "puglia"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "xylella fastidiosa pauca st53"
         ],
-        [
-            "puglia region",
+        "target_names": [
             "northern puglia",
-            "puglia"
+            "puglia",
+            "puglia region"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees"
-        ],
-        [
-            "alberobello"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees"
-        ],
-        [
-            "polignano"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees"
-        ],
-        [
-            "province of bari"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylella fastidiosa pauca st53"
         ],
-        [
-            "countryside of castellana grotte",
-            "castellana grotte"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees"
-        ],
-        [
+        "target_names": [
             "monopoli"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylella fastidiosa pauca st53"
         ],
-        [
-            "polignano"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa pauca st53"
-        ],
-        [
-            "locorotondo"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella",
-            "xylella fastidiosa"
-        ],
-        [
-            "countryside of castellana grotte",
-            "castellana grotte"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa pauca st53"
-        ],
-        [
-            "province of bari"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa pauca st53"
-        ],
-        [
+        "target_names": [
             "alberobello"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella",
-            "xylella fastidiosa"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa pauca st53"
         ],
-        [
+        "target_names": [
+            "locorotondo"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa pauca st53"
+        ],
+        "target_names": [
+            "province of bari"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "northern puglia",
+            "puglia",
+            "puglia region"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive trees"
+        ],
+        "target_names": [
+            "castellana grotte",
+            "countryside of castellana grotte"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "castellana grotte",
+            "countryside of castellana grotte"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive trees"
+        ],
+        "target_names": [
+            "polignano"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive trees"
+        ],
+        "target_names": [
+            "alberobello"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella fastidiosa pauca st53"
+        ],
+        "target_names": [
+            "olive trees"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa pauca st53"
+        ],
+        "target_names": [
+            "castellana grotte",
+            "countryside of castellana grotte"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa pauca st53"
+        ],
+        "target_names": [
+            "polignano"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive trees"
+        ],
+        "target_names": [
+            "province of bari"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
             "italy"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa pauca st53"
-        ],
-        [
-            "olive trees"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "olive trees"
         ],
-        [
-            "countryside of castellana grotte",
-            "castellana grotte"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees"
-        ],
-        [
-            "locorotondo"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa pauca st53"
-        ],
-        [
+        "target_names": [
             "monopoli"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive trees"
+        ],
+        "target_names": [
+            "locorotondo"
+        ]
+    }
 ]

@@ -1,96 +1,96 @@
 [
-    [
-        "Has been found on",
-        [
+    {
+        "type": "located in",
+        "source_names": [
+            "tomatoes",
+            "tomato crops",
+            "tomato"
+        ],
+        "target_names": [
+            "jordan valley"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "tobrfv",
             "tomato brown rugose fruit virus"
         ],
-        [
+        "target_names": [
+            "tomatoes",
+            "tomato crops",
+            "tomato"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tobrfv",
+            "tomato brown rugose fruit virus"
+        ],
+        "target_names": [
+            "jordan"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tobamovirus"
+        ],
+        "target_names": [
+            "tomatoes",
+            "tomato crops",
+            "tomato"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tobrfv",
+            "tomato brown rugose fruit virus"
+        ],
+        "target_names": [
             "solanum nigrum"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "tomatoes",
-            "tomato",
-            "tomato crops"
-        ],
-        [
-            "jordan"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "tobrfv",
             "tomato brown rugose fruit virus"
         ],
-        [
-            "tomatoes",
-            "tomato",
-            "tomato crops"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tobamovirus"
-        ],
-        [
-            "tomatoes",
-            "tomato",
-            "tomato crops"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "tobrfv",
-            "tomato brown rugose fruit virus"
-        ],
-        [
-            "jordan valley"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "tobrfv",
-            "tomato brown rugose fruit virus"
-        ],
-        [
+        "target_names": [
             "mediterranean"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "tobrfv",
             "tomato brown rugose fruit virus"
         ],
-        [
-            "jordan"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "tomatoes",
-            "tomato",
-            "tomato crops"
-        ],
-        [
+        "target_names": [
             "jordan valley"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "tobamovirus"
         ],
-        [
+        "target_names": [
             "jordan valley"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tomatoes",
+            "tomato crops",
+            "tomato"
+        ],
+        "target_names": [
+            "jordan"
+        ]
+    }
 ]

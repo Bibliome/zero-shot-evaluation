@@ -1,85 +1,85 @@
 [
-    [
-        "Located in",
-        [
-            "s. frugiperda",
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda (je smith)",
             "spodoptera frugiperda",
-            "spodoptera frugiperda (je smith)"
+            "s. frugiperda"
         ],
-        [
+        "target_names": [
             "pirassununga"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "s. frugiperda",
-            "spodoptera frugiperda",
-            "spodoptera frugiperda (je smith)"
-        ],
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "maize crops",
-            "maize",
             "maize fields",
-            "maize crop"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "s. frugiperda",
-            "spodoptera frugiperda",
-            "spodoptera frugiperda (je smith)"
-        ],
-        [
-            "brazil"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "s. frugiperda",
-            "spodoptera frugiperda",
-            "spodoptera frugiperda (je smith)"
-        ],
-        [
-            "s\u00e3o paulo state"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "maize crops",
             "maize",
-            "maize fields",
             "maize crop"
         ],
-        [
+        "target_names": [
             "pirassununga"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "maize crops",
-            "maize",
-            "maize fields",
-            "maize crop"
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "spodoptera frugiperda (je smith)",
+            "spodoptera frugiperda",
+            "s. frugiperda"
         ],
-        [
-            "brazil"
+        "target_names": [
+            "maize crops",
+            "maize fields",
+            "maize",
+            "maize crop"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "maize crops",
-            "maize",
-            "maize fields",
-            "maize crop"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda (je smith)",
+            "spodoptera frugiperda",
+            "s. frugiperda"
         ],
-        [
+        "target_names": [
             "s\u00e3o paulo state"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "maize crops",
+            "maize fields",
+            "maize",
+            "maize crop"
+        ],
+        "target_names": [
+            "s\u00e3o paulo state"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "maize crops",
+            "maize fields",
+            "maize",
+            "maize crop"
+        ],
+        "target_names": [
+            "brazil"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda (je smith)",
+            "spodoptera frugiperda",
+            "s. frugiperda"
+        ],
+        "target_names": [
+            "brazil"
+        ]
+    }
 ]

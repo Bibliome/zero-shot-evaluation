@@ -1,29 +1,29 @@
 [
-    [
-        "Located in",
-        [
-            "flavescence dor\u00e9e"
-        ],
-        [
-            "burgundy"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
+    {
+        "type": "has been found on",
+        "source_names": [
             "scaphodeus titanus"
         ],
-        [
+        "target_names": [
             "wild vines"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "scaphodeus titanus"
         ],
-        [
+        "target_names": [
             "vine"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "flavescence dor\u00e9e"
+        ],
+        "target_names": [
+            "burgundy"
+        ]
+    }
 ]

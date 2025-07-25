@@ -1,95 +1,95 @@
 [
-    [
-        "Has been found on",
-        [
-            "xylella"
-        ],
-        [
-            "olive trees"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "olive trees"
         ],
-        [
-            "martina franca",
-            "countryside of martina franca"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees"
-        ],
-        [
-            "areas not far from c.da san marco and maranna",
+        "target_names": [
+            "areas not far from contrada san marco and maranna",
             "c.da mavugliola",
+            "locorotondo",
             "area not far from the san marco district",
             "locorotondo area",
-            "locorotondo",
-            "areas not far from contrada san marco and maranna"
+            "areas not far from c.da san marco and maranna"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylella"
         ],
-        [
-            "martina franca",
-            "countryside of martina franca"
+        "target_names": [
+            "countryside of martina franca",
+            "martina franca"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive trees"
+        ],
+        "target_names": [
+            "polignano a mare"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylella"
         ],
-        [
-            "areas not far from c.da san marco and maranna",
+        "target_names": [
+            "fasano"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella"
+        ],
+        "target_names": [
+            "areas not far from contrada san marco and maranna",
             "c.da mavugliola",
+            "locorotondo",
             "area not far from the san marco district",
             "locorotondo area",
-            "locorotondo",
-            "areas not far from contrada san marco and maranna"
+            "areas not far from c.da san marco and maranna"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees"
-        ],
-        [
-            "polignano a mare"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees"
-        ],
-        [
-            "fasano"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylella"
         ],
-        [
+        "target_names": [
             "polignano a mare"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "xylella"
         ],
-        [
+        "target_names": [
+            "olive trees"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive trees"
+        ],
+        "target_names": [
+            "countryside of martina franca",
+            "martina franca"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive trees"
+        ],
+        "target_names": [
             "fasano"
         ]
-    ]
+    }
 ]

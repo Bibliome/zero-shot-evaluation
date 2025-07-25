@@ -1,23 +1,23 @@
 [
-    [
-        "Located in",
-        [
-            "s. litura",
-            "spodoptera",
-            "spodoptera litura"
-        ],
-        [
-            "china"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "spodoptera frugiperda",
             "s. frugiperda"
         ],
-        [
+        "target_names": [
             "china"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera litura",
+            "spodoptera",
+            "s. litura"
+        ],
+        "target_names": [
+            "china"
+        ]
+    }
 ]

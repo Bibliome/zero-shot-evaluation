@@ -1,68 +1,68 @@
 [
-    [
-        "Located in",
-        [
-            "japanese beetle",
+    {
+        "type": "located in",
+        "source_names": [
             "popilia japonica",
+            "japanese beetle",
             "popilias"
         ],
-        [
-            "morcote"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "japanese beetle",
-            "popilia japonica",
-            "popilias"
-        ],
-        [
+        "target_names": [
             "stabio"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "japanese beetle",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "popilia japonica",
+            "japanese beetle",
             "popilias"
         ],
-        [
+        "target_names": [
             "mendrisio"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "japanese beetle",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "popilia japonica",
+            "japanese beetle",
             "popilias"
         ],
-        [
+        "target_names": [
             "genestrerio"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "japanese beetle",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "popilia japonica",
+            "japanese beetle",
             "popilias"
         ],
-        [
+        "target_names": [
             "ticino"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "japanese beetle",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "popilia japonica",
+            "japanese beetle",
             "popilias"
         ],
-        [
+        "target_names": [
             "novazzano"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "popilia japonica",
+            "japanese beetle",
+            "popilias"
+        ],
+        "target_names": [
+            "morcote"
+        ]
+    }
 ]

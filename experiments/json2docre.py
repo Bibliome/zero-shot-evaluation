@@ -47,7 +47,7 @@ def _adequate_forms(jdoc: dict, entity: dict) -> frozenset[str]:
 def _doc_relation(jdoc: dict, rel:dict) -> tuple:
     source_forms = _adequate_forms(jdoc, jdoc['entities_map'][rel['source']])
     target_forms = _adequate_forms(jdoc, jdoc['entities_map'][rel['target']])
-    return rel['type'], source_forms, target_forms
+    return rel['type'].lower(), source_forms, target_forms
 
 
 def doc_relations(jdoc: dict) -> frozenset[tuple]:
@@ -55,15 +55,9 @@ def doc_relations(jdoc: dict) -> frozenset[tuple]:
 
 
 if __name__ == '__main__':
-    import sys
-    
-    class FrozenSetEncoder(json.JSONEncoder):
-        def default(self, obj):
-            if isinstance(obj, frozenset):
-                return list(obj)
-            return json.JSONEncoder.default(self, obj)
-
     def main():
+        import sys
+
         parser = argparse.ArgumentParser(
             prog=sys.argv[0],
             description='translates text-bound annotations into document-level relations with adequate argument forms'
@@ -83,7 +77,8 @@ if __name__ == '__main__':
         options.normalization_types.update((t + AUTO_NORMALIZATION_SUFFIX) for t in options.auto_normalization_types)
 
         jdoc = read_json_doc(options.filename, options.normalization_types, options.auto_normalization_types)
-        json.dump(doc_relations(jdoc), sys.stdout, indent=4, cls=FrozenSetEncoder)
+        rels = [dict(type=type_, source_names=list(src_names), target_names=list(tgt_names)) for (type_, src_names, tgt_names) in doc_relations(jdoc)]
+        json.dump(rels, sys.stdout, indent=4)
         print()
 
     main()

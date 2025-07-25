@@ -1,28 +1,28 @@
 [
-    [
-        "Located in",
-        [
-            "bactrocera dorsalis",
-            "b. dorsalis",
+    {
+        "type": "located in",
+        "source_names": [
+            "eastern fruit fly",
             "eastern fruit moscow",
-            "eastern fruit fly"
+            "b. dorsalis",
+            "bactrocera dorsalis"
         ],
-        [
+        "target_names": [
+            "campania",
+            "limited area of campania",
+            "campania region"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "eastern fruit fly",
+            "eastern fruit moscow",
+            "b. dorsalis",
+            "bactrocera dorsalis"
+        ],
+        "target_names": [
             "territory of palma campania"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "bactrocera dorsalis",
-            "b. dorsalis",
-            "eastern fruit moscow",
-            "eastern fruit fly"
-        ],
-        [
-            "campania region",
-            "limited area of campania",
-            "campania"
-        ]
-    ]
+    }
 ]

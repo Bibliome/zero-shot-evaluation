@@ -1,42 +1,42 @@
 [
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "<em>multiplex<\\/em> subspecies of <em>xylella fastidiosa<\\/em>",
             "<em>xylella<\\/em> (<em>multiplex"
         ],
-        [
-            "eu"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "<em>multiplex<\\/em> subspecies of <em>xylella fastidiosa<\\/em>",
-            "<em>xylella<\\/em> (<em>multiplex"
-        ],
-        [
+        "target_names": [
             "france"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "<em>multiplex<\\/em> subspecies of <em>xylella fastidiosa<\\/em>",
             "<em>xylella<\\/em> (<em>multiplex"
         ],
-        [
+        "target_names": [
+            "eu"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "<em>multiplex<\\/em> subspecies of <em>xylella fastidiosa<\\/em>",
+            "<em>xylella<\\/em> (<em>multiplex"
+        ],
+        "target_names": [
             "portugal"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "<em>multiplex<\\/em> subspecies of <em>xylella fastidiosa<\\/em>",
             "<em>xylella<\\/em> (<em>multiplex"
         ],
-        [
+        "target_names": [
             "italy"
         ]
-    ]
+    }
 ]

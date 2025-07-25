@@ -1,20 +1,20 @@
 [
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "wheat"
         ],
-        [
-            "paran\u00e1"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "wheat"
-        ],
-        [
+        "target_names": [
             "rio grande do sul"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "wheat"
+        ],
+        "target_names": [
+            "paran\u00e1"
+        ]
+    }
 ]

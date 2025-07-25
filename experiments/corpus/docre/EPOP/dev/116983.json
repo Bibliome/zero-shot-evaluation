@@ -1,77 +1,77 @@
 [
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "oriental fly",
-            "bactrocera dorsalis",
-            "oriental fruit fly"
+            "oriental fruit fly",
+            "bactrocera dorsalis"
         ],
-        [
-            "europe"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "oriental fly",
-            "bactrocera dorsalis",
-            "oriental fruit fly"
-        ],
-        [
-            "province of avellino"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "oriental fly",
-            "bactrocera dorsalis",
-            "oriental fruit fly"
-        ],
-        [
-            "wine"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "oriental fly",
-            "bactrocera dorsalis",
-            "oriental fruit fly"
-        ],
-        [
-            "campania"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "oriental fly",
-            "bactrocera dorsalis",
-            "oriental fruit fly"
-        ],
-        [
+        "target_names": [
             "province of naples"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "oriental fly",
-            "bactrocera dorsalis",
-            "oriental fruit fly"
+            "oriental fruit fly",
+            "bactrocera dorsalis"
         ],
-        [
-            "mediterranean basin"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "wine"
-        ],
-        [
+        "target_names": [
             "campania"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "oriental fly",
+            "oriental fruit fly",
+            "bactrocera dorsalis"
+        ],
+        "target_names": [
+            "mediterranean basin"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "oriental fly",
+            "oriental fruit fly",
+            "bactrocera dorsalis"
+        ],
+        "target_names": [
+            "wine"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "wine"
+        ],
+        "target_names": [
+            "campania"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "oriental fly",
+            "oriental fruit fly",
+            "bactrocera dorsalis"
+        ],
+        "target_names": [
+            "province of avellino"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "oriental fly",
+            "oriental fruit fly",
+            "bactrocera dorsalis"
+        ],
+        "target_names": [
+            "europe"
+        ]
+    }
 ]

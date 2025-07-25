@@ -1,29 +1,29 @@
 [
-    [
-        "Located in",
-        [
+    {
+        "type": "has been found on",
+        "source_names": [
             "popillia"
         ],
-        [
-            "novara"
-        ]
-    ],
-    [
-        "Located in",
-        [
+        "target_names": [
             "vineyards"
-        ],
-        [
-            "novara"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "popillia"
         ],
-        [
-            "vineyards"
+        "target_names": [
+            "novara"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "vineyards"
+        ],
+        "target_names": [
+            "novara"
+        ]
+    }
 ]

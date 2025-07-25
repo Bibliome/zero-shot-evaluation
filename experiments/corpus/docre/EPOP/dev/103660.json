@@ -1,177 +1,177 @@
 [
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "spodoptera frugiperda",
             "s. frugiperda",
             "spodoptera frugiperda (j. e. smith)"
         ],
-        [
-            "china",
-            "western china"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "spodoptera frugiperda",
-            "s. frugiperda",
-            "spodoptera frugiperda (j. e. smith)"
-        ],
-        [
-            "shaanxi"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "spodoptera frugiperda",
-            "s. frugiperda",
-            "spodoptera frugiperda (j. e. smith)"
-        ],
-        [
-            "xinjiang"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "spodoptera frugiperda",
-            "s. frugiperda",
-            "spodoptera frugiperda (j. e. smith)"
-        ],
-        [
-            "wheat"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "spodoptera frugiperda",
-            "s. frugiperda",
-            "spodoptera frugiperda (j. e. smith)"
-        ],
-        [
+        "target_names": [
             "ili"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "spodoptera frugiperda",
             "s. frugiperda",
             "spodoptera frugiperda (j. e. smith)"
         ],
-        [
+        "target_names": [
             "hami"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "spodoptera frugiperda",
-            "s. frugiperda",
-            "spodoptera frugiperda (j. e. smith)"
-        ],
-        [
-            "hotan"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "spodoptera frugiperda",
-            "s. frugiperda",
-            "spodoptera frugiperda (j. e. smith)"
-        ],
-        [
-            "eastern qinghai"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "spodoptera frugiperda",
-            "s. frugiperda",
-            "spodoptera frugiperda (j. e. smith)"
-        ],
-        [
-            "urumqi"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "corn"
-        ],
-        [
-            "china",
-            "western china"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "spodoptera frugiperda",
-            "s. frugiperda",
-            "spodoptera frugiperda (j. e. smith)"
-        ],
-        [
-            "tibetan"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "spodoptera frugiperda",
-            "s. frugiperda",
-            "spodoptera frugiperda (j. e. smith)"
-        ],
-        [
-            "aksu"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "spodoptera frugiperda",
-            "s. frugiperda",
-            "spodoptera frugiperda (j. e. smith)"
-        ],
-        [
-            "corn"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "spodoptera frugiperda",
-            "s. frugiperda",
-            "spodoptera frugiperda (j. e. smith)"
-        ],
-        [
-            "ningxia"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "spodoptera frugiperda",
-            "s. frugiperda",
-            "spodoptera frugiperda (j. e. smith)"
-        ],
-        [
-            "western gansu"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "wheat"
         ],
-        [
-            "china",
-            "western china"
+        "target_names": [
+            "western china",
+            "china"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "corn"
+        ],
+        "target_names": [
+            "western china",
+            "china"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
+            "s. frugiperda",
+            "spodoptera frugiperda (j. e. smith)"
+        ],
+        "target_names": [
+            "tibetan"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "spodoptera frugiperda",
+            "s. frugiperda",
+            "spodoptera frugiperda (j. e. smith)"
+        ],
+        "target_names": [
+            "wheat"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
+            "s. frugiperda",
+            "spodoptera frugiperda (j. e. smith)"
+        ],
+        "target_names": [
+            "western china",
+            "china"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
+            "s. frugiperda",
+            "spodoptera frugiperda (j. e. smith)"
+        ],
+        "target_names": [
+            "urumqi"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
+            "s. frugiperda",
+            "spodoptera frugiperda (j. e. smith)"
+        ],
+        "target_names": [
+            "xinjiang"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
+            "s. frugiperda",
+            "spodoptera frugiperda (j. e. smith)"
+        ],
+        "target_names": [
+            "shaanxi"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
+            "s. frugiperda",
+            "spodoptera frugiperda (j. e. smith)"
+        ],
+        "target_names": [
+            "hotan"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "spodoptera frugiperda",
+            "s. frugiperda",
+            "spodoptera frugiperda (j. e. smith)"
+        ],
+        "target_names": [
+            "corn"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
+            "s. frugiperda",
+            "spodoptera frugiperda (j. e. smith)"
+        ],
+        "target_names": [
+            "aksu"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
+            "s. frugiperda",
+            "spodoptera frugiperda (j. e. smith)"
+        ],
+        "target_names": [
+            "eastern qinghai"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
+            "s. frugiperda",
+            "spodoptera frugiperda (j. e. smith)"
+        ],
+        "target_names": [
+            "ningxia"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
+            "s. frugiperda",
+            "spodoptera frugiperda (j. e. smith)"
+        ],
+        "target_names": [
+            "western gansu"
+        ]
+    }
 ]

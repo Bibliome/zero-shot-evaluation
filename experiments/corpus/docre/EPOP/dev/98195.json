@@ -1,51 +1,51 @@
 [
-    [
-        "Causes",
-        [
-            "candidatus liberibacter"
-        ],
-        [
-            "huanglongbing",
-            "yellow dragon",
-            "hlb"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "huanglongbing",
-            "yellow dragon",
-            "hlb"
-        ],
-        [
-            "citrus"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "citrus sadness virus"
-        ],
-        [
-            "citrus"
-        ]
-    ],
-    [
-        "Affects",
-        [
+    {
+        "type": "affects",
+        "source_names": [
             "leprosis"
         ],
-        [
+        "target_names": [
             "citrus"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "causes",
+        "source_names": [
             "candidatus liberibacter"
         ],
-        [
+        "target_names": [
+            "huanglongbing",
+            "yellow dragon",
+            "hlb"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "citrus sadness virus"
+        ],
+        "target_names": [
             "citrus"
         ]
-    ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "candidatus liberibacter"
+        ],
+        "target_names": [
+            "citrus"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "huanglongbing",
+            "yellow dragon",
+            "hlb"
+        ],
+        "target_names": [
+            "citrus"
+        ]
+    }
 ]

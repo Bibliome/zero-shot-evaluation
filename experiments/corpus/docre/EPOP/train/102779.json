@@ -1,153 +1,153 @@
 [
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "flavescence dor\u00e9e"
         ],
-        [
+        "target_names": [
+            "cantons valais",
+            "valais"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "flavescence dor\u00e9e"
+        ],
+        "target_names": [
             "fully"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "flavescence dor\u00e9e"
-        ],
-        [
-            "cantons of vaud"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "flavescence dor\u00e9e"
-        ],
-        [
-            "syrah",
-            "chardonnay",
-            "sauvignon blanc",
-            "cabernet franc",
-            "gamay",
-            "garanoir",
-            "merlot",
-            "pinot noir",
-            "isabella",
-            "cabernet sauvignon",
-            "pinot blanc",
-            "gamaret",
-            "muscat",
-            "vines",
-            "grapevine",
-            "sensitive grape varieties",
-            "doral",
-            "vine"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "flavescence dor\u00e9e"
-        ],
-        [
-            "cantons grisons"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "flavescence dor\u00e9e"
-        ],
-        [
-            "syrah",
-            "chardonnay",
-            "sauvignon blanc",
-            "cabernet franc",
-            "gamay",
-            "garanoir",
-            "merlot",
-            "pinot noir",
-            "isabella",
-            "cabernet sauvignon",
-            "pinot blanc",
-            "gamaret",
-            "muscat",
-            "vines",
-            "grapevine",
-            "sensitive grape varieties",
-            "doral",
-            "vine"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "syrah",
-            "chardonnay",
-            "sauvignon blanc",
-            "cabernet franc",
-            "gamay",
-            "garanoir",
-            "merlot",
-            "pinot noir",
-            "isabella",
-            "cabernet sauvignon",
-            "pinot blanc",
-            "gamaret",
-            "muscat",
-            "vines",
-            "grapevine",
-            "sensitive grape varieties",
-            "doral",
-            "vine"
-        ],
-        [
-            "valais",
-            "cantons valais"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "flavescence dor\u00e9e"
-        ],
-        [
-            "ticino"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "flavescence dor\u00e9e"
-        ],
-        [
-            "valais",
-            "cantons valais"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "phytoplasmas"
         ],
-        [
-            "syrah",
-            "chardonnay",
-            "sauvignon blanc",
+        "target_names": [
             "cabernet franc",
-            "gamay",
+            "gamaret",
+            "isabella",
+            "vines",
+            "sensitive grape varieties",
+            "grapevine",
+            "vine",
+            "doral",
+            "pinot noir",
             "garanoir",
             "merlot",
-            "pinot noir",
-            "isabella",
-            "cabernet sauvignon",
-            "pinot blanc",
-            "gamaret",
+            "syrah",
+            "gamay",
             "muscat",
-            "vines",
-            "grapevine",
-            "sensitive grape varieties",
-            "doral",
-            "vine"
+            "pinot blanc",
+            "sauvignon blanc",
+            "cabernet sauvignon",
+            "chardonnay"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "cabernet franc",
+            "gamaret",
+            "isabella",
+            "vines",
+            "sensitive grape varieties",
+            "grapevine",
+            "vine",
+            "doral",
+            "pinot noir",
+            "garanoir",
+            "merlot",
+            "syrah",
+            "gamay",
+            "muscat",
+            "pinot blanc",
+            "sauvignon blanc",
+            "cabernet sauvignon",
+            "chardonnay"
+        ],
+        "target_names": [
+            "cantons valais",
+            "valais"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "flavescence dor\u00e9e"
+        ],
+        "target_names": [
+            "cabernet franc",
+            "gamaret",
+            "isabella",
+            "vines",
+            "sensitive grape varieties",
+            "grapevine",
+            "vine",
+            "doral",
+            "pinot noir",
+            "garanoir",
+            "merlot",
+            "syrah",
+            "gamay",
+            "muscat",
+            "pinot blanc",
+            "sauvignon blanc",
+            "cabernet sauvignon",
+            "chardonnay"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "flavescence dor\u00e9e"
+        ],
+        "target_names": [
+            "cantons grisons"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "flavescence dor\u00e9e"
+        ],
+        "target_names": [
+            "cantons of vaud"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "flavescence dor\u00e9e"
+        ],
+        "target_names": [
+            "cabernet franc",
+            "gamaret",
+            "isabella",
+            "vines",
+            "sensitive grape varieties",
+            "grapevine",
+            "vine",
+            "doral",
+            "pinot noir",
+            "garanoir",
+            "merlot",
+            "syrah",
+            "gamay",
+            "muscat",
+            "pinot blanc",
+            "sauvignon blanc",
+            "cabernet sauvignon",
+            "chardonnay"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "flavescence dor\u00e9e"
+        ],
+        "target_names": [
+            "ticino"
+        ]
+    }
 ]

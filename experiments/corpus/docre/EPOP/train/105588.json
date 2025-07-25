@@ -1,85 +1,85 @@
 [
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "pauca"
         ],
-        [
+        "target_names": [
             "balearic islands"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "multiplex"
+        ],
+        "target_names": [
+            "balearic islands"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "pauca"
         ],
-        [
+        "target_names": [
             "ibiza"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa",
-            "xylella"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "fastidiosa"
         ],
-        [
+        "target_names": [
+            "ibiza"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella",
+            "xylella fastidiosa"
+        ],
+        "target_names": [
             "formentera"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "fastidiosa"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella",
+            "xylella fastidiosa"
         ],
-        [
+        "target_names": [
             "balearic islands"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "fastidiosa"
-        ],
-        [
-            "ibiza"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "multiplex"
         ],
-        [
-            "balearic islands"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "multiplex"
-        ],
-        [
+        "target_names": [
             "ibiza"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "balearic islands"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "almond trees"
         ],
-        [
+        "target_names": [
             "balearic islands"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "fastidiosa"
+        ],
+        "target_names": [
+            "balearic islands"
+        ]
+    }
 ]

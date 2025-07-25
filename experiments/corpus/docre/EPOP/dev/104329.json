@@ -1,36 +1,36 @@
 [
-    [
-        "Located in",
-        [
+    {
+        "type": "has been found on",
+        "source_names": [
             "tomato brown rugose fruit virus",
-            "tobrfv",
-            "tobrfv virus"
+            "tobrfv virus",
+            "tobrfv"
         ],
-        [
-            "finland",
-            "finnish"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tomato brown rugose fruit virus",
-            "tobrfv",
-            "tobrfv virus"
-        ],
-        [
-            "peppers"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tomato brown rugose fruit virus",
-            "tobrfv",
-            "tobrfv virus"
-        ],
-        [
+        "target_names": [
             "tomatoes"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tomato brown rugose fruit virus",
+            "tobrfv virus",
+            "tobrfv"
+        ],
+        "target_names": [
+            "finnish",
+            "finland"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tomato brown rugose fruit virus",
+            "tobrfv virus",
+            "tobrfv"
+        ],
+        "target_names": [
+            "peppers"
+        ]
+    }
 ]

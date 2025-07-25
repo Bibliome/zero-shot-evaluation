@@ -1,36 +1,36 @@
 [
-    [
-        "Located in",
-        [
-            "oriental fruit flies",
+    {
+        "type": "located in",
+        "source_names": [
             "bactrocera dorsalis",
+            "oriental fruit flies",
             "oriental fruit fly"
         ],
-        [
+        "target_names": [
             "st. petersburg"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "oriental fruit flies",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "bactrocera dorsalis",
+            "oriental fruit flies",
             "oriental fruit fly"
         ],
-        [
-            "florida",
-            "florida county"
+        "target_names": [
+            "florida county",
+            "florida"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "oriental fruit flies",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "bactrocera dorsalis",
+            "oriental fruit flies",
             "oriental fruit fly"
         ],
-        [
+        "target_names": [
             "pinellas county"
         ]
-    ]
+    }
 ]

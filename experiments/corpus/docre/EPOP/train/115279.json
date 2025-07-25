@@ -1,280 +1,280 @@
 [
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "xylellafastidiosa",
-            "xylella",
-            "xylella fastidiosa"
+            "xylella fastidiosa",
+            "xylella"
         ],
-        [
-            "sava"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees",
-            "olive tree"
-        ],
-        [
-            "locorotondo"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylellafastidiosa",
-            "xylella",
-            "xylella fastidiosa"
-        ],
-        [
+        "target_names": [
             "avetrana"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "xylellafastidiosa",
-            "xylella",
-            "xylella fastidiosa"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive tree",
+            "olive trees"
         ],
-        [
-            "maruggio"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylellafastidiosa",
-            "xylella",
-            "xylella fastidiosa"
-        ],
-        [
-            "province of bari",
-            "bari area"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylellafastidiosa",
-            "xylella",
-            "xylella fastidiosa"
-        ],
-        [
-            "martina franca"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees",
-            "olive tree"
-        ],
-        [
-            "castellana grotte",
-            "castellana"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylellafastidiosa",
-            "xylella",
-            "xylella fastidiosa"
-        ],
-        [
+        "target_names": [
             "locorotondo"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "xylellafastidiosa",
-            "xylella",
-            "xylella fastidiosa"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive tree",
+            "olive trees"
         ],
-        [
-            "taranto"
+        "target_names": [
+            "martina franca"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylellafastidiosa",
-            "xylella",
-            "xylella fastidiosa"
+            "xylella fastidiosa",
+            "xylella"
         ],
-        [
+        "target_names": [
             "barletta"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylellafastidiosa",
-            "xylella",
-            "xylella fastidiosa"
+            "xylella fastidiosa",
+            "xylella"
         ],
-        [
-            "monopoli"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylellafastidiosa",
-            "xylella",
-            "xylella fastidiosa"
-        ],
-        [
-            "castellana grotte",
-            "castellana"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylellafastidiosa",
-            "xylella",
-            "xylella fastidiosa"
-        ],
-        [
+        "target_names": [
             "alberobello"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylellafastidiosa",
-            "xylella",
-            "xylella fastidiosa"
+            "xylella fastidiosa",
+            "xylella"
         ],
-        [
-            "torricella"
+        "target_names": [
+            "locorotondo"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylellafastidiosa",
-            "xylella",
-            "xylella fastidiosa"
+            "xylella fastidiosa",
+            "xylella"
         ],
-        [
-            "salento"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylellafastidiosa",
-            "xylella",
-            "xylella fastidiosa"
-        ],
-        [
-            "puglia"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylellafastidiosa",
-            "xylella",
-            "xylella fastidiosa"
-        ],
-        [
-            "olive trees",
-            "olive tree"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees",
-            "olive tree"
-        ],
-        [
-            "fasano"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees",
-            "olive tree"
-        ],
-        [
-            "polignanoa mare",
-            "polignano a mare",
-            "polignano"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylellafastidiosa",
-            "xylella",
-            "xylella fastidiosa"
-        ],
-        [
+        "target_names": [
             "manduria"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylellafastidiosa",
-            "xylella",
-            "xylella fastidiosa"
+            "xylella fastidiosa",
+            "xylella"
         ],
-        [
-            "polignanoa mare",
+        "target_names": [
+            "martina franca"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive tree",
+            "olive trees"
+        ],
+        "target_names": [
             "polignano a mare",
+            "polignanoa mare",
             "polignano"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylellafastidiosa",
-            "xylella",
-            "xylella fastidiosa"
+            "xylella fastidiosa",
+            "xylella"
         ],
-        [
+        "target_names": [
+            "taranto"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylellafastidiosa",
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "polignano a mare",
+            "polignanoa mare",
+            "polignano"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive tree",
+            "olive trees"
+        ],
+        "target_names": [
+            "castellana",
+            "castellana grotte"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylellafastidiosa",
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "maruggio"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylellafastidiosa",
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "salento"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive tree",
+            "olive trees"
+        ],
+        "target_names": [
             "fasano"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees",
-            "olive tree"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylellafastidiosa",
+            "xylella fastidiosa",
+            "xylella"
         ],
-        [
+        "target_names": [
+            "sava"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylellafastidiosa",
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "monopoli"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylellafastidiosa",
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "puglia"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylellafastidiosa",
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "olive tree",
+            "olive trees"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylellafastidiosa",
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "castellana",
+            "castellana grotte"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive tree",
+            "olive trees"
+        ],
+        "target_names": [
             "province of bari",
             "bari area"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylellafastidiosa",
-            "xylella",
-            "xylella fastidiosa"
+            "xylella fastidiosa",
+            "xylella"
         ],
-        [
+        "target_names": [
+            "fasano"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylellafastidiosa",
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
             "ionian municipalities"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees",
-            "olive tree"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylellafastidiosa",
+            "xylella fastidiosa",
+            "xylella"
         ],
-        [
-            "martina franca"
+        "target_names": [
+            "province of bari",
+            "bari area"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylellafastidiosa",
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "torricella"
+        ]
+    }
 ]

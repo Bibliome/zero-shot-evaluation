@@ -1,21 +1,21 @@
 [
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "xylotrechus chinensis",
             "asian capricorn"
         ],
-        [
+        "target_names": [
             "h\u00e9rault"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylella fastidiosa"
         ],
-        [
+        "target_names": [
             "occitanie"
         ]
-    ]
+    }
 ]

@@ -1,41 +1,41 @@
 [
-    [
-        "Has been found on",
-        [
+    {
+        "type": "affects",
+        "source_names": [
+            "pwd",
+            "pine wilt disease"
+        ],
+        "target_names": [
+            "pine species",
+            "pine trees",
+            "pines"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
             "bursaphelenchus xylophilus",
             "pwn",
-            "pwns",
-            "pinewood nematode"
+            "pinewood nematode",
+            "pwns"
         ],
-        [
-            "pines",
-            "pine trees",
-            "pine species"
+        "target_names": [
+            "pwd",
+            "pine wilt disease"
         ]
-    ],
-    [
-        "Affects",
-        [
-            "pine wilt disease",
-            "pwd"
-        ],
-        [
-            "pines",
-            "pine trees",
-            "pine species"
-        ]
-    ],
-    [
-        "Causes",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "bursaphelenchus xylophilus",
             "pwn",
-            "pwns",
-            "pinewood nematode"
+            "pinewood nematode",
+            "pwns"
         ],
-        [
-            "pine wilt disease",
-            "pwd"
+        "target_names": [
+            "pine species",
+            "pine trees",
+            "pines"
         ]
-    ]
+    }
 ]

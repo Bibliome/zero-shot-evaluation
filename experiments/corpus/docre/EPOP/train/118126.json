@@ -1,377 +1,377 @@
 [
-    [
-        "Located in",
-        [
-            "diaphorina citri",
-            "asian psyllid",
-            "d. citri"
-        ],
-        [
-            "florida"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "diaphorina citri",
-            "asian psyllid",
-            "d. citri"
-        ],
-        [
-            "citrange reed"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "hlb"
-        ],
-        [
-            "florida"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "african hbl vector",
+    {
+        "type": "located in",
+        "source_names": [
             "african vector hb",
-            "trioza erytreae",
             "african vector of hbl",
+            "trioza erytreae",
+            "african hbl vector",
             "t.erytreae"
         ],
-        [
+        "target_names": [
             "basque country"
         ]
-    ],
-    [
-        "Transmits",
-        [
-            "diaphorina citri",
-            "asian psyllid",
-            "d. citri"
-        ],
-        [
-            "huanglongbing"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "african hbl vector",
-            "african vector hb",
-            "trioza erytreae",
-            "african vector of hbl",
-            "t.erytreae"
-        ],
-        [
-            "province of huelva",
-            "huelva"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "african hbl vector",
-            "african vector hb",
-            "trioza erytreae",
-            "african vector of hbl",
-            "t.erytreae"
-        ],
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "citrus"
+        ],
+        "target_names": [
+            "spain",
+            "spanish"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "african hbl vector",
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "d. citri",
+            "diaphorina citri",
+            "asian psyllid"
+        ],
+        "target_names": [
+            "florida"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "african vector hb",
-            "trioza erytreae",
             "african vector of hbl",
+            "trioza erytreae",
+            "african hbl vector",
             "t.erytreae"
         ],
-        [
+        "target_names": [
             "galicia"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus"
-        ],
-        [
-            "algarve coast"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrange reed"
-        ],
-        [
-            "spain",
-            "spanish"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "diaphorina citri",
-            "asian psyllid",
-            "d. citri"
-        ],
-        [
-            "israel"
-        ]
-    ],
-    [
-        "Causes",
-        [
-            "candidatus liberibacter asiaticus",
-            "hlb bacterium"
-        ],
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "hlb"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "african hbl vector",
-            "african vector hb",
-            "trioza erytreae",
-            "african vector of hbl",
-            "t.erytreae"
         ],
-        [
-            "cantabria"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "diaphorina citri",
-            "asian psyllid",
-            "d. citri"
-        ],
-        [
+        "target_names": [
             "brazil"
         ]
-    ],
-    [
-        "Causes",
-        [
-            "african strain of hlb"
-        ],
-        [
-            "huanglongbing"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus"
-        ],
-        [
-            "ayamonte"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "mandarin trees"
-        ],
-        [
-            "spain",
-            "spanish"
-        ]
-    ],
-    [
-        "Transmits",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "d. citri",
             "diaphorina citri",
-            "asian psyllid",
-            "d. citri"
+            "asian psyllid"
         ],
-        [
-            "hlb"
+        "target_names": [
+            "citrange reed"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "hlb"
-        ],
-        [
-            "israel"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "african hbl vector",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "african vector hb",
-            "trioza erytreae",
             "african vector of hbl",
+            "trioza erytreae",
+            "african hbl vector",
             "t.erytreae"
         ],
-        [
+        "target_names": [
             "asturias"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "d. citri",
             "diaphorina citri",
-            "asian psyllid",
-            "d. citri"
+            "asian psyllid"
         ],
-        [
+        "target_names": [
             "mediterranean"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "candidatus liberibacter asiaticus",
-            "hlb bacterium"
-        ],
-        [
-            "citrus"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "hlb"
-        ],
-        [
-            "brazil"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "orange trees"
-        ],
-        [
-            "spain",
-            "spanish"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "african hbl vector",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "african vector hb",
-            "trioza erytreae",
             "african vector of hbl",
+            "trioza erytreae",
+            "african hbl vector",
             "t.erytreae"
         ],
-        [
-            "porto"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "african hbl vector",
-            "african vector hb",
-            "trioza erytreae",
-            "african vector of hbl",
-            "t.erytreae"
-        ],
-        [
-            "further north in portugal",
+        "target_names": [
             "entire coastline of portugal",
-            "portugal"
+            "portugal",
+            "further north in portugal"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "candidatus liberibacter asiaticus",
-            "hlb bacterium"
-        ],
-        [
-            "spain",
-            "spanish"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "citrus"
         ],
-        [
+        "target_names": [
             "province of huelva",
             "huelva"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "diaphorina citri",
-            "asian psyllid",
-            "d. citri"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "hlb bacterium",
+            "candidatus liberibacter asiaticus"
         ],
-        [
+        "target_names": [
+            "spain",
+            "spanish"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "d. citri",
+            "diaphorina citri",
+            "asian psyllid"
+        ],
+        "target_names": [
             "hefer valley"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "african hbl vector",
-            "african vector hb",
-            "trioza erytreae",
-            "african vector of hbl",
-            "t.erytreae"
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "hlb bacterium",
+            "candidatus liberibacter asiaticus"
         ],
-        [
-            "algarve coast"
+        "target_names": [
+            "hlb"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "orange trees"
+        ],
+        "target_names": [
+            "spain",
+            "spanish"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "citrus"
         ],
-        [
+        "target_names": [
+            "ayamonte"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "african vector hb",
+            "african vector of hbl",
+            "trioza erytreae",
+            "african hbl vector",
+            "t.erytreae"
+        ],
+        "target_names": [
+            "citrus"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "mandarin trees"
+        ],
+        "target_names": [
             "spain",
             "spanish"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "diaphorina citri",
-            "asian psyllid",
-            "d. citri"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "hlb"
         ],
-        [
-            "coastal city north of tel aviv"
+        "target_names": [
+            "florida"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "huanglongbing"
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "hlb bacterium",
+            "candidatus liberibacter asiaticus"
         ],
-        [
+        "target_names": [
+            "citrus"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrange reed"
+        ],
+        "target_names": [
+            "spain",
+            "spanish"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "d. citri",
+            "diaphorina citri",
+            "asian psyllid"
+        ],
+        "target_names": [
+            "spain",
+            "spanish"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "d. citri",
+            "diaphorina citri",
+            "asian psyllid"
+        ],
+        "target_names": [
             "israel"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "diaphorina citri",
-            "asian psyllid",
-            "d. citri"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus"
         ],
-        [
-            "spain",
-            "spanish"
+        "target_names": [
+            "algarve coast"
         ]
-    ]
+    },
+    {
+        "type": "transmits",
+        "source_names": [
+            "d. citri",
+            "diaphorina citri",
+            "asian psyllid"
+        ],
+        "target_names": [
+            "huanglongbing"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "african vector hb",
+            "african vector of hbl",
+            "trioza erytreae",
+            "african hbl vector",
+            "t.erytreae"
+        ],
+        "target_names": [
+            "province of huelva",
+            "huelva"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "african vector hb",
+            "african vector of hbl",
+            "trioza erytreae",
+            "african hbl vector",
+            "t.erytreae"
+        ],
+        "target_names": [
+            "cantabria"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "huanglongbing"
+        ],
+        "target_names": [
+            "israel"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "african strain of hlb"
+        ],
+        "target_names": [
+            "huanglongbing"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "d. citri",
+            "diaphorina citri",
+            "asian psyllid"
+        ],
+        "target_names": [
+            "brazil"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "hlb"
+        ],
+        "target_names": [
+            "israel"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "d. citri",
+            "diaphorina citri",
+            "asian psyllid"
+        ],
+        "target_names": [
+            "coastal city north of tel aviv"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "african vector hb",
+            "african vector of hbl",
+            "trioza erytreae",
+            "african hbl vector",
+            "t.erytreae"
+        ],
+        "target_names": [
+            "porto"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "african vector hb",
+            "african vector of hbl",
+            "trioza erytreae",
+            "african hbl vector",
+            "t.erytreae"
+        ],
+        "target_names": [
+            "algarve coast"
+        ]
+    },
+    {
+        "type": "transmits",
+        "source_names": [
+            "d. citri",
+            "diaphorina citri",
+            "asian psyllid"
+        ],
+        "target_names": [
+            "hlb"
+        ]
+    }
 ]

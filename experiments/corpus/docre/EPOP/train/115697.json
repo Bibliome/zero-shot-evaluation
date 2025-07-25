@@ -1,47 +1,47 @@
 [
-    [
-        "Located in",
-        [
-            "olive trees"
-        ],
-        [
-            "polignano"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
+    {
+        "type": "has been found on",
+        "source_names": [
             "xylella"
         ],
-        [
+        "target_names": [
             "olive trees"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella"
         ],
-        [
+        "target_names": [
             "bari area"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylella"
         ],
-        [
+        "target_names": [
             "polignano"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive trees"
         ],
-        [
+        "target_names": [
             "bari area"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive trees"
+        ],
+        "target_names": [
+            "polignano"
+        ]
+    }
 ]

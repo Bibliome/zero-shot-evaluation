@@ -1,71 +1,71 @@
 [
-    [
-        "Has been found on",
-        [
-            "alb",
+    {
+        "type": "has been found on",
+        "source_names": [
             "asian longhorned beetle",
-            "asian long-horned beetles"
+            "asian long-horned beetles",
+            "alb"
         ],
-        [
-            "beech"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "alb",
-            "asian longhorned beetle",
-            "asian long-horned beetles"
-        ],
-        [
+        "target_names": [
             "birch"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "alb",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "asian longhorned beetle",
-            "asian long-horned beetles"
+            "asian long-horned beetles",
+            "alb"
         ],
-        [
-            "maple"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "alb",
-            "asian longhorned beetle",
-            "asian long-horned beetles"
-        ],
-        [
-            "canton of lucerne",
-            "canton lucerne",
-            "lucerne"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "alb",
-            "asian longhorned beetle",
-            "asian long-horned beetles"
-        ],
-        [
-            "europe"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "alb",
-            "asian longhorned beetle",
-            "asian long-horned beetles"
-        ],
-        [
+        "target_names": [
             "municipality of zell",
             "zell"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "asian longhorned beetle",
+            "asian long-horned beetles",
+            "alb"
+        ],
+        "target_names": [
+            "lucerne",
+            "canton lucerne",
+            "canton of lucerne"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "asian longhorned beetle",
+            "asian long-horned beetles",
+            "alb"
+        ],
+        "target_names": [
+            "beech"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "asian longhorned beetle",
+            "asian long-horned beetles",
+            "alb"
+        ],
+        "target_names": [
+            "europe"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "asian longhorned beetle",
+            "asian long-horned beetles",
+            "alb"
+        ],
+        "target_names": [
+            "maple"
+        ]
+    }
 ]

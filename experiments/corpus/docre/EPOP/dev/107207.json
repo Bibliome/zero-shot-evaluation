@@ -1,106 +1,106 @@
 [
-    [
-        "Has been found on",
-        [
-            "x. fastidiosa",
-            "xylella fastidiosa"
+    {
+        "type": "located in",
+        "source_names": [
+            "xfp",
+            "xylella fastidiosa subsp. pauca"
         ],
-        [
+        "target_names": [
+            "italy"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive cultivars",
+            "\u201cfs17\u201d cultivars",
+            "olive trees",
+            "leccino cultivars",
+            "leccino",
+            "fs17",
+            "cellina di nard\u00f2"
+        ],
+        "target_names": [
+            "italy"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xfp",
+            "xylella fastidiosa subsp. pauca"
+        ],
+        "target_names": [
+            "olive cultivars",
+            "\u201cfs17\u201d cultivars",
+            "olive trees",
+            "leccino cultivars",
+            "leccino",
+            "fs17",
+            "cellina di nard\u00f2"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella fastidiosa",
+            "x. fastidiosa"
+        ],
+        "target_names": [
+            "olive cultivars",
+            "\u201cfs17\u201d cultivars",
+            "olive trees",
+            "leccino cultivars",
+            "leccino",
+            "fs17",
+            "cellina di nard\u00f2"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "xfp",
+            "xylella fastidiosa subsp. pauca"
+        ],
+        "target_names": [
+            "olive quick decline syndrome",
+            "oqds"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive quick decline syndrome",
+            "oqds"
+        ],
+        "target_names": [
+            "italy"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella fastidiosa",
+            "x. fastidiosa"
+        ],
+        "target_names": [
             "olive"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa subsp. pauca",
-            "xfp"
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "olive quick decline syndrome",
+            "oqds"
         ],
-        [
-            "cellina di nard\u00f2",
-            "fs17",
-            "leccino cultivars",
-            "olive trees",
+        "target_names": [
             "olive cultivars",
             "\u201cfs17\u201d cultivars",
-            "leccino"
-        ]
-    ],
-    [
-        "Causes",
-        [
-            "xylella fastidiosa subsp. pauca",
-            "xfp"
-        ],
-        [
-            "oqds",
-            "olive quick decline syndrome"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "cellina di nard\u00f2",
-            "fs17",
-            "leccino cultivars",
             "olive trees",
-            "olive cultivars",
-            "\u201cfs17\u201d cultivars",
-            "leccino"
-        ],
-        [
-            "italy"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "oqds",
-            "olive quick decline syndrome"
-        ],
-        [
-            "cellina di nard\u00f2",
-            "fs17",
             "leccino cultivars",
-            "olive trees",
-            "olive cultivars",
-            "\u201cfs17\u201d cultivars",
-            "leccino"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa subsp. pauca",
-            "xfp"
-        ],
-        [
-            "italy"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "oqds",
-            "olive quick decline syndrome"
-        ],
-        [
-            "italy"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "x. fastidiosa",
-            "xylella fastidiosa"
-        ],
-        [
-            "cellina di nard\u00f2",
+            "leccino",
             "fs17",
-            "leccino cultivars",
-            "olive trees",
-            "olive cultivars",
-            "\u201cfs17\u201d cultivars",
-            "leccino"
+            "cellina di nard\u00f2"
         ]
-    ]
+    }
 ]

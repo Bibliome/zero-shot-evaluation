@@ -1,65 +1,65 @@
 [
-    [
-        "Has been found on",
-        [
-            "candidatus phytoplasma vitis"
+    {
+        "type": "located in",
+        "source_names": [
+            "flavescence dor\u00e9e",
+            "fd"
         ],
-        [
-            "vine",
-            "grape vine",
-            "vineyard"
-        ]
-    ],
-    [
-        "Transmits",
-        [
-            "scaphoideus titanus ball"
-        ],
-        [
-            "candidatus phytoplasma vitis"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "scaphoideus titanus ball"
-        ],
-        [
-            "vine",
-            "grape vine",
-            "vineyard"
-        ]
-    ],
-    [
-        "Causes",
-        [
-            "candidatus phytoplasma vitis"
-        ],
-        [
-            "fd",
-            "flavescence dor\u00e9e"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "fd",
-            "flavescence dor\u00e9e"
-        ],
-        [
-            "vine",
-            "grape vine",
-            "vineyard"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "fd",
-            "flavescence dor\u00e9e"
-        ],
-        [
+        "target_names": [
             "europe"
         ]
-    ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "scaphoideus titanus ball"
+        ],
+        "target_names": [
+            "vineyard",
+            "vine",
+            "grape vine"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "flavescence dor\u00e9e",
+            "fd"
+        ],
+        "target_names": [
+            "vineyard",
+            "vine",
+            "grape vine"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "candidatus phytoplasma vitis"
+        ],
+        "target_names": [
+            "vineyard",
+            "vine",
+            "grape vine"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "candidatus phytoplasma vitis"
+        ],
+        "target_names": [
+            "flavescence dor\u00e9e",
+            "fd"
+        ]
+    },
+    {
+        "type": "transmits",
+        "source_names": [
+            "scaphoideus titanus ball"
+        ],
+        "target_names": [
+            "candidatus phytoplasma vitis"
+        ]
+    }
 ]

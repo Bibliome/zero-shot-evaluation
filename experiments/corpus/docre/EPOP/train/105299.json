@@ -1,289 +1,289 @@
 [
-    [
-        "Has been found on",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "eastern fruit fly",
-            "eastern moscow",
-            "eastern fly",
-            "bactrocera dorsalis",
             "bactrocera dorsalis (hendel)",
             "oriental fruit fly",
-            "b. dorsalis"
-        ],
-        [
-            "pumpkin"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "eastern fruit fly",
-            "eastern moscow",
-            "eastern fly",
             "bactrocera dorsalis",
-            "bactrocera dorsalis (hendel)",
-            "oriental fruit fly",
-            "b. dorsalis"
-        ],
-        [
-            "europe"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "eastern fruit fly",
-            "eastern moscow",
+            "b. dorsalis",
             "eastern fly",
-            "bactrocera dorsalis",
-            "bactrocera dorsalis (hendel)",
-            "oriental fruit fly",
-            "b. dorsalis"
+            "eastern moscow"
         ],
-        [
-            "pyrus sp."
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "eastern fruit fly",
-            "eastern moscow",
-            "eastern fly",
-            "bactrocera dorsalis",
-            "bactrocera dorsalis (hendel)",
-            "oriental fruit fly",
-            "b. dorsalis"
-        ],
-        [
-            "campania region",
-            "campania",
-            "limited area of campania"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "eastern fruit fly",
-            "eastern moscow",
-            "eastern fly",
-            "bactrocera dorsalis",
-            "bactrocera dorsalis (hendel)",
-            "oriental fruit fly",
-            "b. dorsalis"
-        ],
-        [
+        "target_names": [
             "provinces of naples"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "eastern fruit fly",
-            "eastern moscow",
-            "eastern fly",
-            "bactrocera dorsalis",
             "bactrocera dorsalis (hendel)",
             "oriental fruit fly",
-            "b. dorsalis"
-        ],
-        [
-            "mediterranean basin"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "eastern fruit fly",
-            "eastern moscow",
-            "eastern fly",
             "bactrocera dorsalis",
-            "bactrocera dorsalis (hendel)",
-            "oriental fruit fly",
-            "b. dorsalis"
-        ],
-        [
-            "citrus sp."
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "eastern fruit fly",
-            "eastern moscow",
+            "b. dorsalis",
             "eastern fly",
-            "bactrocera dorsalis",
-            "bactrocera dorsalis (hendel)",
-            "oriental fruit fly",
-            "b. dorsalis"
+            "eastern moscow"
         ],
-        [
-            "malus sp."
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "eastern fruit fly",
-            "eastern moscow",
-            "eastern fly",
-            "bactrocera dorsalis",
-            "bactrocera dorsalis (hendel)",
-            "oriental fruit fly",
-            "b. dorsalis"
-        ],
-        [
-            "vitis sp."
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "eastern fruit fly",
-            "eastern moscow",
-            "eastern fly",
-            "bactrocera dorsalis",
-            "bactrocera dorsalis (hendel)",
-            "oriental fruit fly",
-            "b. dorsalis"
-        ],
-        [
-            "oceania and the pacific islands"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "eastern fruit fly",
-            "eastern moscow",
-            "eastern fly",
-            "bactrocera dorsalis",
-            "bactrocera dorsalis (hendel)",
-            "oriental fruit fly",
-            "b. dorsalis"
-        ],
-        [
-            "africa"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "eastern fruit fly",
-            "eastern moscow",
-            "eastern fly",
-            "bactrocera dorsalis",
-            "bactrocera dorsalis (hendel)",
-            "oriental fruit fly",
-            "b. dorsalis"
-        ],
-        [
-            "prunus sp."
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "eastern fruit fly",
-            "eastern moscow",
-            "eastern fly",
-            "bactrocera dorsalis",
-            "bactrocera dorsalis (hendel)",
-            "oriental fruit fly",
-            "b. dorsalis"
-        ],
-        [
-            "diospyros sp."
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "eastern fruit fly",
-            "eastern moscow",
-            "eastern fly",
-            "bactrocera dorsalis",
-            "bactrocera dorsalis (hendel)",
-            "oriental fruit fly",
-            "b. dorsalis"
-        ],
-        [
+        "target_names": [
             "asia"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "eastern fruit fly",
-            "eastern moscow",
-            "eastern fly",
-            "bactrocera dorsalis",
             "bactrocera dorsalis (hendel)",
             "oriental fruit fly",
-            "b. dorsalis"
+            "bactrocera dorsalis",
+            "b. dorsalis",
+            "eastern fly",
+            "eastern moscow"
         ],
-        [
-            "tomato"
+        "target_names": [
+            "malus sp."
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "eastern fruit fly",
-            "eastern moscow",
-            "eastern fly",
-            "bactrocera dorsalis",
             "bactrocera dorsalis (hendel)",
             "oriental fruit fly",
-            "b. dorsalis"
+            "bactrocera dorsalis",
+            "b. dorsalis",
+            "eastern fly",
+            "eastern moscow"
         ],
-        [
+        "target_names": [
+            "citrus sp."
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "eastern fruit fly",
+            "bactrocera dorsalis (hendel)",
+            "oriental fruit fly",
+            "bactrocera dorsalis",
+            "b. dorsalis",
+            "eastern fly",
+            "eastern moscow"
+        ],
+        "target_names": [
+            "limited area of campania",
+            "campania region",
+            "campania"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "eastern fruit fly",
+            "bactrocera dorsalis (hendel)",
+            "oriental fruit fly",
+            "bactrocera dorsalis",
+            "b. dorsalis",
+            "eastern fly",
+            "eastern moscow"
+        ],
+        "target_names": [
             "cucumber"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "eastern fruit fly",
-            "eastern moscow",
-            "eastern fly",
-            "bactrocera dorsalis",
             "bactrocera dorsalis (hendel)",
             "oriental fruit fly",
-            "b. dorsalis"
-        ],
-        [
-            "territory of palma campania"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "eastern fruit fly",
-            "eastern moscow",
-            "eastern fly",
             "bactrocera dorsalis",
-            "bactrocera dorsalis (hendel)",
-            "oriental fruit fly",
-            "b. dorsalis"
+            "b. dorsalis",
+            "eastern fly",
+            "eastern moscow"
         ],
-        [
+        "target_names": [
             "provinces of salerno"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "eastern fruit fly",
-            "eastern moscow",
-            "eastern fly",
-            "bactrocera dorsalis",
             "bactrocera dorsalis (hendel)",
             "oriental fruit fly",
-            "b. dorsalis"
+            "bactrocera dorsalis",
+            "b. dorsalis",
+            "eastern fly",
+            "eastern moscow"
         ],
-        [
+        "target_names": [
             "watermelon"
         ]
-    ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "eastern fruit fly",
+            "bactrocera dorsalis (hendel)",
+            "oriental fruit fly",
+            "bactrocera dorsalis",
+            "b. dorsalis",
+            "eastern fly",
+            "eastern moscow"
+        ],
+        "target_names": [
+            "pumpkin"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "eastern fruit fly",
+            "bactrocera dorsalis (hendel)",
+            "oriental fruit fly",
+            "bactrocera dorsalis",
+            "b. dorsalis",
+            "eastern fly",
+            "eastern moscow"
+        ],
+        "target_names": [
+            "diospyros sp."
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "eastern fruit fly",
+            "bactrocera dorsalis (hendel)",
+            "oriental fruit fly",
+            "bactrocera dorsalis",
+            "b. dorsalis",
+            "eastern fly",
+            "eastern moscow"
+        ],
+        "target_names": [
+            "oceania and the pacific islands"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "eastern fruit fly",
+            "bactrocera dorsalis (hendel)",
+            "oriental fruit fly",
+            "bactrocera dorsalis",
+            "b. dorsalis",
+            "eastern fly",
+            "eastern moscow"
+        ],
+        "target_names": [
+            "vitis sp."
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "eastern fruit fly",
+            "bactrocera dorsalis (hendel)",
+            "oriental fruit fly",
+            "bactrocera dorsalis",
+            "b. dorsalis",
+            "eastern fly",
+            "eastern moscow"
+        ],
+        "target_names": [
+            "pyrus sp."
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "eastern fruit fly",
+            "bactrocera dorsalis (hendel)",
+            "oriental fruit fly",
+            "bactrocera dorsalis",
+            "b. dorsalis",
+            "eastern fly",
+            "eastern moscow"
+        ],
+        "target_names": [
+            "europe"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "eastern fruit fly",
+            "bactrocera dorsalis (hendel)",
+            "oriental fruit fly",
+            "bactrocera dorsalis",
+            "b. dorsalis",
+            "eastern fly",
+            "eastern moscow"
+        ],
+        "target_names": [
+            "territory of palma campania"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "eastern fruit fly",
+            "bactrocera dorsalis (hendel)",
+            "oriental fruit fly",
+            "bactrocera dorsalis",
+            "b. dorsalis",
+            "eastern fly",
+            "eastern moscow"
+        ],
+        "target_names": [
+            "mediterranean basin"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "eastern fruit fly",
+            "bactrocera dorsalis (hendel)",
+            "oriental fruit fly",
+            "bactrocera dorsalis",
+            "b. dorsalis",
+            "eastern fly",
+            "eastern moscow"
+        ],
+        "target_names": [
+            "tomato"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "eastern fruit fly",
+            "bactrocera dorsalis (hendel)",
+            "oriental fruit fly",
+            "bactrocera dorsalis",
+            "b. dorsalis",
+            "eastern fly",
+            "eastern moscow"
+        ],
+        "target_names": [
+            "africa"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "eastern fruit fly",
+            "bactrocera dorsalis (hendel)",
+            "oriental fruit fly",
+            "bactrocera dorsalis",
+            "b. dorsalis",
+            "eastern fly",
+            "eastern moscow"
+        ],
+        "target_names": [
+            "prunus sp."
+        ]
+    }
 ]

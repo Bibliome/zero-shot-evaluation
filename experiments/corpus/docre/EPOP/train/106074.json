@@ -1,109 +1,109 @@
 [
-    [
-        "Has been found on",
-        [
-            "brown wrinkle virus",
-            "tomato brown wrinkle virus",
-            "brown rust virus",
-            "tobrfv"
-        ],
-        [
-            "pepper",
-            "plants pepper",
-            "pepper crops"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "brown wrinkle virus",
-            "tomato brown wrinkle virus",
-            "brown rust virus",
-            "tobrfv"
-        ],
-        [
-            "arcadia"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "brown wrinkle virus",
-            "tomato brown wrinkle virus",
-            "brown rust virus",
-            "tobrfv"
-        ],
-        [
-            "tomato crops",
-            "tomatoes"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "brown wrinkle virus",
-            "tomato brown wrinkle virus",
-            "brown rust virus",
-            "tobrfv"
-        ],
-        [
-            "datula"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "tomato crops",
             "tomatoes"
         ],
-        [
+        "target_names": [
             "levidi"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "tomato crops",
-            "tomatoes"
-        ],
-        [
-            "arcadia"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "brown wrinkle virus",
-            "tomato brown wrinkle virus",
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "brown rust virus",
+            "tomato brown wrinkle virus",
+            "brown wrinkle virus",
             "tobrfv"
         ],
-        [
+        "target_names": [
             "petunia"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "brown wrinkle virus",
-            "tomato brown wrinkle virus",
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "brown rust virus",
+            "tomato brown wrinkle virus",
+            "brown wrinkle virus",
             "tobrfv"
         ],
-        [
-            "levidi"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "brown wrinkle virus",
-            "tomato brown wrinkle virus",
-            "brown rust virus",
-            "tobrfv"
-        ],
-        [
+        "target_names": [
             "goosefoot"
         ]
-    ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "brown rust virus",
+            "tomato brown wrinkle virus",
+            "brown wrinkle virus",
+            "tobrfv"
+        ],
+        "target_names": [
+            "plants pepper",
+            "pepper crops",
+            "pepper"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "brown rust virus",
+            "tomato brown wrinkle virus",
+            "brown wrinkle virus",
+            "tobrfv"
+        ],
+        "target_names": [
+            "arcadia"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "brown rust virus",
+            "tomato brown wrinkle virus",
+            "brown wrinkle virus",
+            "tobrfv"
+        ],
+        "target_names": [
+            "datula"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "brown rust virus",
+            "tomato brown wrinkle virus",
+            "brown wrinkle virus",
+            "tobrfv"
+        ],
+        "target_names": [
+            "tomato crops",
+            "tomatoes"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "brown rust virus",
+            "tomato brown wrinkle virus",
+            "brown wrinkle virus",
+            "tobrfv"
+        ],
+        "target_names": [
+            "levidi"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tomato crops",
+            "tomatoes"
+        ],
+        "target_names": [
+            "arcadia"
+        ]
+    }
 ]

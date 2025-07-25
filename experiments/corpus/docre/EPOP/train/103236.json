@@ -1,106 +1,106 @@
 [
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "orange tree",
             "orange trees",
             "orange"
         ],
-        [
+        "target_names": [
             "seville"
         ]
-    ],
-    [
-        "Affects",
-        [
-            "huanglongbing",
-            "hbl"
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "hbl",
+            "huanglongbing"
         ],
-        [
+        "target_names": [
             "orange tree",
             "orange trees",
             "orange"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "orange tree",
             "orange trees",
             "orange"
         ],
-        [
+        "target_names": [
             "buhaira park",
             "buhaira gardens"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "citrus trees"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "hbl",
+            "huanglongbing"
         ],
-        [
-            "seville"
+        "target_names": [
+            "spain"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "citrus trees"
         ],
-        [
+        "target_names": [
             "buhaira park",
             "buhaira gardens"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "orange tree",
             "orange trees",
             "orange"
         ],
-        [
+        "target_names": [
             "europe"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "citrus trees"
         ],
-        [
+        "target_names": [
             "europe"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus trees"
+        ],
+        "target_names": [
+            "seville"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "orange tree",
             "orange trees",
             "orange"
         ],
-        [
+        "target_names": [
             "spain"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "huanglongbing",
-            "hbl"
-        ],
-        [
-            "spain"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "citrus trees"
         ],
-        [
+        "target_names": [
             "spain"
         ]
-    ]
+    }
 ]

@@ -1,38 +1,38 @@
 [
-    [
-        "Affects",
-        [
+    {
+        "type": "affects",
+        "source_names": [
             "fusarium wilt"
         ],
-        [
+        "target_names": [
             "banana"
         ]
-    ],
-    [
-        "Causes",
-        [
-            "fusarium kalimantanense"
-        ],
-        [
-            "fusarium wilt"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "fusarium wilt"
-        ],
-        [
-            "banana cultivar ma\u00e3\u00a7\u00e3\u00a3"
-        ]
-    ],
-    [
-        "Causes",
-        [
+    },
+    {
+        "type": "causes",
+        "source_names": [
             "fusarium oxysporum f.sp. cubense"
         ],
-        [
+        "target_names": [
             "fusarium wilt"
         ]
-    ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "fusarium kalimantanense"
+        ],
+        "target_names": [
+            "fusarium wilt"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "fusarium wilt"
+        ],
+        "target_names": [
+            "banana cultivar ma\u00e3\u00a7\u00e3\u00a3"
+        ]
+    }
 ]

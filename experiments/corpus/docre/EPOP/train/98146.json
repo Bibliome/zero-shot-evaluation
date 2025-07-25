@@ -1,35 +1,35 @@
 [
-    [
-        "Located in",
-        [
-            "huanglongbing",
-            "hlb"
-        ],
-        [
-            "tucum\u00e1n",
-            "province of tucum\u00e1n"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "huanglongbing",
-            "hlb"
-        ],
-        [
-            "citrus plants",
-            "citrus"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "citrus plants",
             "citrus"
         ],
-        [
-            "tucum\u00e1n",
-            "province of tucum\u00e1n"
+        "target_names": [
+            "province of tucum\u00e1n",
+            "tucum\u00e1n"
         ]
-    ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "huanglongbing",
+            "hlb"
+        ],
+        "target_names": [
+            "citrus plants",
+            "citrus"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "huanglongbing",
+            "hlb"
+        ],
+        "target_names": [
+            "province of tucum\u00e1n",
+            "tucum\u00e1n"
+        ]
+    }
 ]

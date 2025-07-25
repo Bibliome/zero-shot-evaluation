@@ -1,68 +1,68 @@
 [
-    [
-        "Affects",
-        [
+    {
+        "type": "located in",
+        "source_names": [
+            "white grape varieties",
+            "vineyard",
+            "vineyards",
+            "red grape varieties",
+            "vines"
+        ],
+        "target_names": [
+            "lot"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
             "black wood"
         ],
-        [
+        "target_names": [
             "white grape varieties",
-            "vineyards",
             "vineyard",
+            "vineyards",
             "red grape varieties",
             "vines"
         ]
-    ],
-    [
-        "Affects",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "scaphoidus titanus"
+        ],
+        "target_names": [
+            "white grape varieties",
+            "vineyard",
+            "vineyards",
+            "red grape varieties",
+            "vines"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "golden flavescence"
+        ],
+        "target_names": [
+            "white grape varieties",
+            "vineyard",
+            "vineyards",
+            "red grape varieties",
+            "vines"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
             "flavescence dor\u00e9e",
             "vine flavescence"
         ],
-        [
+        "target_names": [
             "white grape varieties",
-            "vineyards",
             "vineyard",
+            "vineyards",
             "red grape varieties",
             "vines"
         ]
-    ],
-    [
-        "Affects",
-        [
-            "golden flavescence"
-        ],
-        [
-            "white grape varieties",
-            "vineyards",
-            "vineyard",
-            "red grape varieties",
-            "vines"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "white grape varieties",
-            "vineyards",
-            "vineyard",
-            "red grape varieties",
-            "vines"
-        ],
-        [
-            "lot"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "scaphoidus titanus"
-        ],
-        [
-            "white grape varieties",
-            "vineyards",
-            "vineyard",
-            "red grape varieties",
-            "vines"
-        ]
-    ]
+    }
 ]

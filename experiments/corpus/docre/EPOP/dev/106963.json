@@ -1,180 +1,180 @@
 [
-    [
-        "Transmits",
-        [
+    {
+        "type": "has been found on",
+        "source_names": [
             "american leafhopper"
         ],
-        [
-            "fdp",
-            "flavescence dor\u00e8e phytoplasma"
+        "target_names": [
+            "pinot grigio",
+            "vineyards",
+            "chardonnay",
+            "vine",
+            "wine",
+            "white wine varieties",
+            "red wine varieties",
+            "vines",
+            "vineyard"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "american leafhopper"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "pinot grigio",
+            "vineyards",
+            "chardonnay",
+            "vine",
+            "wine",
+            "white wine varieties",
+            "red wine varieties",
+            "vines",
+            "vineyard"
         ],
-        [
-            "europe"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "golden-yellow yellowing"
-        ],
-        [
+        "target_names": [
             "unterland"
         ]
-    ],
-    [
-        "Affects",
-        [
+    },
+    {
+        "type": "affects",
+        "source_names": [
             "golden yellowing"
         ],
-        [
+        "target_names": [
+            "pinot grigio",
+            "vineyards",
+            "chardonnay",
             "vine",
             "wine",
-            "vineyards",
-            "vineyard",
             "white wine varieties",
             "red wine varieties",
-            "chardonnay",
-            "pinot grigio",
-            "vines"
+            "vines",
+            "vineyard"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "vine",
-            "wine",
-            "vineyards",
-            "vineyard",
-            "white wine varieties",
-            "red wine varieties",
-            "chardonnay",
-            "pinot grigio",
-            "vines"
-        ],
-        [
-            "burggrafenamt",
-            "south tyrol"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "vine",
-            "wine",
-            "vineyards",
-            "vineyard",
-            "white wine varieties",
-            "red wine varieties",
-            "chardonnay",
-            "pinot grigio",
-            "vines"
-        ],
-        [
-            "salurn"
-        ]
-    ],
-    [
-        "Causes",
-        [
-            "fdp",
-            "flavescence dor\u00e8e phytoplasma"
-        ],
-        [
-            "golden-yellow yellowing"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "fdp",
-            "flavescence dor\u00e8e phytoplasma"
-        ],
-        [
-            "vine",
-            "wine",
-            "vineyards",
-            "vineyard",
-            "white wine varieties",
-            "red wine varieties",
-            "chardonnay",
-            "pinot grigio",
-            "vines"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "golden-yellow yellowing"
-        ],
-        [
-            "salurn"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "golden-yellow yellowing"
-        ],
-        [
-            "burggrafenamt",
-            "south tyrol"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "golden-yellow yellowing"
-        ],
-        [
-            "vine",
-            "wine",
-            "vineyards",
-            "vineyard",
-            "white wine varieties",
-            "red wine varieties",
-            "chardonnay",
-            "pinot grigio",
-            "vines"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "transmits",
+        "source_names": [
             "american leafhopper"
         ],
-        [
-            "vine",
-            "wine",
-            "vineyards",
-            "vineyard",
-            "white wine varieties",
-            "red wine varieties",
-            "chardonnay",
-            "pinot grigio",
-            "vines"
+        "target_names": [
+            "fdp",
+            "flavescence dor\u00e8e phytoplasma"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "golden-yellow yellowing"
+        ],
+        "target_names": [
+            "pinot grigio",
+            "vineyards",
+            "chardonnay",
             "vine",
             "wine",
-            "vineyards",
-            "vineyard",
             "white wine varieties",
             "red wine varieties",
-            "chardonnay",
-            "pinot grigio",
-            "vines"
+            "vines",
+            "vineyard"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "golden-yellow yellowing"
         ],
-        [
+        "target_names": [
+            "burggrafenamt",
+            "south tyrol"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "golden-yellow yellowing"
+        ],
+        "target_names": [
+            "salurn"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "pinot grigio",
+            "vineyards",
+            "chardonnay",
+            "vine",
+            "wine",
+            "white wine varieties",
+            "red wine varieties",
+            "vines",
+            "vineyard"
+        ],
+        "target_names": [
+            "burggrafenamt",
+            "south tyrol"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "pinot grigio",
+            "vineyards",
+            "chardonnay",
+            "vine",
+            "wine",
+            "white wine varieties",
+            "red wine varieties",
+            "vines",
+            "vineyard"
+        ],
+        "target_names": [
+            "salurn"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "fdp",
+            "flavescence dor\u00e8e phytoplasma"
+        ],
+        "target_names": [
+            "pinot grigio",
+            "vineyards",
+            "chardonnay",
+            "vine",
+            "wine",
+            "white wine varieties",
+            "red wine varieties",
+            "vines",
+            "vineyard"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "american leafhopper"
+        ],
+        "target_names": [
+            "europe"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "fdp",
+            "flavescence dor\u00e8e phytoplasma"
+        ],
+        "target_names": [
+            "golden-yellow yellowing"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "golden-yellow yellowing"
+        ],
+        "target_names": [
             "unterland"
         ]
-    ]
+    }
 ]

@@ -1,118 +1,118 @@
 [
-    [
-        "Located in",
-        [
-            "xylella fastidiosa",
-            "xylella"
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella",
+            "xylella fastidiosa"
         ],
-        [
+        "target_names": [
+            "spain"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella",
+            "xylella fastidiosa"
+        ],
+        "target_names": [
+            "italy"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella",
+            "xylella fastidiosa"
+        ],
+        "target_names": [
             "province alicante"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella",
+            "xylella fastidiosa"
         ],
-        [
-            "province alicante"
+        "target_names": [
+            "balearic islands"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa",
-            "xylella"
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella",
+            "xylella fastidiosa"
         ],
-        [
+        "target_names": [
             "oleander"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "olive trees"
         ],
-        [
+        "target_names": [
             "spain"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa",
-            "xylella"
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella",
+            "xylella fastidiosa"
         ],
-        [
-            "balearic islands"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees"
-        ],
-        [
-            "balearic islands"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "olive trees"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
+        "target_names": [
             "oak"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "italy"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "olive trees"
         ],
-        [
+        "target_names": [
             "italy"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa",
-            "xylella"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive trees"
         ],
-        [
-            "spain"
+        "target_names": [
+            "province alicante"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa",
-            "xylella"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive trees"
         ],
-        [
+        "target_names": [
+            "balearic islands"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella",
+            "xylella fastidiosa"
+        ],
+        "target_names": [
+            "olive trees"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella",
+            "xylella fastidiosa"
+        ],
+        "target_names": [
             "blackberries"
         ]
-    ]
+    }
 ]

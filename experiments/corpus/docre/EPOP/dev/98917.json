@@ -1,91 +1,91 @@
 [
-    [
-        "Located in",
-        [
-            "xylella fastidiosa",
-            "xylella"
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella",
+            "xylella fastidiosa"
         ],
-        [
-            "france"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "italy"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "spain"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "portugal"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "oak"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees"
-        ],
-        [
-            "italy"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "oleander"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
+        "target_names": [
             "blackberries"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa",
-            "xylella"
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella",
+            "xylella fastidiosa"
         ],
-        [
+        "target_names": [
             "olive trees"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella",
+            "xylella fastidiosa"
+        ],
+        "target_names": [
+            "spain"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella",
+            "xylella fastidiosa"
+        ],
+        "target_names": [
+            "portugal"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella",
+            "xylella fastidiosa"
+        ],
+        "target_names": [
+            "italy"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive trees"
+        ],
+        "target_names": [
+            "italy"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella",
+            "xylella fastidiosa"
+        ],
+        "target_names": [
+            "france"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella",
+            "xylella fastidiosa"
+        ],
+        "target_names": [
+            "oleander"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella",
+            "xylella fastidiosa"
+        ],
+        "target_names": [
+            "oak"
+        ]
+    }
 ]

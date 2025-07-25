@@ -1,139 +1,139 @@
 [
-    [
-        "Located in",
-        [
-            "xylella"
+    {
+        "type": "located in",
+        "source_names": [
+            "olive trees"
         ],
-        [
-            "locorotondo"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella"
-        ],
-        [
+        "target_names": [
             "martina franca"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella"
+        ],
+        "target_names": [
+            "apulian"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "olive trees"
         ],
-        [
+        "target_names": [
             "locorotondo"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "olive trees"
         ],
-        [
+        "target_names": [
+            "polignano"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella"
+        ],
+        "target_names": [
+            "fasano"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive trees"
+        ],
+        "target_names": [
+            "bari",
+            "province of bari"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella"
+        ],
+        "target_names": [
             "martina franca"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylella"
         ],
-        [
-            "province of bari",
-            "bari"
+        "target_names": [
+            "locorotondo"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella"
-        ],
-        [
-            "fasano"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees"
-        ],
-        [
-            "province of bari",
-            "bari"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees"
-        ],
-        [
-            "fasano"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella"
-        ],
-        [
-            "polignano"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees"
-        ],
-        [
-            "polignano"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "olive"
         ],
-        [
+        "target_names": [
             "apulian"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylella"
         ],
-        [
-            "olive trees"
+        "target_names": [
+            "bari",
+            "province of bari"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylella"
         ],
-        [
-            "apulian"
+        "target_names": [
+            "polignano"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "xylella"
         ],
-        [
+        "target_names": [
             "olive"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "olive trees"
         ],
-        [
+        "target_names": [
             "apulian"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive trees"
+        ],
+        "target_names": [
+            "fasano"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella"
+        ],
+        "target_names": [
+            "olive trees"
+        ]
+    }
 ]

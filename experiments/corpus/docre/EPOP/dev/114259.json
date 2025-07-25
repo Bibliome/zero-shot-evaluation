@@ -1,424 +1,424 @@
 [
-    [
-        "Causes",
-        [
-            "d. eres",
-            "diaporthe eres"
-        ],
-        [
-            "leaf spot disease"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "blueberry cultivation",
-            "blueberry",
-            "vaccinium spp."
-        ],
-        [
-            "u.s.a"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "postharvest fruit rot disease"
-        ],
-        [
-            "hardy kiwifruit"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "passion fruit leaf blight"
-        ],
-        [
-            "china"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "nigrospora sphaerica"
-        ],
-        [
-            "china"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "leaf spot disease"
-        ],
-        [
-            "machilus thunbergii"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "d. eres",
-            "diaporthe eres"
-        ],
-        [
-            "blueberry cultivation",
-            "blueberry",
-            "vaccinium spp."
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "d. eres",
-            "diaporthe eres"
-        ],
-        [
-            "lithuania"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "d. eres",
-            "diaporthe eres"
-        ],
-        [
-            "korea"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "machilus thunbergii"
-        ],
-        [
-            "korea"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "blueberry cultivation",
-            "blueberry",
-            "vaccinium spp."
-        ],
-        [
-            "netherlands"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "diaporthe phoenicicola"
-        ],
-        [
-            "china"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "d. nobilis"
-        ],
-        [
-            "populus davidiana \u00d7 p. bolleana"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "d. eres",
-            "diaporthe eres"
-        ],
-        [
-            "machilus thunbergii"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "leaf spot disease"
-        ],
-        [
-            "korea"
-        ]
-    ],
-    [
-        "Causes",
-        [
-            "d. eres",
-            "diaporthe eres"
-        ],
-        [
-            "postharvest fruit rot disease"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "vaccinium corymbosum",
-            "highbush blueberry",
+    {
+        "type": "located in",
+        "source_names": [
             "cultivated blueberry cultivars",
+            "vaccinium corymbosum",
+            "blueberry potted plants cv. draper and duke",
             "vaccinium corymbosum l.",
-            "plants of the cultivar (cv.) draper",
-            "blueberry potted plants cv. draper and duke"
+            "highbush blueberry",
+            "plants of the cultivar (cv.) draper"
         ],
-        [
+        "target_names": [
             "piedmont"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "d. eres",
             "diaporthe eres"
         ],
-        [
-            "chile"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "diaporthe phoenicicola"
-        ],
-        [
-            "vaccinium virgatum"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "d. eres",
-            "diaporthe eres"
-        ],
-        [
-            "china"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "d. nobilis"
-        ],
-        [
-            "china"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "vaccinium corymbosum",
-            "highbush blueberry",
-            "cultivated blueberry cultivars",
-            "vaccinium corymbosum l.",
-            "plants of the cultivar (cv.) draper",
-            "blueberry potted plants cv. draper and duke"
-        ],
-        [
-            "italy"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "d. eres",
-            "diaporthe eres"
-        ],
-        [
-            "u.s.a"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "d. eres",
-            "diaporthe eres"
-        ],
-        [
-            "piedmont"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "blueberry cultivation",
-            "blueberry",
-            "vaccinium spp."
-        ],
-        [
-            "lithuania"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "blueberry cultivation",
-            "blueberry",
-            "vaccinium spp."
-        ],
-        [
-            "europe"
-        ]
-    ],
-    [
-        "Causes",
-        [
-            "nigrospora sphaerica"
-        ],
-        [
-            "passion fruit leaf blight"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "vaccinium corymbosum",
-            "highbush blueberry",
-            "cultivated blueberry cultivars",
-            "vaccinium corymbosum l.",
-            "plants of the cultivar (cv.) draper",
-            "blueberry potted plants cv. draper and duke"
-        ],
-        [
-            "peveragno"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "diaporthe cercidis"
-        ],
-        [
-            "populus davidiana \u00d7 p. bolleana"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "d. eres",
-            "diaporthe eres"
-        ],
-        [
+        "target_names": [
             "netherlands"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "d. eres",
             "diaporthe eres"
         ],
-        [
-            "italy"
+        "target_names": [
+            "lithuania"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "diaporthe cercidis"
-        ],
-        [
-            "china"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "d. eres",
-            "diaporthe eres"
-        ],
-        [
-            "vaccinium corymbosum",
-            "highbush blueberry",
-            "cultivated blueberry cultivars",
-            "vaccinium corymbosum l.",
-            "plants of the cultivar (cv.) draper",
-            "blueberry potted plants cv. draper and duke"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "vaccinium corymbosum",
-            "highbush blueberry",
-            "cultivated blueberry cultivars",
-            "vaccinium corymbosum l.",
-            "plants of the cultivar (cv.) draper",
-            "blueberry potted plants cv. draper and duke"
-        ],
-        [
-            "cuneo province"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "populus davidiana \u00d7 p. bolleana"
-        ],
-        [
-            "china"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "blueberry cultivation",
-            "blueberry",
-            "vaccinium spp."
-        ],
-        [
-            "chile"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "vaccinium virgatum"
-        ],
-        [
-            "china"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "hardy kiwifruit"
         ],
-        [
+        "target_names": [
             "china"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "d. eres",
             "diaporthe eres"
         ],
-        [
-            "hardy kiwifruit"
+        "target_names": [
+            "cultivated blueberry cultivars",
+            "vaccinium corymbosum",
+            "blueberry potted plants cv. draper and duke",
+            "vaccinium corymbosum l.",
+            "highbush blueberry",
+            "plants of the cultivar (cv.) draper"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "blueberry cultivation",
-            "blueberry",
-            "vaccinium spp."
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "d. eres",
+            "diaporthe eres"
         ],
-        [
+        "target_names": [
+            "postharvest fruit rot disease"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "d. eres",
+            "diaporthe eres"
+        ],
+        "target_names": [
+            "china"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "vaccinium spp.",
+            "blueberry",
+            "blueberry cultivation"
+        ],
+        "target_names": [
             "northern italy"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "postharvest fruit rot disease"
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "d. eres",
+            "diaporthe eres"
         ],
-        [
+        "target_names": [
+            "machilus thunbergii"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "d. nobilis"
+        ],
+        "target_names": [
             "china"
         ]
-    ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "d. nobilis"
+        ],
+        "target_names": [
+            "populus davidiana \u00d7 p. bolleana"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "machilus thunbergii"
+        ],
+        "target_names": [
+            "korea"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "nigrospora sphaerica"
+        ],
+        "target_names": [
+            "passion fruit leaf blight"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "cultivated blueberry cultivars",
+            "vaccinium corymbosum",
+            "blueberry potted plants cv. draper and duke",
+            "vaccinium corymbosum l.",
+            "highbush blueberry",
+            "plants of the cultivar (cv.) draper"
+        ],
+        "target_names": [
+            "italy"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "d. eres",
+            "diaporthe eres"
+        ],
+        "target_names": [
+            "u.s.a"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "d. eres",
+            "diaporthe eres"
+        ],
+        "target_names": [
+            "leaf spot disease"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "passion fruit leaf blight"
+        ],
+        "target_names": [
+            "china"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "vaccinium spp.",
+            "blueberry",
+            "blueberry cultivation"
+        ],
+        "target_names": [
+            "chile"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "cultivated blueberry cultivars",
+            "vaccinium corymbosum",
+            "blueberry potted plants cv. draper and duke",
+            "vaccinium corymbosum l.",
+            "highbush blueberry",
+            "plants of the cultivar (cv.) draper"
+        ],
+        "target_names": [
+            "peveragno"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "d. eres",
+            "diaporthe eres"
+        ],
+        "target_names": [
+            "vaccinium spp.",
+            "blueberry",
+            "blueberry cultivation"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "d. eres",
+            "diaporthe eres"
+        ],
+        "target_names": [
+            "piedmont"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "vaccinium spp.",
+            "blueberry",
+            "blueberry cultivation"
+        ],
+        "target_names": [
+            "europe"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "postharvest fruit rot disease"
+        ],
+        "target_names": [
+            "china"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "diaporthe phoenicicola"
+        ],
+        "target_names": [
+            "china"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "populus davidiana \u00d7 p. bolleana"
+        ],
+        "target_names": [
+            "china"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "vaccinium virgatum"
+        ],
+        "target_names": [
+            "china"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "vaccinium spp.",
+            "blueberry",
+            "blueberry cultivation"
+        ],
+        "target_names": [
+            "netherlands"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "cultivated blueberry cultivars",
+            "vaccinium corymbosum",
+            "blueberry potted plants cv. draper and duke",
+            "vaccinium corymbosum l.",
+            "highbush blueberry",
+            "plants of the cultivar (cv.) draper"
+        ],
+        "target_names": [
+            "cuneo province"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "vaccinium spp.",
+            "blueberry",
+            "blueberry cultivation"
+        ],
+        "target_names": [
+            "lithuania"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "d. eres",
+            "diaporthe eres"
+        ],
+        "target_names": [
+            "chile"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "diaporthe cercidis"
+        ],
+        "target_names": [
+            "populus davidiana \u00d7 p. bolleana"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "postharvest fruit rot disease"
+        ],
+        "target_names": [
+            "hardy kiwifruit"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "d. eres",
+            "diaporthe eres"
+        ],
+        "target_names": [
+            "hardy kiwifruit"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "d. eres",
+            "diaporthe eres"
+        ],
+        "target_names": [
+            "italy"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "leaf spot disease"
+        ],
+        "target_names": [
+            "machilus thunbergii"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "nigrospora sphaerica"
+        ],
+        "target_names": [
+            "china"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "leaf spot disease"
+        ],
+        "target_names": [
+            "korea"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "diaporthe phoenicicola"
+        ],
+        "target_names": [
+            "vaccinium virgatum"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "d. eres",
+            "diaporthe eres"
+        ],
+        "target_names": [
+            "korea"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "vaccinium spp.",
+            "blueberry",
+            "blueberry cultivation"
+        ],
+        "target_names": [
+            "u.s.a"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "diaporthe cercidis"
+        ],
+        "target_names": [
+            "china"
+        ]
+    }
 ]

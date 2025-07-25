@@ -1,29 +1,29 @@
 [
-    [
-        "Has been found on",
-        [
-            "bactrocera dorsalis"
-        ],
-        [
-            "citrus fruits"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "bactrocera dorsalis"
-        ],
-        [
-            "petite-ile"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "citrus fruits"
         ],
-        [
+        "target_names": [
             "petite-ile"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "bactrocera dorsalis"
+        ],
+        "target_names": [
+            "petite-ile"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "bactrocera dorsalis"
+        ],
+        "target_names": [
+            "citrus fruits"
+        ]
+    }
 ]

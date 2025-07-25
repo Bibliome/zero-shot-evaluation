@@ -1,35 +1,35 @@
 [
-    [
-        "Located in",
-        [
-            "scots pine dieback"
-        ],
-        [
-            "southeastern part of france",
-            "southeast france"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "pine processionary moth",
+    {
+        "type": "has been found on",
+        "source_names": [
             "thaumetopoea pityocampa den. & schiff.",
-            "processionary moth"
+            "processionary moth",
+            "pine processionary moth"
         ],
-        [
-            "scots pine",
-            "pinus sylvestris"
+        "target_names": [
+            "pinus sylvestris",
+            "scots pine"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "viscum album l",
             "mistletoe"
         ],
-        [
-            "scots pine",
-            "pinus sylvestris"
+        "target_names": [
+            "pinus sylvestris",
+            "scots pine"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "scots pine dieback"
+        ],
+        "target_names": [
+            "southeast france",
+            "southeastern part of france"
+        ]
+    }
 ]

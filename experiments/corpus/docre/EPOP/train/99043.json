@@ -1,55 +1,55 @@
 [
-    [
-        "Located in",
-        [
+    {
+        "type": "affects",
+        "source_names": [
+            "hlb",
+            "huanglongbing"
+        ],
+        "target_names": [
             "citrus plants",
             "citrus fruits"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "hlb",
+            "huanglongbing"
         ],
-        [
+        "target_names": [
             "province of tucum\u00e1n"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "citrus plants",
             "citrus fruits"
         ],
-        [
+        "target_names": [
+            "province of tucum\u00e1n"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "hlb",
+            "huanglongbing"
+        ],
+        "target_names": [
             "town of los vasquez",
             "san miguel de tucum\u00e1n"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "huanglongbing",
-            "hlb"
-        ],
-        [
-            "province of tucum\u00e1n"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "huanglongbing",
-            "hlb"
-        ],
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "citrus plants",
             "citrus fruits"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "huanglongbing",
-            "hlb"
         ],
-        [
+        "target_names": [
             "town of los vasquez",
             "san miguel de tucum\u00e1n"
         ]
-    ]
+    }
 ]

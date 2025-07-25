@@ -1,20 +1,20 @@
 [
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "xylella fastidiosa"
         ],
-        [
+        "target_names": [
             "aude"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylella fastidiosa"
         ],
-        [
+        "target_names": [
             "france"
         ]
-    ]
+    }
 ]

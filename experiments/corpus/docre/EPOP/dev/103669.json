@@ -1,12 +1,12 @@
 [
-    [
-        "Has been found on",
-        [
+    {
+        "type": "has been found on",
+        "source_names": [
             "fall armyworm"
         ],
-        [
+        "target_names": [
             "maize",
             "corn"
         ]
-    ]
+    }
 ]

@@ -1,38 +1,38 @@
 [
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "phyllosticta citricarpa"
         ],
-        [
+        "target_names": [
             "south africa"
         ]
-    ],
-    [
-        "Causes",
-        [
-            "phyllosticta citricarpa"
-        ],
-        [
-            "disease of citrus black spot"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "citrus"
         ],
-        [
+        "target_names": [
             "european union"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "phyllosticta citricarpa"
+        ],
+        "target_names": [
+            "disease of citrus black spot"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "disease of citrus black spot"
         ],
-        [
+        "target_names": [
             "south africa"
         ]
-    ]
+    }
 ]

@@ -1,22 +1,22 @@
 [
-    [
-        "Transmits",
-        [
+    {
+        "type": "transmits",
+        "source_names": [
             "scaphoideus titanus ball"
         ],
-        [
+        "target_names": [
             "flavescence dor\u00e9e phytoplasma",
             "phytoplasma flavescence dor\u00e9e phytoplasma"
         ]
-    ],
-    [
-        "Causes",
-        [
+    },
+    {
+        "type": "causes",
+        "source_names": [
             "flavescence dor\u00e9e phytoplasma",
             "phytoplasma flavescence dor\u00e9e phytoplasma"
         ],
-        [
+        "target_names": [
             "golden flavescence"
         ]
-    ]
+    }
 ]

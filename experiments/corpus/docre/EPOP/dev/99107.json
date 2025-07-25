@@ -1,141 +1,141 @@
 [
-    [
-        "Has been found on",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "african psila"
         ],
-        [
-            "varieties of citrus fruits",
-            "citrus trees"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "african psila"
-        ],
-        [
+        "target_names": [
+            "municipality of miengo",
             "mogro",
             "town of mogro",
-            "municipality of miengo",
             "miengo"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "lemon"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "african psila"
         ],
-        [
+        "target_names": [
+            "canary islands"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "orange"
+        ],
+        "target_names": [
             "cantabria",
             "cantabrian coast"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "african psila"
         ],
-        [
-            "mandarin trees"
+        "target_names": [
+            "northern portugal"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "lemon"
+        ],
+        "target_names": [
+            "cantabria",
+            "cantabrian coast"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "varieties of citrus fruits",
             "citrus trees"
         ],
-        [
+        "target_names": [
             "cantabria",
             "cantabrian coast"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "orange"
-        ],
-        [
-            "cantabria",
-            "cantabrian coast"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "african psila"
         ],
-        [
-            "northern portugal"
-        ]
-    ],
-    [
-        "Transmits",
-        [
-            "african psila"
-        ],
-        [
-            "hlb",
-            "huanglongbing",
-            "greening of trees. citrus",
-            "greening"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "african psila"
-        ],
-        [
+        "target_names": [
             "orange"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "mandarin trees"
-        ],
-        [
-            "cantabria",
-            "cantabrian coast"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "african psila"
         ],
-        [
-            "canary islands"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "african psila"
-        ],
-        [
+        "target_names": [
             "galicia"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "african psila"
         ],
-        [
+        "target_names": [
+            "lemon"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "mandarin trees"
+        ],
+        "target_names": [
             "cantabria",
             "cantabrian coast"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "african psila"
         ],
-        [
-            "lemon"
+        "target_names": [
+            "varieties of citrus fruits",
+            "citrus trees"
         ]
-    ]
+    },
+    {
+        "type": "transmits",
+        "source_names": [
+            "african psila"
+        ],
+        "target_names": [
+            "huanglongbing",
+            "greening of trees. citrus",
+            "hlb",
+            "greening"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "african psila"
+        ],
+        "target_names": [
+            "mandarin trees"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "african psila"
+        ],
+        "target_names": [
+            "cantabria",
+            "cantabrian coast"
+        ]
+    }
 ]

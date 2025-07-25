@@ -1,228 +1,228 @@
 [
-    [
-        "Located in",
-        [
-            "faw",
-            "fall armyworm",
-            "spodoptera frugiperda"
-        ],
-        [
-            "china"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "faw",
-            "fall armyworm",
-            "spodoptera frugiperda"
-        ],
-        [
-            "asia"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "maize"
         ],
-        [
-            "africa",
-            "most of africa"
+        "target_names": [
+            "asia"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
             "faw",
-            "fall armyworm",
-            "spodoptera frugiperda"
+            "fall armyworm"
         ],
-        [
-            "tropical pacific islands"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "faw",
-            "fall armyworm",
-            "spodoptera frugiperda"
-        ],
-        [
-            "soybean"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "faw",
-            "fall armyworm",
-            "spodoptera frugiperda"
-        ],
-        [
-            "australasia"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "faw",
-            "fall armyworm",
-            "spodoptera frugiperda"
-        ],
-        [
-            "cotton"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "faw",
-            "fall armyworm",
-            "spodoptera frugiperda"
-        ],
-        [
+        "target_names": [
             "middle east"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "spodoptera frugiperda",
             "faw",
-            "fall armyworm",
-            "spodoptera frugiperda"
+            "fall armyworm"
         ],
-        [
-            "europe"
+        "target_names": [
+            "soybean"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
             "faw",
-            "fall armyworm",
-            "spodoptera frugiperda"
+            "fall armyworm"
         ],
-        [
+        "target_names": [
+            "oceania"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
+            "faw",
+            "fall armyworm"
+        ],
+        "target_names": [
+            "australasia"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
+            "faw",
+            "fall armyworm"
+        ],
+        "target_names": [
+            "asia"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
+            "faw",
+            "fall armyworm"
+        ],
+        "target_names": [
+            "zimbabwe"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
+            "faw",
+            "fall armyworm"
+        ],
+        "target_names": [
+            "korean peninsula"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "spodoptera frugiperda",
+            "faw",
+            "fall armyworm"
+        ],
+        "target_names": [
+            "rice"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "spodoptera frugiperda",
+            "faw",
+            "fall armyworm"
+        ],
+        "target_names": [
+            "sorghum"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
+            "faw",
+            "fall armyworm"
+        ],
+        "target_names": [
             "americas",
             "tropical and subtropical areas of the americas"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "faw",
-            "fall armyworm",
-            "spodoptera frugiperda"
-        ],
-        [
-            "oceania"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "faw",
-            "fall armyworm",
-            "spodoptera frugiperda"
-        ],
-        [
-            "zimbabwe"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "maize"
         ],
-        [
-            "asia"
+        "target_names": [
+            "most of africa",
+            "africa"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "spodoptera frugiperda",
             "faw",
-            "fall armyworm",
-            "spodoptera frugiperda"
+            "fall armyworm"
         ],
-        [
-            "rice"
+        "target_names": [
+            "cotton"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
             "faw",
-            "fall armyworm",
-            "spodoptera frugiperda"
+            "fall armyworm"
         ],
-        [
-            "africa",
-            "most of africa"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "faw",
-            "fall armyworm",
-            "spodoptera frugiperda"
-        ],
-        [
+        "target_names": [
             "japan"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "maize"
         ],
-        [
-            "australasia"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "faw",
-            "fall armyworm",
-            "spodoptera frugiperda"
-        ],
-        [
-            "korean peninsula"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "maize"
-        ],
-        [
+        "target_names": [
             "middle east"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
             "faw",
-            "fall armyworm",
-            "spodoptera frugiperda"
+            "fall armyworm"
         ],
-        [
+        "target_names": [
+            "europe"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
+            "faw",
+            "fall armyworm"
+        ],
+        "target_names": [
+            "most of africa",
+            "africa"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
+            "faw",
+            "fall armyworm"
+        ],
+        "target_names": [
+            "china"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
+            "faw",
+            "fall armyworm"
+        ],
+        "target_names": [
+            "tropical pacific islands"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "spodoptera frugiperda",
+            "faw",
+            "fall armyworm"
+        ],
+        "target_names": [
             "maize"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "faw",
-            "fall armyworm",
-            "spodoptera frugiperda"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "maize"
         ],
-        [
-            "sorghum"
+        "target_names": [
+            "australasia"
         ]
-    ]
+    }
 ]

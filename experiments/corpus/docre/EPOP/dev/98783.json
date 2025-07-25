@@ -1,125 +1,125 @@
 [
-    [
-        "Located in",
-        [
-            "banana variety",
-            "bananas",
-            "banana plantation",
-            "banana plantations",
-            "banana"
-        ],
-        [
-            "buganda"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "banana bunchy top disease",
             "banana bunchy"
         ],
-        [
-            "kasese district"
+        "target_names": [
+            "mpondwe"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "banana variety",
-            "bananas",
-            "banana plantation",
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "banana",
             "banana plantations",
-            "banana"
+            "bananas",
+            "banana variety",
+            "banana plantation"
         ],
-        [
+        "target_names": [
             "asia"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "maize"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "banana",
+            "banana plantations",
+            "bananas",
+            "banana variety",
+            "banana plantation"
         ],
-        [
+        "target_names": [
             "malawi"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "banana variety",
-            "bananas",
-            "banana plantation",
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "banana",
             "banana plantations",
-            "banana"
+            "bananas",
+            "banana variety",
+            "banana plantation"
         ],
-        [
+        "target_names": [
+            "arua",
+            "arua district"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "banana",
+            "banana plantations",
+            "bananas",
+            "banana variety",
+            "banana plantation"
+        ],
+        "target_names": [
+            "ankole"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "banana bunchy top disease",
+            "banana bunchy"
+        ],
+        "target_names": [
+            "kasese district"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "banana bunchy top disease",
+            "banana bunchy"
+        ],
+        "target_names": [
+            "banana",
+            "banana plantations",
+            "bananas",
+            "banana variety",
+            "banana plantation"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "maize"
+        ],
+        "target_names": [
+            "malawi"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "banana",
+            "banana plantations",
+            "bananas",
+            "banana variety",
+            "banana plantation"
+        ],
+        "target_names": [
             "uganda",
             "west nile region"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "banana variety",
-            "bananas",
-            "banana plantation",
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "banana",
             "banana plantations",
-            "banana"
-        ],
-        [
-            "ankole"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "banana bunchy top disease",
-            "banana bunchy"
-        ],
-        [
-            "banana variety",
             "bananas",
-            "banana plantation",
-            "banana plantations",
-            "banana"
-        ]
-    ],
-    [
-        "Located in",
-        [
             "banana variety",
-            "bananas",
-            "banana plantation",
-            "banana plantations",
-            "banana"
+            "banana plantation"
         ],
-        [
-            "malawi"
+        "target_names": [
+            "buganda"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "banana variety",
-            "bananas",
-            "banana plantation",
-            "banana plantations",
-            "banana"
-        ],
-        [
-            "arua district",
-            "arua"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "banana bunchy top disease",
-            "banana bunchy"
-        ],
-        [
-            "mpondwe"
-        ]
-    ]
+    }
 ]

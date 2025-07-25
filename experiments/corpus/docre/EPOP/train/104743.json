@@ -1,33 +1,33 @@
 [
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "xylella fastidiosa",
             "xylella"
         ],
-        [
+        "target_names": [
             "salento area"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive",
+            "olive trees"
+        ],
+        "target_names": [
+            "salento area"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "xylella fastidiosa",
             "xylella"
         ],
-        [
-            "olive trees",
-            "olive"
+        "target_names": [
+            "olive",
+            "olive trees"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees",
-            "olive"
-        ],
-        [
-            "salento area"
-        ]
-    ]
+    }
 ]

@@ -1,96 +1,96 @@
 [
-    [
-        "Has been found on",
-        [
-            "tr4",
-            "foc tr4"
+    {
+        "type": "affects",
+        "source_names": [
+            "fusarium wilt"
         ],
-        [
+        "target_names": [
             "variety banana",
             "banana"
         ]
-    ],
-    [
-        "Affects",
-        [
-            "fusarium wilt"
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tr4",
+            "foc tr4"
         ],
-        [
+        "target_names": [
+            "cavendish banana plants",
+            "cavendish",
+            "cavendish banana variety"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tr4",
+            "foc tr4"
+        ],
+        "target_names": [
             "variety banana",
             "banana"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tr4",
-            "foc tr4"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "panama disease"
         ],
-        [
-            "cavendish banana plants",
-            "cavendish",
-            "cavendish banana variety"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "cavendish banana plants",
-            "cavendish",
-            "cavendish banana variety"
-        ],
-        [
+        "target_names": [
             "colombia"
         ]
-    ],
-    [
-        "Causes",
-        [
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "panama disease"
+        ],
+        "target_names": [
+            "cavendish banana plants",
+            "cavendish",
+            "cavendish banana variety"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "cavendish banana plants",
+            "cavendish",
+            "cavendish banana variety"
+        ],
+        "target_names": [
+            "colombia"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
             "tr4",
             "foc tr4"
         ],
-        [
+        "target_names": [
             "fusarium wilt"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "tr4",
             "foc tr4"
         ],
-        [
+        "target_names": [
             "colombia"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "panama disease"
-        ],
-        [
-            "colombia"
-        ]
-    ],
-    [
-        "Causes",
-        [
+    },
+    {
+        "type": "causes",
+        "source_names": [
             "tr4",
             "foc tr4"
         ],
-        [
+        "target_names": [
             "panama disease"
         ]
-    ],
-    [
-        "Affects",
-        [
-            "panama disease"
-        ],
-        [
-            "cavendish banana plants",
-            "cavendish",
-            "cavendish banana variety"
-        ]
-    ]
+    }
 ]

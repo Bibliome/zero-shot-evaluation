@@ -1,523 +1,523 @@
 [
-    [
-        "Has been found on",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "phytophthora cryptogea"
         ],
-        [
-            "pinus radiata trees"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "pythium spiculum"
-        ],
-        [
-            "spain",
-            "iberia"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "quercus suber l.",
-            "cork oaks",
-            "coark oak",
-            "quercus suber trees",
-            "cork oak",
-            "q. suber",
-            "cork oak trees"
-        ],
-        [
-            "ma\u00e2mora forest"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "pedunculate oak"
-        ],
-        [
-            "czech republic"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "phytophthora plurivora"
-        ],
-        [
-            "czech republic"
-        ]
-    ],
-    [
-        "Causes",
-        [
-            "phytophthora acerina"
-        ],
-        [
-            "root rot"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "oak decline"
-        ],
-        [
-            "morocco"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "phytophthora cryptogea"
-        ],
-        [
+        "target_names": [
             "italy"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "phytophthora quercina jung",
-            "phytophthora quercina",
-            "p. quercina",
-            "p. quercina (kf358229 and kf358241 accessions"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "q. suber",
+            "cork oak trees",
+            "cork oak",
+            "quercus suber l.",
+            "coark oak",
+            "cork oaks",
+            "quercus suber trees"
         ],
-        [
+        "target_names": [
+            "algeria"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "phytophthora quercina",
+            "p. quercina (kf358229 and kf358241 accessions",
+            "phytophthora quercina jung",
+            "p. quercina"
+        ],
+        "target_names": [
+            "oaks"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "cork oak decline"
+        ],
+        "target_names": [
+            "tunisia"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "phytophthora quercina",
+            "p. quercina (kf358229 and kf358241 accessions",
+            "phytophthora quercina jung",
+            "p. quercina"
+        ],
+        "target_names": [
+            "italy"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "pythium spiculum"
+        ],
+        "target_names": [
+            "root rot"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "oaks"
+        ],
+        "target_names": [
             "north african"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "phytophthora quercina jung",
-            "phytophthora quercina",
-            "p. quercina",
-            "p. quercina (kf358229 and kf358241 accessions"
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "cork oak decline"
         ],
-        [
+        "target_names": [
+            "q. suber",
+            "cork oak trees",
+            "cork oak",
+            "quercus suber l.",
+            "coark oak",
+            "cork oaks",
+            "quercus suber trees"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "phytophthora quercina",
+            "p. quercina (kf358229 and kf358241 accessions",
+            "phytophthora quercina jung",
+            "p. quercina"
+        ],
+        "target_names": [
+            "q. suber",
+            "cork oak trees",
+            "cork oak",
+            "quercus suber l.",
+            "coark oak",
+            "cork oaks",
+            "quercus suber trees"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "metasequoia glyptostroboides"
+        ],
+        "target_names": [
+            "china"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "phytophthora quercina",
+            "p. quercina (kf358229 and kf358241 accessions",
+            "phytophthora quercina jung",
+            "p. quercina"
+        ],
+        "target_names": [
+            "morocco"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "phytophthora quercina",
+            "p. quercina (kf358229 and kf358241 accessions",
+            "phytophthora quercina jung",
+            "p. quercina"
+        ],
+        "target_names": [
+            "north african"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "phytophthora occultans"
+        ],
+        "target_names": [
+            "czech republic"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "phytophthora acerina"
+        ],
+        "target_names": [
+            "root rot"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "q. suber",
+            "cork oak trees",
+            "cork oak",
+            "quercus suber l.",
+            "coark oak",
+            "cork oaks",
+            "quercus suber trees"
+        ],
+        "target_names": [
             "spain",
             "iberia"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "root rot"
+        ],
+        "target_names": [
+            "china"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "p. cinnamomi"
         ],
-        [
-            "quercus suber l.",
-            "cork oaks",
-            "coark oak",
-            "quercus suber trees",
-            "cork oak",
+        "target_names": [
             "q. suber",
-            "cork oak trees"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "cork oak decline"
-        ],
-        [
-            "italy"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "quercus suber l.",
-            "cork oaks",
-            "coark oak",
-            "quercus suber trees",
+            "cork oak trees",
             "cork oak",
-            "q. suber",
-            "cork oak trees"
+            "quercus suber l.",
+            "coark oak",
+            "cork oaks",
+            "quercus suber trees"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "root rot"
         ],
-        [
+        "target_names": [
             "spain",
             "iberia"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "quercus suber l.",
-            "cork oaks",
-            "coark oak",
-            "quercus suber trees",
-            "cork oak",
-            "q. suber",
-            "cork oak trees"
-        ],
-        [
-            "nw africa"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "phytophthora plurivora"
-        ],
-        [
-            "pedunculate oak"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "quercus suber l.",
-            "cork oaks",
-            "coark oak",
-            "quercus suber trees",
-            "cork oak",
-            "q. suber",
-            "cork oak trees"
-        ],
-        [
-            "tunisia"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "phytophthora occultans"
-        ],
-        [
-            "buxus sempervirens"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "root rot"
-        ],
-        [
-            "china"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "pinus radiata trees"
         ],
-        [
+        "target_names": [
             "italy"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "phytophthora quercina jung",
-            "phytophthora quercina",
-            "p. quercina",
-            "p. quercina (kf358229 and kf358241 accessions"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "q. suber",
+            "cork oak trees",
+            "cork oak",
+            "quercus suber l.",
+            "coark oak",
+            "cork oaks",
+            "quercus suber trees"
         ],
-        [
-            "oaks"
+        "target_names": [
+            "nw africa"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "root rot"
-        ],
-        [
-            "czech republic"
-        ]
-    ],
-    [
-        "Causes",
-        [
-            "phytophthora plurivora"
-        ],
-        [
-            "root rot"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "root rot"
-        ],
-        [
-            "metasequoia glyptostroboides"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "cork oak decline"
         ],
-        [
+        "target_names": [
             "algeria"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "phytophthora quercina jung",
-            "phytophthora quercina",
-            "p. quercina",
-            "p. quercina (kf358229 and kf358241 accessions"
-        ],
-        [
-            "morocco"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "root rot"
-        ],
-        [
-            "quercus suber l.",
-            "cork oaks",
-            "coark oak",
-            "quercus suber trees",
-            "cork oak",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "q. suber",
-            "cork oak trees"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "pythium spiculum"
-        ],
-        [
-            "quercus suber l.",
-            "cork oaks",
-            "coark oak",
-            "quercus suber trees",
+            "cork oak trees",
             "cork oak",
-            "q. suber",
-            "cork oak trees"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "cork oak decline"
-        ],
-        [
             "quercus suber l.",
-            "cork oaks",
             "coark oak",
-            "quercus suber trees",
-            "cork oak",
-            "q. suber",
-            "cork oak trees"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "phytophthora quercina jung",
-            "phytophthora quercina",
-            "p. quercina",
-            "p. quercina (kf358229 and kf358241 accessions"
-        ],
-        [
-            "italy"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "root rot"
-        ],
-        [
-            "pedunculate oak"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "quercus suber l.",
             "cork oaks",
-            "coark oak",
-            "quercus suber trees",
-            "cork oak",
-            "q. suber",
-            "cork oak trees"
+            "quercus suber trees"
         ],
-        [
-            "morocco"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "quercus suber l.",
-            "cork oaks",
-            "coark oak",
-            "quercus suber trees",
-            "cork oak",
-            "q. suber",
-            "cork oak trees"
-        ],
-        [
-            "italy"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "phytophthora quercina jung",
-            "phytophthora quercina",
-            "p. quercina",
-            "p. quercina (kf358229 and kf358241 accessions"
-        ],
-        [
-            "quercus suber l.",
-            "cork oaks",
-            "coark oak",
-            "quercus suber trees",
-            "cork oak",
-            "q. suber",
-            "cork oak trees"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "phytophthora acerina"
-        ],
-        [
-            "china"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "phytophthora acerina"
-        ],
-        [
-            "metasequoia glyptostroboides"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "metasequoia glyptostroboides"
-        ],
-        [
-            "china"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "root rot"
-        ],
-        [
-            "spain",
-            "iberia"
-        ]
-    ],
-    [
-        "Causes",
-        [
-            "pythium spiculum"
-        ],
-        [
-            "root rot"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "quercus suber l.",
-            "cork oaks",
-            "coark oak",
-            "quercus suber trees",
-            "cork oak",
-            "q. suber",
-            "cork oak trees"
-        ],
-        [
-            "touazithe"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "quercus suber l.",
-            "cork oaks",
-            "coark oak",
-            "quercus suber trees",
-            "cork oak",
-            "q. suber",
-            "cork oak trees"
-        ],
-        [
+        "target_names": [
             "sw europe"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "cork oak decline"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "pythium spiculum"
         ],
-        [
+        "target_names": [
             "spain",
             "iberia"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "cork oak decline"
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "phytophthora plurivora"
         ],
-        [
-            "tunisia"
+        "target_names": [
+            "pedunculate oak"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "phytophthora occultans"
-        ],
-        [
-            "czech republic"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "quercus suber l.",
-            "cork oaks",
-            "coark oak",
-            "quercus suber trees",
-            "cork oak",
-            "q. suber",
-            "cork oak trees"
-        ],
-        [
-            "algeria"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "buxus sempervirens"
         ],
-        [
+        "target_names": [
             "czech republic"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "oaks"
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "root rot"
         ],
-        [
-            "north african"
+        "target_names": [
+            "metasequoia glyptostroboides"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "q. suber",
+            "cork oak trees",
+            "cork oak",
+            "quercus suber l.",
+            "coark oak",
+            "cork oaks",
+            "quercus suber trees"
+        ],
+        "target_names": [
+            "italy"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "phytophthora acerina"
+        ],
+        "target_names": [
+            "metasequoia glyptostroboides"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "q. suber",
+            "cork oak trees",
+            "cork oak",
+            "quercus suber l.",
+            "coark oak",
+            "cork oaks",
+            "quercus suber trees"
+        ],
+        "target_names": [
+            "morocco"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "q. suber",
+            "cork oak trees",
+            "cork oak",
+            "quercus suber l.",
+            "coark oak",
+            "cork oaks",
+            "quercus suber trees"
+        ],
+        "target_names": [
+            "tunisia"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "pythium spiculum"
+        ],
+        "target_names": [
+            "q. suber",
+            "cork oak trees",
+            "cork oak",
+            "quercus suber l.",
+            "coark oak",
+            "cork oaks",
+            "quercus suber trees"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "cork oak decline"
+        ],
+        "target_names": [
+            "spain",
+            "iberia"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "root rot"
+        ],
+        "target_names": [
+            "czech republic"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "phytophthora plurivora"
+        ],
+        "target_names": [
+            "czech republic"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "phytophthora occultans"
+        ],
+        "target_names": [
+            "buxus sempervirens"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "root rot"
+        ],
+        "target_names": [
+            "q. suber",
+            "cork oak trees",
+            "cork oak",
+            "quercus suber l.",
+            "coark oak",
+            "cork oaks",
+            "quercus suber trees"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "root rot"
+        ],
+        "target_names": [
+            "pedunculate oak"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "phytophthora cryptogea"
+        ],
+        "target_names": [
+            "pinus radiata trees"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "phytophthora acerina"
+        ],
+        "target_names": [
+            "china"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "oak decline"
+        ],
+        "target_names": [
+            "morocco"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "q. suber",
+            "cork oak trees",
+            "cork oak",
+            "quercus suber l.",
+            "coark oak",
+            "cork oaks",
+            "quercus suber trees"
+        ],
+        "target_names": [
+            "touazithe"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "phytophthora plurivora"
+        ],
+        "target_names": [
+            "root rot"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "q. suber",
+            "cork oak trees",
+            "cork oak",
+            "quercus suber l.",
+            "coark oak",
+            "cork oaks",
+            "quercus suber trees"
+        ],
+        "target_names": [
+            "ma\u00e2mora forest"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "phytophthora quercina",
+            "p. quercina (kf358229 and kf358241 accessions",
+            "phytophthora quercina jung",
+            "p. quercina"
+        ],
+        "target_names": [
+            "spain",
+            "iberia"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "cork oak decline"
+        ],
+        "target_names": [
+            "italy"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "pedunculate oak"
+        ],
+        "target_names": [
+            "czech republic"
+        ]
+    }
 ]

@@ -1,24 +1,24 @@
 [
-    [
-        "Located in",
-        [
-            "oriental fruit fly",
+    {
+        "type": "located in",
+        "source_names": [
             "oriental fruit flies",
-            "citrus fruit fly"
+            "citrus fruit fly",
+            "oriental fruit fly"
         ],
-        [
+        "target_names": [
             "philippines"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "oriental fruit fly",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "oriental fruit flies",
-            "citrus fruit fly"
+            "citrus fruit fly",
+            "oriental fruit fly"
         ],
-        [
+        "target_names": [
             "taiwan"
         ]
-    ]
+    }
 ]

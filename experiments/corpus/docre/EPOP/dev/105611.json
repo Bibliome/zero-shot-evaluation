@@ -1,454 +1,454 @@
 [
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
+            "olive tree",
+            "olive trees",
+            "olives"
+        ],
+        "target_names": [
+            "monteiasi"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylella fastidiosa",
             "xylella"
         ],
-        [
+        "target_names": [
+            "puglia",
+            "apulian territory"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive tree",
+            "olive trees",
+            "olives"
+        ],
+        "target_names": [
+            "castellana",
+            "countryside of castellana grotte"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "bari area",
+            "territory of the province of bari"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive tree",
+            "olive trees",
+            "olives"
+        ],
+        "target_names": [
             "province of taranto"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylella fastidiosa",
             "xylella"
         ],
-        [
+        "target_names": [
+            "monteiasi"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "castellana",
+            "countryside of castellana grotte"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "province of taranto"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive tree",
+            "olive trees",
+            "olives"
+        ],
+        "target_names": [
             "torricella"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive tree",
+            "olive trees",
+            "olives"
+        ],
+        "target_names": [
+            "fragagnano"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylella fastidiosa",
             "xylella"
         ],
-        [
-            "countryside of castellana grotte",
-            "castellana"
+        "target_names": [
+            "fragagnano"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "torricella"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "olive groves"
         ],
-        [
+        "target_names": [
             "entire province of brindisi",
             "entire provinces brindisi"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive tree",
+            "olive trees",
+            "olives"
+        ],
+        "target_names": [
+            "carosino"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "xylella fastidiosa",
             "xylella"
         ],
-        [
-            "entire province of brindisi",
-            "entire provinces brindisi"
+        "target_names": [
+            "olive groves"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "olive tree",
+            "olive trees",
             "olives"
         ],
-        [
-            "avetrana"
+        "target_names": [
+            "maruggio"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees",
-            "olive tree",
-            "olives"
-        ],
-        [
-            "apulian territory",
-            "puglia"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees",
-            "olive tree",
-            "olives"
-        ],
-        [
-            "roccaforzata"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylella fastidiosa",
             "xylella"
         ],
-        [
+        "target_names": [
+            "maruggio"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive tree",
+            "olive trees",
+            "olives"
+        ],
+        "target_names": [
             "polignano a mare",
             "polignano"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylella fastidiosa",
             "xylella"
         ],
-        [
-            "lizzano"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees",
-            "olive tree",
-            "olives"
-        ],
-        [
-            "san marzano di san giuseppe"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "territory of the province of bari",
-            "bari area"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees",
-            "olive tree",
-            "olives"
-        ],
-        [
-            "maruggio"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "sava"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "maruggio"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees",
-            "olive tree",
-            "olives"
-        ],
-        [
-            "entire provinces of lecce",
-            "province of lecce"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees",
-            "olive tree",
-            "olives"
-        ],
-        [
-            "carosino"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees",
-            "olive tree",
-            "olives"
-        ],
-        [
-            "fragagnano"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees",
-            "olive tree",
-            "olives"
-        ],
-        [
-            "faggiano"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees",
-            "olive tree",
-            "olives"
-        ],
-        [
-            "monteiasi"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees",
-            "olive tree",
-            "olives"
-        ],
-        [
-            "pulsano"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees",
-            "olive tree",
-            "olives"
-        ],
-        [
-            "manduria"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "avetrana"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees",
-            "olive tree",
-            "olives"
-        ],
-        [
-            "torricella"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees",
-            "olive tree",
-            "olives"
-        ],
-        [
-            "province of taranto"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "apulian territory",
-            "puglia"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees",
-            "olive tree",
-            "olives"
-        ],
-        [
-            "countryside of castellana grotte",
-            "castellana"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "roccaforzata"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "olive groves"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees",
-            "olive tree",
-            "olives"
-        ],
-        [
-            "entire province of brindisi",
-            "entire provinces brindisi"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "san marzano di san giuseppe"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees",
-            "olive tree",
-            "olives"
-        ],
-        [
+        "target_names": [
             "polignano a mare",
             "polignano"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "xylella fastidiosa",
             "xylella"
         ],
-        [
-            "entire provinces of lecce",
-            "province of lecce"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
+        "target_names": [
             "carosino"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "fragagnano"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "faggiano"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "olive trees",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "olive tree",
-            "olives"
-        ]
-    ],
-    [
-        "Located in",
-        [
             "olive trees",
-            "olive tree",
             "olives"
         ],
-        [
-            "lizzano"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "olive trees",
-            "olive tree",
-            "olives"
-        ],
-        [
-            "sava"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "monteiasi"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
-            "pulsano"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "xylella fastidiosa",
-            "xylella"
-        ],
-        [
+        "target_names": [
             "manduria"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive tree",
+            "olive trees",
+            "olives"
+        ],
+        "target_names": [
+            "avetrana"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "manduria"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive tree",
+            "olive trees",
+            "olives"
+        ],
+        "target_names": [
+            "faggiano"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive tree",
+            "olive trees",
+            "olives"
+        ],
+        "target_names": [
+            "san marzano di san giuseppe"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive tree",
+            "olive trees",
+            "olives"
+        ],
+        "target_names": [
+            "province of lecce",
+            "entire provinces of lecce"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "san marzano di san giuseppe"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "avetrana"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "faggiano"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive tree",
+            "olive trees",
+            "olives"
+        ],
+        "target_names": [
+            "roccaforzata"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "province of lecce",
+            "entire provinces of lecce"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "roccaforzata"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive tree",
+            "olive trees",
+            "olives"
+        ],
+        "target_names": [
+            "pulsano"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "pulsano"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "olive tree",
+            "olive trees",
+            "olives"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive tree",
+            "olive trees",
+            "olives"
+        ],
+        "target_names": [
+            "sava"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive tree",
+            "olive trees",
+            "olives"
+        ],
+        "target_names": [
+            "lizzano"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive tree",
+            "olive trees",
+            "olives"
+        ],
+        "target_names": [
+            "entire province of brindisi",
+            "entire provinces brindisi"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "sava"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "lizzano"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "olive tree",
+            "olive trees",
+            "olives"
+        ],
+        "target_names": [
+            "puglia",
+            "apulian territory"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "xylella fastidiosa",
+            "xylella"
+        ],
+        "target_names": [
+            "entire province of brindisi",
+            "entire provinces brindisi"
+        ]
+    }
 ]

@@ -1,251 +1,251 @@
 [
-    [
-        "Located in",
-        [
-            "faw",
+    {
+        "type": "located in",
+        "source_names": [
             "spodoptera frugiperda",
+            "faw",
             "fall armyworm"
         ],
-        [
+        "target_names": [
             "tropical pacific islands"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "maize"
         ],
-        [
-            "most of africa",
-            "africa"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "faw",
-            "spodoptera frugiperda",
-            "fall armyworm"
-        ],
-        [
-            "cotton"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "maize"
-        ],
-        [
+        "target_names": [
             "americas",
             "tropical and subtropical areas of the americas"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "cotton"
-        ],
-        [
-            "americas",
-            "tropical and subtropical areas of the americas"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "faw",
-            "spodoptera frugiperda",
-            "fall armyworm"
-        ],
-        [
-            "australasia"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "faw",
-            "spodoptera frugiperda",
-            "fall armyworm"
-        ],
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "soybean"
+        ],
+        "target_names": [
+            "americas",
+            "tropical and subtropical areas of the americas"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "faw",
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "rice"
+        ],
+        "target_names": [
+            "americas",
+            "tropical and subtropical areas of the americas"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "spodoptera frugiperda",
+            "faw",
             "fall armyworm"
         ],
-        [
+        "target_names": [
+            "rice"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
+            "faw",
+            "fall armyworm"
+        ],
+        "target_names": [
             "zimbabwe"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "faw",
-            "spodoptera frugiperda",
-            "fall armyworm"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "cotton"
         ],
-        [
-            "most of africa",
-            "africa"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "sorghum"
-        ],
-        [
+        "target_names": [
             "americas",
             "tropical and subtropical areas of the americas"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "faw",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "spodoptera frugiperda",
+            "faw",
             "fall armyworm"
         ],
-        [
-            "americas",
-            "tropical and subtropical areas of the americas"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "faw",
-            "spodoptera frugiperda",
-            "fall armyworm"
-        ],
-        [
-            "sorghum"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "faw",
-            "spodoptera frugiperda",
-            "fall armyworm"
-        ],
-        [
-            "maize"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "faw",
-            "spodoptera frugiperda",
-            "fall armyworm"
-        ],
-        [
-            "asia"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "faw",
-            "spodoptera frugiperda",
-            "fall armyworm"
-        ],
-        [
+        "target_names": [
             "korean peninsula"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "rice"
-        ],
-        [
-            "americas",
-            "tropical and subtropical areas of the americas"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "faw",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "spodoptera frugiperda",
+            "faw",
             "fall armyworm"
         ],
-        [
-            "middle east"
+        "target_names": [
+            "africa",
+            "most of africa"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "faw",
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "spodoptera frugiperda",
+            "faw",
             "fall armyworm"
         ],
-        [
-            "oceania"
+        "target_names": [
+            "cotton"
         ]
-    ],
-    [
-        "Has been found on",
-        [
-            "faw",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "spodoptera frugiperda",
+            "faw",
             "fall armyworm"
         ],
-        [
-            "rice"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "soybean"
-        ],
-        [
-            "americas",
-            "tropical and subtropical areas of the americas"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "faw",
-            "spodoptera frugiperda",
-            "fall armyworm"
-        ],
-        [
+        "target_names": [
             "japan"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "faw",
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "spodoptera frugiperda",
+            "faw",
             "fall armyworm"
         ],
-        [
+        "target_names": [
+            "sorghum"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "maize"
+        ],
+        "target_names": [
+            "africa",
+            "most of africa"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "spodoptera frugiperda",
+            "faw",
+            "fall armyworm"
+        ],
+        "target_names": [
+            "maize"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "sorghum"
+        ],
+        "target_names": [
+            "americas",
+            "tropical and subtropical areas of the americas"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
+            "faw",
+            "fall armyworm"
+        ],
+        "target_names": [
             "europe"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "faw",
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "spodoptera frugiperda",
+            "faw",
             "fall armyworm"
         ],
-        [
+        "target_names": [
+            "oceania"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
+            "faw",
+            "fall armyworm"
+        ],
+        "target_names": [
+            "middle east"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
+            "faw",
+            "fall armyworm"
+        ],
+        "target_names": [
+            "asia"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
+            "faw",
+            "fall armyworm"
+        ],
+        "target_names": [
+            "australasia"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
+            "faw",
+            "fall armyworm"
+        ],
+        "target_names": [
+            "americas",
+            "tropical and subtropical areas of the americas"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "spodoptera frugiperda",
+            "faw",
+            "fall armyworm"
+        ],
+        "target_names": [
             "china"
         ]
-    ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "spodoptera frugiperda",
+            "faw",
+            "fall armyworm"
+        ],
+        "target_names": [
+            "soybean"
+        ]
+    }
 ]

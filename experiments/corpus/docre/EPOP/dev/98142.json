@@ -1,60 +1,60 @@
 [
-    [
-        "Located in",
-        [
-            "citrus plants",
-            "citrus",
-            "citrus fruits"
-        ],
-        [
-            "northeast of entre r\u00edos",
-            "entre r\u00edos",
-            "province of entre r\u00edos"
-        ]
-    ],
-    [
-        "Affects",
-        [
-            "hlb",
-            "huanglongbing"
-        ],
-        [
-            "citrus plants",
-            "citrus",
-            "citrus fruits"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
+    {
+        "type": "has been found on",
+        "source_names": [
             "candidatus liberibacter"
         ],
-        [
-            "citrus plants",
+        "target_names": [
             "citrus",
-            "citrus fruits"
+            "citrus fruits",
+            "citrus plants"
         ]
-    ],
-    [
-        "Causes",
-        [
+    },
+    {
+        "type": "affects",
+        "source_names": [
+            "huanglongbing",
+            "hlb"
+        ],
+        "target_names": [
+            "citrus",
+            "citrus fruits",
+            "citrus plants"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "citrus",
+            "citrus fruits",
+            "citrus plants"
+        ],
+        "target_names": [
+            "province of entre r\u00edos",
+            "northeast of entre r\u00edos",
+            "entre r\u00edos"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
             "candidatus liberibacter"
         ],
-        [
-            "hlb",
-            "huanglongbing"
+        "target_names": [
+            "huanglongbing",
+            "hlb"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "hlb",
-            "huanglongbing"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "huanglongbing",
+            "hlb"
         ],
-        [
+        "target_names": [
+            "province of entre r\u00edos",
             "northeast of entre r\u00edos",
-            "entre r\u00edos",
-            "province of entre r\u00edos"
+            "entre r\u00edos"
         ]
-    ]
+    }
 ]

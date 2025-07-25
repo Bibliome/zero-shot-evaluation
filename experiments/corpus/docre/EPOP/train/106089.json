@@ -1,86 +1,86 @@
 [
-    [
-        "Located in",
-        [
-            "tomato crops",
-            "troy variety",
+    {
+        "type": "located in",
+        "source_names": [
             "tomato",
-            "tomato plants"
+            "troy variety",
+            "tomato plants",
+            "tomato crops"
         ],
-        [
+        "target_names": [
+            "arcadia"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tomato brown fruit wrinkle virus",
+            "brown wrinkle virus",
+            "tobrfv"
+        ],
+        "target_names": [
             "community of levidi"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "tomato brown fruit wrinkle virus",
-            "tobrfv",
-            "brown wrinkle virus"
+            "brown wrinkle virus",
+            "tobrfv"
         ],
-        [
-            "tomato crops",
-            "troy variety",
-            "tomato",
-            "tomato plants"
+        "target_names": [
+            "arcadia"
         ]
-    ],
-    [
-        "Causes",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "tomato brown fruit wrinkle virus",
-            "tobrfv",
-            "brown wrinkle virus"
+            "brown wrinkle virus",
+            "tobrfv"
         ],
-        [
+        "target_names": [
+            "tomato",
+            "troy variety",
+            "tomato plants",
+            "tomato crops"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tomato",
+            "troy variety",
+            "tomato plants",
+            "tomato crops"
+        ],
+        "target_names": [
+            "community of levidi"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tomato brown fruit wrinkle virus",
+            "brown wrinkle virus",
+            "tobrfv"
+        ],
+        "target_names": [
+            "pepper plants",
+            "pepper crops",
+            "pepper"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "tomato brown fruit wrinkle virus",
+            "brown wrinkle virus",
+            "tobrfv"
+        ],
+        "target_names": [
             "brown wrinkle syndrome"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "tomato brown fruit wrinkle virus",
-            "tobrfv",
-            "brown wrinkle virus"
-        ],
-        [
-            "community of levidi"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "tomato crops",
-            "troy variety",
-            "tomato",
-            "tomato plants"
-        ],
-        [
-            "arcadia"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tomato brown fruit wrinkle virus",
-            "tobrfv",
-            "brown wrinkle virus"
-        ],
-        [
-            "pepper",
-            "pepper crops",
-            "pepper plants"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "tomato brown fruit wrinkle virus",
-            "tobrfv",
-            "brown wrinkle virus"
-        ],
-        [
-            "arcadia"
-        ]
-    ]
+    }
 ]

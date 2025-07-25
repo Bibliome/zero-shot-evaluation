@@ -1,202 +1,202 @@
 [
-    [
-        "Located in",
-        [
-            "tobrfv",
-            "jordan virus",
-            "tomato brown rugose fruit virus",
-            "tobrfv virus",
-            "tobrfv-virus"
-        ],
-        [
-            "europe"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "tobrfv",
-            "jordan virus",
-            "tomato brown rugose fruit virus",
-            "tobrfv virus",
-            "tobrfv-virus"
-        ],
-        [
-            "sicily"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "tobrfv",
-            "jordan virus",
-            "tomato brown rugose fruit virus",
-            "tobrfv virus",
-            "tobrfv-virus"
-        ],
-        [
-            "hungary"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "tomatoes",
-            "tomato farms",
-            "tomato"
-        ],
-        [
-            "netherlands",
-            "dutch"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "tomatoes",
-            "tomato farms",
-            "tomato"
-        ],
-        [
-            "europe"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "tobrfv",
-            "jordan virus",
-            "tomato brown rugose fruit virus",
-            "tobrfv virus",
-            "tobrfv-virus"
-        ],
-        [
-            "israel"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "tobamovirus",
-            "tobamoviruses"
-        ],
-        [
-            "netherlands",
-            "dutch"
-        ]
-    ],
-    [
-        "Causes",
-        [
-            "tobrfv",
-            "jordan virus",
-            "tomato brown rugose fruit virus",
-            "tobrfv virus",
-            "tobrfv-virus"
-        ],
-        [
-            "brown wrinkling of tomatoes"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "tobrfv",
-            "jordan virus",
-            "tomato brown rugose fruit virus",
-            "tobrfv virus",
-            "tobrfv-virus"
-        ],
-        [
-            "italy"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tobamovirus",
-            "tobamoviruses"
-        ],
-        [
-            "tomatoes",
-            "tomato farms",
-            "tomato"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "tobrfv",
-            "jordan virus",
-            "tomato brown rugose fruit virus",
-            "tobrfv virus",
-            "tobrfv-virus"
-        ],
-        [
-            "jordan"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "tobrfv",
-            "jordan virus",
-            "tomato brown rugose fruit virus",
-            "tobrfv virus",
-            "tobrfv-virus"
-        ],
-        [
-            "tomatoes",
-            "tomato farms",
-            "tomato"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "brown wrinkling of tomatoes"
         ],
-        [
-            "netherlands",
-            "dutch"
+        "target_names": [
+            "dutch",
+            "netherlands"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "tobrfv",
-            "jordan virus",
-            "tomato brown rugose fruit virus",
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tobrfv-virus",
             "tobrfv virus",
-            "tobrfv-virus"
+            "tomato brown rugose fruit virus",
+            "jordan virus",
+            "tobrfv"
         ],
-        [
+        "target_names": [
             "germany"
         ]
-    ],
-    [
-        "Affects",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tobrfv-virus",
+            "tobrfv virus",
+            "tomato brown rugose fruit virus",
+            "jordan virus",
+            "tobrfv"
+        ],
+        "target_names": [
+            "jordan"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tobrfv-virus",
+            "tobrfv virus",
+            "tomato brown rugose fruit virus",
+            "jordan virus",
+            "tobrfv"
+        ],
+        "target_names": [
+            "dutch",
+            "netherlands"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tomato farms",
+            "tomato",
+            "tomatoes"
+        ],
+        "target_names": [
+            "europe"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tobrfv-virus",
+            "tobrfv virus",
+            "tomato brown rugose fruit virus",
+            "jordan virus",
+            "tobrfv"
+        ],
+        "target_names": [
+            "sicily"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tobrfv-virus",
+            "tobrfv virus",
+            "tomato brown rugose fruit virus",
+            "jordan virus",
+            "tobrfv"
+        ],
+        "target_names": [
+            "italy"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
             "brown wrinkling of tomatoes"
         ],
-        [
-            "tomatoes",
+        "target_names": [
             "tomato farms",
-            "tomato"
+            "tomato",
+            "tomatoes"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "tobrfv",
-            "jordan virus",
-            "tomato brown rugose fruit virus",
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tobrfv-virus",
             "tobrfv virus",
-            "tobrfv-virus"
+            "tomato brown rugose fruit virus",
+            "jordan virus",
+            "tobrfv"
         ],
-        [
-            "netherlands",
-            "dutch"
+        "target_names": [
+            "israel"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tobrfv-virus",
+            "tobrfv virus",
+            "tomato brown rugose fruit virus",
+            "jordan virus",
+            "tobrfv"
+        ],
+        "target_names": [
+            "europe"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "tobrfv-virus",
+            "tobrfv virus",
+            "tomato brown rugose fruit virus",
+            "jordan virus",
+            "tobrfv"
+        ],
+        "target_names": [
+            "brown wrinkling of tomatoes"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tomato farms",
+            "tomato",
+            "tomatoes"
+        ],
+        "target_names": [
+            "dutch",
+            "netherlands"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tobrfv-virus",
+            "tobrfv virus",
+            "tomato brown rugose fruit virus",
+            "jordan virus",
+            "tobrfv"
+        ],
+        "target_names": [
+            "hungary"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tobamoviruses",
+            "tobamovirus"
+        ],
+        "target_names": [
+            "tomato farms",
+            "tomato",
+            "tomatoes"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tobamoviruses",
+            "tobamovirus"
+        ],
+        "target_names": [
+            "dutch",
+            "netherlands"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tobrfv-virus",
+            "tobrfv virus",
+            "tomato brown rugose fruit virus",
+            "jordan virus",
+            "tobrfv"
+        ],
+        "target_names": [
+            "tomato farms",
+            "tomato",
+            "tomatoes"
+        ]
+    }
 ]

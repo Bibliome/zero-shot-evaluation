@@ -1,32 +1,32 @@
 [
-    [
-        "Located in",
-        [
-            "tobrfv",
-            "tomato brown rugose fruit virus"
+    {
+        "type": "located in",
+        "source_names": [
+            "tomato brown rugose fruit virus",
+            "tobrfv"
         ],
-        [
-            "belgium"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "tobrfv",
-            "tomato brown rugose fruit virus"
-        ],
-        [
+        "target_names": [
             "municipality of westland"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "tobrfv",
-            "tomato brown rugose fruit virus"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tomato brown rugose fruit virus",
+            "tobrfv"
         ],
-        [
+        "target_names": [
             "netherlands"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tomato brown rugose fruit virus",
+            "tobrfv"
+        ],
+        "target_names": [
+            "belgium"
+        ]
+    }
 ]

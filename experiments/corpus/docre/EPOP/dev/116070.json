@@ -1,47 +1,47 @@
 [
-    [
-        "Located in",
-        [
-            "phyllosticta citricarpa"
-        ],
-        [
-            "south africa"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    {
+        "type": "affects",
+        "source_names": [
             "black spot disease"
         ],
-        [
-            "south africa"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
-            "phyllosticta citricarpa"
-        ],
-        [
+        "target_names": [
             "citrus"
         ]
-    ],
-    [
-        "Affects",
-        [
-            "black spot disease"
-        ],
-        [
-            "citrus"
-        ]
-    ],
-    [
-        "Causes",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "phyllosticta citricarpa"
         ],
-        [
+        "target_names": [
+            "citrus"
+        ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "phyllosticta citricarpa"
+        ],
+        "target_names": [
             "black spot disease"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "phyllosticta citricarpa"
+        ],
+        "target_names": [
+            "south africa"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "black spot disease"
+        ],
+        "target_names": [
+            "south africa"
+        ]
+    }
 ]

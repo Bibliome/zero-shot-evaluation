@@ -1,86 +1,86 @@
 [
-    [
-        "Has been found on",
-        [
+    {
+        "type": "located in",
+        "source_names": [
             "tobrfv",
             "tomato brown rot virus"
         ],
-        [
-            "paprika"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "tobrfv",
-            "tomato brown rot virus"
-        ],
-        [
-            "finland",
-            "finnish"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "tomatoes",
-            "tomato"
-        ],
-        [
-            "varsinais-suomi"
-        ]
-    ],
-    [
-        "Located in",
-        [
-            "tobrfv",
-            "tomato brown rot virus"
-        ],
-        [
+        "target_names": [
             "eu countries"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "tobrfv",
             "tomato brown rot virus"
         ],
-        [
+        "target_names": [
             "tomatoes",
             "tomato"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "tobrfv",
             "tomato brown rot virus"
         ],
-        [
+        "target_names": [
             "varsinais-suomi"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "tomatoes",
             "tomato"
         ],
-        [
-            "finland",
-            "finnish"
+        "target_names": [
+            "varsinais-suomi"
         ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "tobrfv",
             "tomato brown rot virus"
         ],
-        [
+        "target_names": [
+            "paprika"
+        ]
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tobrfv",
+            "tomato brown rot virus"
+        ],
+        "target_names": [
             "pepper",
             "peppers"
         ]
-    ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tobrfv",
+            "tomato brown rot virus"
+        ],
+        "target_names": [
+            "finland",
+            "finnish"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "tomatoes",
+            "tomato"
+        ],
+        "target_names": [
+            "finland",
+            "finnish"
+        ]
+    }
 ]

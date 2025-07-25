@@ -1,68 +1,68 @@
 [
-    [
-        "Has been found on",
-        [
-            "tr4",
-            "tropical race 4",
-            "tr4 fungus"
-        ],
-        [
-            "cavendish plants",
-            "cavendish banana plants",
-            "cavendish cv grand naine bananas",
-            "variety called gros michel",
-            "cavendish bananas",
-            "banana variety called cavendish"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
+    {
+        "type": "has been found on",
+        "source_names": [
             "tr1 fungus",
             "tr1"
         ],
-        [
+        "target_names": [
             "banana crops"
         ]
-    ],
-    [
-        "Causes",
-        [
-            "tr4",
-            "tropical race 4",
-            "tr4 fungus"
-        ],
-        [
-            "fusarium wilt of banana"
-        ]
-    ],
-    [
-        "Has been found on",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
             "tr1 fungus",
             "tr1"
         ],
-        [
-            "cavendish plants",
-            "cavendish banana plants",
-            "cavendish cv grand naine bananas",
+        "target_names": [
             "variety called gros michel",
+            "cavendish cv grand naine bananas",
+            "cavendish banana plants",
+            "banana variety called cavendish",
             "cavendish bananas",
-            "banana variety called cavendish"
+            "cavendish plants"
         ]
-    ],
-    [
-        "Affects",
-        [
+    },
+    {
+        "type": "has been found on",
+        "source_names": [
+            "tropical race 4",
+            "tr4",
+            "tr4 fungus"
+        ],
+        "target_names": [
+            "variety called gros michel",
+            "cavendish cv grand naine bananas",
+            "cavendish banana plants",
+            "banana variety called cavendish",
+            "cavendish bananas",
+            "cavendish plants"
+        ]
+    },
+    {
+        "type": "affects",
+        "source_names": [
             "fusarium wilt of banana"
         ],
-        [
-            "cavendish plants",
-            "cavendish banana plants",
-            "cavendish cv grand naine bananas",
+        "target_names": [
             "variety called gros michel",
+            "cavendish cv grand naine bananas",
+            "cavendish banana plants",
+            "banana variety called cavendish",
             "cavendish bananas",
-            "banana variety called cavendish"
+            "cavendish plants"
         ]
-    ]
+    },
+    {
+        "type": "causes",
+        "source_names": [
+            "tropical race 4",
+            "tr4",
+            "tr4 fungus"
+        ],
+        "target_names": [
+            "fusarium wilt of banana"
+        ]
+    }
 ]

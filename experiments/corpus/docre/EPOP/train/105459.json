@@ -1,13 +1,13 @@
 [
-    [
-        "Located in",
-        [
-            "asian longhorn beetle",
-            "asian long-horned beetle"
+    {
+        "type": "located in",
+        "source_names": [
+            "asian long-horned beetle",
+            "asian longhorn beetle"
         ],
-        [
+        "target_names": [
             "wiesenpark",
             "magdeburg"
         ]
-    ]
+    }
 ]

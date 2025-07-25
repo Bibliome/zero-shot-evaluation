@@ -1,48 +1,48 @@
 [
-    [
-        "Located in",
-        [
-            "persian lemon"
+    {
+        "type": "located in",
+        "source_names": [
+            "grapefruit"
         ],
-        [
+        "target_names": [
             "veracruz"
         ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "orange"
+        ],
+        "target_names": [
+            "veracruz"
+        ]
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "citrus plants",
             "citrus fruits"
         ],
-        [
+        "target_names": [
             "veracruz"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "orange"
-        ],
-        [
-            "veracruz"
-        ]
-    ],
-    [
-        "Located in",
-        [
+    },
+    {
+        "type": "located in",
+        "source_names": [
             "tangerine"
         ],
-        [
+        "target_names": [
             "veracruz"
         ]
-    ],
-    [
-        "Located in",
-        [
-            "grapefruit"
+    },
+    {
+        "type": "located in",
+        "source_names": [
+            "persian lemon"
         ],
-        [
+        "target_names": [
             "veracruz"
         ]
-    ]
+    }
 ]
